@@ -1,0 +1,1866 @@
+112-15 76 Rd
+113-15 76 Rd
+113-16 76 Rd
+114-17 77th Rd
+109-20 71 St#
+67-15 102 St
+66-25 103 St
+62-59 108 St*
+62-60 108 St
+63-09 108 St*
+63-10 108 St
+65-10 108 St*
+65-11 108 St
+65-35/39 108 St*
+66-20 108 St#
+66-34 108 St*
+66-40 108 St*
+67-10 108 St*
+67-14 108 St*
+67-38 108 St*
+67-66 108 St*
+68-10 108 St#
+68-36 108 St#
+68-37 108 St*#
+68-60 108 St#
+68-63 108 St*#
+69-09 108 St*
+69-10 108 St*
+69-40 108 St#
+69-45 108 St
+69-60 108 St*
+69-81 108 St#
+70-11 108 St#
+70-20 108 St*
+70-20 108 St*
+70-31 108 St
+70-31 108 St*
+62-59 110 St
+62-63 110 St
+62-65 110 St
+62-67 110 St
+62-71 110 St
+63-03 110 St
+63-06 110 St
+63-07 110 St
+63-10 110 St
+63-11 110 St
+63-12 110 St
+63-15 110 St
+63-16 110 St
+63-31 110 St
+63-35 110 St
+63-37 110 St
+63-41 110 St
+63-45 110 St
+63-60 110 St
+63-61 110 St
+63-65 110 St
+63-73 110 St
+66-01 110 St
+71-11 110 St
+71-36 110 St*
+71-40 112 St*
+72-10 112 St*
+72-35 112 St*
+72-36 112 St#
+72-72 112 St#
+70-01 113 St#
+
+72-38 113 St#
+72-61 113 St*
+72-81 113 St*
+75-05 113 St
+75-20 113 St
+75-23 113 St
+75-31 113 St
+76-26 113 St*
+76-35 113 St*#
+76-36 113 St*#
+77-14113 St*#
+77-15113 St*#
+77-34 113 St*#
+77-35 113 St*#
+
+W00dside,11377
+
+51-03 Bdwy#
+
+60-11 Bdwy*
+
+30-15 Hobart St*
+30-45 Hobart St*
+30-51 Hobart St*
+47-10 Laurel Hill Blvd#
+62-09 Mackintosh St#
+69-01 Northern Blvd
+59-29 Queens B1vd#
+63-11 Queens Blvd*
+53-05 Roosevelt Ave#
+54-02 Roosevelt Ave
+54-16 Roosevelt Ave#
+65-20 Roosevelt Ave
+49- 15 Skillman Ave#
+51-04 Skillman Ave#
+51-11 Skillman Ave
+51-13 Skillman Ave#
+51-15 Skilhnan Ave#
+51-17 Skillman Ave#
+51-22 Skillman Ave
+51-26 Skillman Ave#
+52-01 Skillman Ave#
+52-05 Skillman Ave
+52-06 Skillman Ave
+52-07 Skillman Ave#
+52-09 Skillman Ave#
+52-1 1 Skilhnan Ave
+52-15 Skillrnan Ave#
+52-17 Skillman Ave#
+52-21 Skillman Ave
+52-23 Skillman Ave#
+52-25 Skillman Ave#
+52-29 Skillman Ave
+53-01 Skillman Ave
+53-03 Skillrnan Ave
+53-06 Skjllrnan Ave
+53-07 Skillman Ave#
+53-09 Skillman Ave
+53-11 Skjllman Ave#
+53-15 Skillman Ave#
+53-17 Skillman Ave
+53-21 Skillman Ave
+53-23 Skillman Ave#
+53-25 Skillman Ave#
+53-29 Skillman Ave#
+53-30 Skillman Ave
+53-31 Skjllman Ave#
+54-06 Skillman Ave#
+
+Queens
+
+55-05 Woodside Ave*
+56-10 Woodside Ave
+56-14 Woodside Ave#
+56-18 Woodside Ave
+56-20 Woodside Ave#
+59-16 Woodside Ave#
+60-05 Woodside Ave#
+60-15 Woodside Ave#
+61-07 Woodside Ave#
+61-17 Woodside Ave#
+61-25 Woodside Ave#
+62-01 Woodside Ave#
+66-14 Woodside Ave#
+70-06 Woodside Ave#
+71-17 Woodside Ave
+51-10 30 Ave*
+
+51-28 30 Ave*
+
+51-34 30 Ave*
+
+51-42 30 Ave*
+
+54-17 31 Ave
+
+54-17 31 Ave*
+
+55-03 31 Ave*
+
+55-23 31 Ave*
+
+56-05 31 Ave*
+
+56-07 31 Ave
+
+58-08 31 Ave
+
+53-01 32 Ave#
+
+69-01 35 Ave*
+
+65-15 38 Ave*
+
+52-02 39 Ave*
+
+52-14 39 Ave*
+
+52-18 39 Ave*
+
+52-30 39 Ave*
+
+55-06 39 Ave#
+
+61-05 39 Ave#
+
+63-02 39 Ave#
+
+67-14 41 Ave
+
+72-15 41 Ave#
+
+73-01 41 Ave
+
+50-05 43 Ave#
+
+56-05 43 Ave#
+
+56-12 43 Ave
+
+58-06 43 Ave#
+
+58-12 43 Ave
+
+58-14 43 Ave
+
+58-16 43 Ave#
+
+58-29 43 Ave#
+
+58-32 43 Ave#
+
+58-34 43 Ave#
+
+58-36 43 Ave#
+
+58-38 43 Ave#
+
+58-40 43 Ave#
+
+58-42 43 Ave
+
+58-44 43 Ave#
+
+58-46 43 Ave#
+
+58-50 43 Ave
+
+58-61 43 Ave
+
+58-62 43 Ave
+
+58-69 43 Ave#
+
+60-06 43 Ave#
+
+61-15 43 Ave
+
+61-18 43 Ave#
+
+69-64 43 Ave
+
+69-66 43 Ave
+
+60-05 44 Ave#
+
+69-46 44 Ave
+
+44-08 47 Ave#
+
+44-14 47 Ave#
+
+28
+
+44-15 47 Ave#
+47-05 47 Ave
+47-07 47 Ave
+47-09 47 Ave#
+47-11 47 Ave#
+47-15 47 Ave
+42-05 48 Ave*#
+43-10 48 Ave#
+46-05 48 Ave
+46-09 48 Ave#
+47-06 48 Ave#
+47-10 48 Ave#
+47-15 48 Ave
+66-14 49 Ave
+66-16 49 Ave
+45-05 50 Ave#
+45-10 50 Ave#
+45-15 50 Ave#
+48-47 58 Lane
+48-51 58 Lane
+39-11 65 Place
+39-15 65 Place#
+39-19 65 Place
+39-21 65 Place#
+39-82 65 P1aee*#
+39-85 65 Place#
+42-25 65 Place
+42-60 65 Place
+42-64 65 Place#
+48-01 65 Place#
+51-38 69 Place
+51-42 69 Place
+52-05 39 Rd*
+52-09 39 Rd*
+52-21 39 Rd*
+52-25 39 Rd*
+52-31 39 Rd*
+52-35 39 Rd*
+47-25 43 St#
+47-29 43 St#
+47-31 43 St#
+47-35 43 St#
+47-37 43 St#
+47-39 43 St
+47-43 43 St#
+47-44 43 St
+47-46 43 St
+47-47 43 St#
+47-48 43 St
+47-52 43 St
+48-02 43 St#
+48-10 43 St
+48-10 43 St#
+48-18 43 St#
+48-19 43 St*#
+48-24 43 St#
+48-25 43 St*#
+48-35 43 St#
+48-41 43 St#
+48-51 43 St#
+48-55 43 St#
+47-05 44 St#
+47-11 44 St
+47-13 44 St#
+47-15 44 St
+47-19 44 St#
+47-20 44 St#
+47-21 44 St
+
+47-22 44 St#
+47-25 44 St
+47-26 44 St
+47-28 44 St#
+47-29 44 St#
+47-30 44 St#
+47-31 44 St
+47-33 44 St#
+47-34 44 St
+47-35 44 St#
+47-36 44 St
+47-38 44 St
+47-39 44 St
+47-41 44 St
+47-42 44 St
+47-43 44 St#
+47-44 44 St#
+47-46 44 St#
+47-47 44 St
+47-49 44 St#
+47-51 44 St
+47-52 44 St#
+47-55 44 St
+47-57 44 St#
+48-20 44 St"‘#
+48-26 44 St"‘#
+48-36 44 St#
+48-42 44 St#
+48-50 44 St#
+48-53 44 St#
+48-56 44 St#
+45-59 45 St#
+47-05 45 St#
+47-06 45 St#
+47-11 45 St#
+47-12 45 St
+47-14 45 St
+47-15 45 St#
+47-16 45 St#
+47-17 45 St#
+47-18 45 St#
+47-19 45 St
+47-20 45 St#
+47-21 45 St
+47-22 45 St
+47-25 45 St
+47-27 45 St#
+47-28 45 St
+47-29 45 St#
+47-30 45 St
+47-32 45 St
+47-34 45 St
+47-36 45 St#
+47-37 45 St*
+47-38 45 St#
+47-40 45 St
+47-42 45 St
+47-44 45 St#
+47-46 45 St
+47-48 45 St#
+47-50 45 St#
+47-56 45 St#
+4724 45 St
+48-10 45 St*
+48-11 45 St#
+48-25 45 St
+48-27 45 St#
+48-31 45 St#
+
+48-37 45 St
+48-41 45 St#
+48-45 45 St
+48-53 45 St#
+50-05 45 St#
+50-11 45 St
+50-13 45 St#
+50-17 45 St
+50-21 45 St
+50-23 45 St#
+50-25 45 St#
+45-35 46 St#
+45-45 46 St#
+47-06 46 St#
+47-12 46 St#
+47-16 46 St#
+47-18 46 St
+47-20 46 St
+47-22 46 St#
+47-26 46 St
+47-28 46 St#
+47-30 46 St
+47-43 46 St
+47-47 46 St#
+47-49 46 St
+48-05 46 St
+48-12 46 St#
+48-15 46 St
+48-16 46 St#
+48-16 46 St#
+48-20 46 St#
+48-25 46 St
+48-35 46 St
+48-45 46 St
+48-46 46 St#
+48-48 46 St#
+48-55 46 St
+48-56 46 St#
+50-06 46 St#
+50-12 46 St#
+45-34 47 St#
+45-35 47 St
+45-37 47 St
+45-41 47 St
+45-43 47 St
+47-11 47 St
+47-15 47 St#
+47-17 47 St
+47-21 47 St#
+47-23 47 St#
+47-25 47 St
+47-29 47 St
+47-35 47th St
+47-39 47 St#
+47-43 47 St
+47-45 47 St#
+47-49 47 St
+47-50 47 St#
+48-08 47 St
+48-11 47 St
+48-15 47 St#
+48-16 47 St
+48-17 47 St#
+48-19 47 St
+48-21 47 St#
+48-23 47 St
+48-26 47 St
+48-27 47 St
+
+48-29 47 St
+48-31 47 St
+48-33 47 St
+48-36 47 St
+48-37 47 St#
+48-39 47 St
+48-41 47 St#
+48-43 47 St
+48-46 47 St
+48-47 47 St#
+48-49 47 St#
+48-56 47 St
+45-15 48 St
+45-16 48 St#
+45-18 48 St#
+45-22 48 St#
+45-25 48 St
+45-26 48 St#
+45-35 48 St
+45-38 48 St#
+45-40 48 St
+45-44 48 St
+45-45 48 St
+45-46 48 St
+45-50 48 St#
+45-55 48 St
+47-05 48 St
+47-12 48 St
+47-14 48 St
+47-15 48 St
+47-16 48 St
+47-20 48 St#
+47-22 48 St
+47-24 48 St
+47-25 48 St
+47-26 48 St
+47-30 48 St
+47-31 48 St
+47-32 48 St
+47-35 48 St#
+47-36 48 St
+47-37 48 St
+47-38 48 St#
+47-42 48 St#
+48-04 48 St#
+48-12 48 St
+48-14 48 St
+48-18 48 St#
+48-20 48 St#
+48-28 48 St
+48-38 48 St#
+48-40 48 St
+48-42 48 St
+48-44 48 St#
+48-48 48 St
+48-50 48 St#
+45-16 49 St
+45-26 49 St
+45-36 49 St
+45-46 49 St
+45-56 49 St
+47-06 49 St
+47-16 49 St
+47-26 49 St
+39-89 50 St
+41-06 50 St#
+41-15 50 St#
+41-24 50 St
+
+Queens
+
+41-25 50 St
+41-29 50 St
+41-30 50 St
+41-32 50 St
+41-42 50 St*#
+41-46 50 St#
+39-25 51 St*
+39-77 51 St#
+39-89 51 St#
+41-15 51 St#
+41-16 51 St#
+41 -31 51 St*
+41-36 51 St*#
+41-41 51 St
+39-88 52 St
+41-03 52 St#
+41-06 52 St#
+41-07 52 St#
+41-09 52 St
+41-11 52 St
+41-12 52 St
+41-14 52 St#
+41-15 52 St#
+41-17 52 St#
+41-19 52 St#
+41-22 52 St
+41-23 52 St#
+41-24 52 St#
+41-25 52 St#
+41-26 52 St#
+41-28 52 St
+41-29 52 St#
+41-31 52 St
+41-32 52 St#
+41-35 52 St
+41-37 52 St#
+41-39 52 St#
+41-43 52 St
+41-45 52 St#
+41-02 53 St#
+41-03 53 St
+41-04 53 St#
+41-07 53 St#
+41-08 53 St#
+41-09 53 St
+41-11 53 St
+41-12 53 St
+41-15 53 St#
+41-16 53 St
+41-17 53 St#
+41-18 53 St#
+41-19 53 St
+41-20 53 St
+41-22 53 St
+41-23 53 St#
+41-24 53 St
+41-26 53 St
+41-28 53 St#
+41-29 53 St
+41-30 53 St
+41-32 53 St#
+41-61 53 St
+41-70 53 St
+41-72 53 St
+43-10 53rd St#
+43-16 53 St#
+31-20 54 St
+31-21 54 St*#
+29
+
+31-31 54 St*#
+39-60 54 St*
+41-06 54 St
+41-07 54 St
+41-08 54 St#
+41-09 54 St#
+41-10 54 St#
+41-11 54 St#
+41-14 54 SI
+41-15 54 St#
+41-16 54 St#
+41-18 54 St#
+41-21 54 St#
+41-22 54 St
+41-26 54 St
+41-56 54 St#
+43-23 54 St
+43-27 54 St
+32-11 55 St
+32-13 55 St
+41-08 55 St
+41-20 55 St#
+41-27 55 St
+41-28 55 St
+41-34 55 St
+38-25 56 St#
+39-75 56 St"‘#
+41-47 56 St#
+41-50 56 St#
+43-19 56 St#
+43-21 56 St
+39-21 57 St#
+39-23 57 St#
+39-33 57 St#
+39-76 57 St*
+43-15 57 St
+43-17 57 St#
+43-19 57 St
+43-21 57 St#
+43-25 57 St
+43-27 57 St
+43-29 57 St
+43-31 57 St
+39-23 58 St
+39-28 58 St
+39-29 58 St#
+39-30 58 St#
+41-12 58 St
+41-14 58 St
+41-16 58 St
+43-08 58 St
+43-12 58 St
+43-14 58 St#
+43-16 58 St
+43-22 58 St
+43-24 58 St
+43-26 58 St#
+37-19 59 St
+37-21 59 St
+37-29 59 St
+37-43 59 St
+39-30 59 St#
+40-05 59 St#
+47-30 59 St
+47-50 59 St
+31-06 60 St
+32-26 60 St
+32-28 60 St
+
+34-43 60 St*
+39-04 60 St#
+39-50 60 St#
+41-15 60 St#
+41-19 60 St#
+41-34 60 St#
+43-14 60 St
+37-25 61 St#
+37-33 61 St#
+37-39 61 St#
+37-44 61 St
+37-47 61 St#
+37-65 61 St#
+38-10 61 St
+40-15 61 St
+40-21 61 St#
+40-42 61 St#
+40-53 61 St#
+40-67 61 St#
+43-05 61 St#
+35-09 62 St
+37-52 62 St#
+37-53 62 St#
+37-76 62 St#
+39-11 62 St#
+39-12 62 St#
+39-15 62 St#
+39-19 62 St#
+39-26 62 St#
+39-70 62 St
+40-14 62 St
+37-02 63 St#
+37-04 63 St#
+37-08 63 St
+37-28 63 St
+37-30 63 St
+37-32 63 St#
+37-34 63 St
+37-35 63 St
+37-67 63 St#
+37-70 63 St#
+37-75 63 St#
+39-06 63 St#
+39-16 63 St
+39-18 63 St
+43-06 63 St
+35-33 64 St
+35-47 64 St
+37-05 64 St
+37-15 64 St
+37-25 64 St
+37-31 64 St#
+37-35 64 St
+37-37 64 St
+37-51 64 St#
+37-53 64 St
+37-54 64 St#
+37-55 64 St
+37-57 64 St
+37-59 64 St
+37-61 64 St#
+37-62 64 St#
+37-64 64 St
+37-67 64 St
+37-68 64 St#
+37-70 64 St#
+37-80 64 St#
+39-29 64 St#
+
+39-36 64 St
+39-55 64 St#
+44-29 64 St
+35-46 65 St
+35-58 65 St
+37-06 65 St
+37-16 65 St
+37-26 65 St
+38-05 65 St*
+39-20 65 St#
+39-24 65 St
+39-25 65 St#
+39-37 65 St
+39-39 65 St
+39-46 65 St#
+39-48 65 St
+39-62 65 St#
+43-05 65 St#
+50-32 65 St
+41-42 66 St#
+40-07 67 St#
+40-11 67 St
+40-12 67 St#
+40-14 67 St
+40-15 67 St
+40-17 67 St
+40-18 67 St#
+40-19 67 St
+40-20 67 St
+40-21 67 St
+40-22 67 St#
+40-23 67 St
+40-23 67 St
+40-27 67 St#
+40-29 67 St
+40-35 67 St#
+40-49 67 St#
+41-01 67 St#
+41-27 67 St
+41-28 67 St#
+41-29 67 St
+41-38 67 St#
+46-01 67 St
+31-16 68 St
+40-16 68 St#
+41-39 68 St#
+41-53 68 St
+32-25 69 St
+32-45 69 St
+37-06 69 St#
+40-11 69 St
+40-20 69 St
+40-33 69 St
+41-02 69 St
+41-03 69 St#
+32-50 70 St
+40-17 70 St#
+41-29 71 St
+40-11 72 St
+40-19 72 St
+41-46 72 St
+40-12 73 St#
+40-30 73 St#
+41-26 73 St#
+41 -42 73 St*
+41-45 73 St
+19-06 81 St
+
+Maspeth,11378
+
+68-19 Borden Ave#
+54-16 Flushing Ave
+61-25 Flushing Ave
+61-27 Flushing Ave
+58-30 Fresh Pond Rd
+58-34 Fresh Pond Rd#
+60-02 Fresh Pond Rd
+60-15 Fresh Pond Rd
+60-41 Fresh Pond Rd
+60-49 Fresh Pond Rd
+60-61 Fresh Pond Rd
+59-82 Grand Ave
+66-10 Grand Ave#
+69-49 Grand Ave#
+71-08 Grand Ave
+71-10 Grand Ave
+71-14 Grand Ave
+71-16 Grand Ave
+66-37 Hull Ave*
+40-23 Ithaca St
+66-37a Jay Ave
+66-37b Jay Ave
+66-37c Jay Ave
+66-37d Jay Ave
+17-21 Madison St#
+56-08 Remsen P1aoe#
+73-56 53 Ave
+
+63-18 54 Ave
+
+68-20 58 Ave
+
+64-05 53 Drive#
+59-26 56 Drive
+59-47 56 Drive#
+60-19 56 Drive
+70-35 57 Drive
+5300 65 Place#
+57-25 69 Place/#
+57-27 69 Place#
+69-18 53 Rd
+
+60-36 56 Rd#
+
+60-39 56 Rd
+
+61-49 56 Rd#
+61-49a 56 Rd#
+58-67 57 Rd
+
+60-67 59 Rd#
+
+61-49 59 Rd
+
+60-60 60 Rd
+
+60-64 60 Rd
+
+60-12 53 St#
+
+60-15 54 St
+
+60-17 54 St
+
+60-58 55 St
+
+60-59 55 St
+
+60-60 55 St
+
+61-09 55 St
+
+59-28 56 St#
+
+60-51 56 St
+
+60-74 56 St
+
+70-25 57 St
+
+57-47 58 St
+
+62-1 1 60 St#
+
+56-34 61 St
+
+56-55 61 St#
+
+57-18 61 St#
+
+59-20 61 St#
+
+60-16 61 St
+
+Queens
+
+56-52 64 St#
+53-44 68 St
+53-46 68 St
+56-18 68 St
+55-26 69 St#
+60-63 69 St*
+
+Midle Vi11age,1 1379
+
+84-53 Dana Court#
+
+61 -49 Dry Harbor Rd
+61-51 Dry Harbor Rd
+61-59 Dry Harbor Rd
+61-61 Dry Harbor Rd
+61-88 Dry Harbor Rd*
+70-06 Eliot Ave
+
+70-10 Eliot Ave
+
+70-10 Elliot Ave
+
+70-12 Eliot Ave
+
+70-14 Eliot Ave
+
+70-18 Eliot Ave
+
+77-33 Furmanville Ave
+69-15 Juniper Blvd S.
+71-26 Juniper Valley Rd
+69-15 Metropolitan Ave#
+73- 15 Metropolitan Ave
+73-21 Metropolitan Ave#
+75-55 Metropolitan Ave#
+75-57 Metropolitan Ave
+63-32 Woodhaven
+59-23 68 Ave
+
+78-01 69 Ave
+
+84-31 62 Drive
+
+84-35 62 Drive
+
+69-16 66 Drive
+
+77-02 66 Drive
+
+77-06 66 Drive
+
+77-26 66 Drive#
+
+79-30 67 Drive
+
+66-42 79 Place
+
+66-36 69 St
+
+66-53 71 St
+
+67-05 75 St#
+
+67-45 75 St#
+
+69-35 75 St#
+
+68-30 76 St
+
+67-28 78 St
+
+67-53 78 St
+
+67-54 78 St#
+
+67-56 78 St
+
+67-57 78 St#
+
+67-59 78 St
+
+68-27 78 St
+
+66-52 79 St
+
+62-05 84 St
+
+62-07 84 St
+
+62-09 84 St
+
+62-25 84 St
+
+Ridgewood,1 1385
+21-05 Amory Court#
+17-11 Bleecker St-
+17-13 Bleecker St#
+17-15 Bleecker St*
+
+30
+
+17-17 Bleecker St#
+17-19 Bleecker St
+17-21 Bleecker St
+17-23 Bleecker St
+17-25 Bleecker St
+17-27 Bleecker St#
+17-29 Bleecker St
+17-30 Bleecker St
+17-31 Bleecker St
+17-32 Bleecker St#
+17-33 Bleecker St
+17-34 Bleecker St
+18-17 Bleecker St
+18-19 Bleecker St
+18-21 Bleecker St
+18-23 Bleecker St
+18-62 Bleecker St#
+18-64 Bleecker St
+18-66 Bleecker St
+18-71 Bleecker St
+18-73 Bleecker St#
+18-78 Bleecker St#
+19-09 Bleecker St
+19-24 Bleecker St
+19-27 Bleecker St#
+19-30 Bleecker St#
+21-55 Bleecker St
+59-13 Bleecker St#
+56-13 Catalpa Ave#
+56-15 Catalpa Ave#
+56-17 Catalpa Ave#
+57-18 Catalpa Ave#
+57-20 Catalpa Ave#
+57-22 Catalapa Ave#
+57-24 Catalpa Ave#
+57-25 Catalpa Ave#
+57-26 Catalpa Ave#
+57-27 Catalpa Ave
+57-28 Catalpa Ave
+57-29 Catalpa Ave#
+57-30 Catalpa Ave
+57-31 Catalpa Ave#
+57-32 Catalpa Ave
+58-42 Catalpa Ave#
+59-O5 Catalpa Ave#
+59-07 Catalpa Ave#
+59-09 Catalpa Ave
+59-11 Catalpa Ave
+60-29 Catalpa Ave#
+60-58 Catalpa Ave
+60-60 Catalpa Ave#
+60-62 Catalpa Ave#
+60-64 Catalpa Ave
+61-01 Catalpa Ave#
+61-05 Catalpa Ave
+61 -09 Catalpa Ave
+61-11 Catalpa Ave#
+62-09 Catalpa Ave
+62-11 Catalpa Ave
+62-13 Catalpa Ave#
+62-15 Catalpa Ave
+64-32 Catalpa Ave
+64-32 Catalpa Ave#
+64-37 Catalpa Ave#
+64-41 Catalpa Ave#
+64-45 Catalpa Ave
+18-10 Center St#
+65-05 Central Ave#
+
+69- 11 Central Ave#
+69-13 Central Ave#
+71-20 Central Ave
+73-05 Central Ave#
+18-11 Centre St
+18-12 Centre St#
+18-14 Centre St
+18-15 Centre St
+18-16 Centre St#
+18-18 Centre St#
+18-20 Centre St
+18-24 Centre St
+64-15 Cooper Ave
+67-05 Cooper Ave#
+16-59 Cornelia St
+16-61 Cornelia St
+16-65 Cornelia St#
+16-67 Cornelia St
+16-69 Cornelia St
+16-71 Cornelia St
+16-75 Cornelia St
+17-19 Cornelia St#
+17-21 Cornelia St
+17-23 Cornelia St
+17-25 Cornelia St
+17-27 Cornelia St
+17-31 Cornelia St
+18-11 Comelia St
+18-15 Comelia St
+18-17 Cornelia St
+18- 19 Cornelia St
+18-21 Comelia St#
+18-22 Cornelia St#
+18-23 Comelia St
+18-24 Cornelia St#
+18-25 Cornelia St
+18-27 Cornelia St#
+18-28 Comelia St
+18-29 Comelia St
+18-30 Cornelia St#
+18-53 Comelia St
+18-54 Comelia St
+18-54 Cornelia St#
+18-57 Cornelia St#
+18-58 Cornelia St
+18-59 Cornelia St
+18-60 Cornelia St
+18-61 Cornelia St
+18-62 Cornelia St#
+18-63 Comelia St#
+18-64 Cornelia St
+18-65 Cornelia St
+18-66 Cornelia St#
+18-67 Comelia St
+18-68 Cornelia St#
+18-69 Comelia St#
+18-70 Comelia St#
+18-73 Comelia St
+18-74 Cornelia St
+18-77 Comelia St
+18-78 Comelia St
+18-81 Comelia St
+18-82 Comelia St
+18-85 Comelia St#
+18-86 Comelia St#
+18-87 Cornelia St#
+18-88 Cornelia St#
+18-89 Cornelia St#
+
+18-90 Comelia St
+18-93 Cornelia St
+18-94 Cornelia St#
+19-04 Cornelia St
+19-11 Cornelia St#
+19-15 Cornelia St#
+19-30 Cornelia St
+805 Cypress Ave#
+879 Cypress Ave
+1018 Cypress Ave#
+1042 Cypress Ave#
+1742 Dekalb Ave
+1878 Dekalb Ave
+8943 Dongan Ave
+
+89-43/52 Doran Ave
+
+463 Fairview Ave
+479 Fairview Ave#
+481 Fairview Ave
+483 Fairview Ave#
+485 Fairview Ave
+506 Fairview Ave#
+512 Fairview Ave
+516 Fairview Ave
+553 Fairview Ave
+562 Fairview Ave
+580 Fairview Ave
+592 Fairview Ave#
+601 Fairview Ave
+604 Fairview Ave
+605 Fairview Ave
+607 Fairview Ave
+609 Fairview Ave
+611 Fairview Ave#
+617 Fairview Ave
+690 Fairview Ave
+84-31 Fleet Court
+84-34 Fleet Court
+84-37 Fleet Court
+84-42 Fleet Court
+84-45 Fleet Court
+84-50 Fleet Court
+
+1905 Flushing Ave#
+1907 Flushing Ave#
+
+62-55 Forest Ave
+62-59 Forest Ave#
+63-04 Forest Ave#
+63-08 Forest Ave#
+63- 10 Forest Ave#
+63-24 Forest Ave
+63-35 Forest Ave
+63-37 Forest Ave#
+63-46 Forest Ave
+63-48 Forest Ave
+63-50 Forest Ave#
+63-54 Forest Ave#
+64-11 Forest Ave
+66-05 Forest Ave#
+66-27 Forest Ave
+66-29 Forest Ave
+66-32 Forest Ave
+66-48 Forest Ave
+67-10 Forest Ave#
+67-19 Forest Ave
+68-05 Forest Ave
+68-05 Forest Ave
+68-07 Forest Ave
+68-10 Forest Ave#
+68-15 Forest Ave
+
+69-04 Forest Ave
+72-03 Forest Ave
+72-14 Forest Ave
+63-40 FreshPond Rd#
+63-42 FreshPond Rd#
+63-44 FreshPond Rd#
+63-46 FreshPond Rd#
+63-50 FreshPond Rd#
+63-52 FreshPond Rd#
+66-01 FreshPond Rd
+66-31 FreshPond Rd#
+66-33 FreshPond Rd#
+
+_ 66-45 FreshPond Rd#
+
+66-47 FreshPond Rd#
+66-51 FreshPond Rd
+66-55 FreshPond Rd
+66-67 FreshPond Rd
+66-69 FreshPond Rd
+68-01 FreshPond Rd#
+68-05 FreshPond Rd#
+68-07 FreshPond Rd#
+68-1 1 FreshPond Rd#
+68-35 FreshPond Rd
+68-39 FreshPond Rd#
+68-43 FreshPond Rd#
+68-45 FreshPond Rd#
+71-07 FreshPond Rd
+71-09 FreshPond Rd
+71-10 FreshPond Rd#
+71-12 FreshPond Rd
+71-13 FreshPond Rd#
+71-14 FreshPond Rd#
+71-17 FreshPond Rd#
+71-20 FreshPond Rd#
+71-21 FreshPond Rd
+71-25 FreshPond Rd
+71-27 FreshPond Rd
+16-72 Gates Ave
+16-73 Gates Ave#
+16-74 Gates Ave#
+16-75 Gates Ave
+16-76 Gates Ave#
+16-77 Gates Ave
+16-78 Gates Ave#
+16-79 Gates Ave#
+16-80 Gates Ave
+16-81 Gates Ave#
+16-82 Gates Ave#
+16-83 Gates Ave#
+16-84 Gates Ave#
+16-85 Gates Ave
+16-86 Gates Ave
+16-87 Gates Ave#
+16-88 Gates Ave
+16-89 Gates Ave#
+16-90 Gates Ave#
+16-91 Gates Ave
+16-92 Gates Ave#
+17--15 Gates Ave
+17-02 Gates Ave
+17-03 Gates Ave#
+17-04 Gates Ave
+17-05 Gates Ave
+17-06 Gates Ave
+17-07 Gates Ave#
+17-08 Gates Ave#
+17-09 Gates Ave#
+17-11 Gates Ave#
+
+Queens
+
+17-12 Gates Ave
+17-13 Gates Ave#
+17-14 Gates Ave#
+17-16 Gates Ave#
+17-17 Gates Ave
+17-18 Gates Ave#
+17-19 Gates Ave
+17-20 Gates Ave
+17-21 Gates Ave
+17-22 Gates Ave#
+18-22 Gates Ave
+18-24 Gates Ave
+19-16 Gates Ave
+19-37 Gates Ave
+19-39 Gates Ave
+20-26 Gates Ave
+20-27 Gates Ave#
+20-28 Gates Ave
+20-29 Gates Ave
+20-30 Gates Ave
+20-31 Gates Ave#
+20-32 Gates Ave
+20-33 Gates Ave#
+20-34 Gates Ave#
+20-35 Gates Ave#
+20-36 Gates Ave#
+20-37 Gates Ave#
+20-38 Gates Ave#
+20-39 Gates Ave
+20-40 Gates Ave
+20-41 Gates Ave
+20-42 Gates Ave
+20-43 Gates Ave#
+20-44 Gates Ave#
+20-45 Gates Ave
+20-46 Gates Ave#
+20-47 Gates Ave
+20-48 Gates Ave
+20-49 Gates Ave#
+20-50 Gates Ave
+20-51 Gates Ave#
+20-52 Gates Ave#
+20-53 Gates Ave#
+20-54 Gates Ave#
+20-55 Gates Ave
+20-56 Gates Ave#
+20-57 Gates Ave#
+20-58 Gates Ave#
+20-59 Gates Ave
+20-60 Gates Ave#
+20-61 Gates Ave#
+21-08 Gates Ave
+59-14 Gates Ave#
+59-54 Gates Ave
+60- 12 Gates Ave
+60-30 Gates Ave
+60-39 Gates Ave#
+60-68 Gates Ave
+60-73 Gates Ave#
+16-68 George St#
+16-83 George St#
+18-06 George St#
+18-08 George St
+18-10 George St
+18-12 George St
+18-13 George St#
+18-15 George St#
+18-16 George St
+3 1
+
+18-17 George St#
+18-18 George St
+18-19 George St
+18-20 George St
+18-21 George St
+18-22 George St#
+18-23 George St
+18-24 George St
+18-25 George St#
+18-26 George St#
+18-27 George St#
+18-28 George St#
+18-30 George St#
+18-31 George St
+18-33 George St
+18-34 George St
+408 Grandview Ave
+446 Grandview Ave
+478 Grandview Ave
+480 Grandview Ave
+482 Grandview Ave
+484 Grandview Ave
+491 Grandview Ave#
+505 Grandview Ave
+509 Grandview Ave
+607 Grandview Ave#
+613 Grandview Ave#
+677 Grandview Ave#
+679 Grandview Ave
+681 Grandview Ave
+14-03A Greene Ave
+17-11 Greene Ave
+17-12 Greene Ave#
+17-13 Greene Ave#
+17-14 Greene Ave
+17-15 Greene Ave#
+17-16 Greene Ave#
+17-17 Greene Ave#
+17- 1 8 Greene Ave#
+17-19 Greene Ave#
+17-20 Greene Ave#
+17-21 Greene Ave#
+17-22 Greene Ave#
+17-23 Greene Ave
+17-24 Greene Ave#
+17-25 Greene Ave#
+17-26 Greene Ave#
+17-27 Greene Ave
+17-28 Greene Ave
+17-29 Greene Ave
+17-30 Greene Ave
+17-31 Greene Ave
+17-32 Greene Ave#
+17-33 Greene Ave#
+17-34 Greene Ave#
+18-13 Greene Ave#
+18-15 Greene Ave
+18-18 Greene Ave
+18-19 Greene Ave
+18-20 Greene Ave
+18-22 Greene Ave#
+18-67 Greene St
+Greene Ave
+
+18-79 Greene Ave#
+19-11 Greene Ave
+19-22 Greene Ave
+19-31 Greene Ave
+19-33 Greene Ave
+
+18-70
+
+20-12 Greene Ave
+20-26 Greene Ave
+16-64 Grove St
+17-11 Grove St
+17-24 Grove St
+17-25 Grove St
+17-31 Grove St
+18- 11 Grove St
+18-19 Grove St
+18-22 Grove St#
+18-76 Grove St#
+19- 12 Grove St
+19-14 Grove St
+19- 16 Grove St
+19-18 Grove St
+19-20 Grove St#
+19-22 Grove St#
+19-24 Grove St
+19-26 Grove St#
+19-28 Grove St
+19-30 Grove St
+19-36 Grove St
+20-18 Grove St
+20-21 Grove St
+20-27 Grove St
+20-30 Grove St
+20-34 Grove St
+1618 Hancock St#
+1624 Hancock St#
+17-13 Harman St
+17-14 Harman St#
+17-15 Harman St
+17-16 Hannan St
+17-17 Harman St#
+17-19 Harman St#
+17-20 Hannan St
+17-21 Harman St
+17-22 Harman St#
+17-23 Harman St#
+17-24 Harman St#
+17 -25 Hannan St
+17 -26 Harman St#
+17-27 Harman St
+17-28 Harman St#
+17-29 Harman St#
+17-30 Harman St#
+17-31 Harman St
+17-32 Harman St
+17-33 Harman St#
+17-34 Harman St
+18-12 Harman St#
+18-14 Harman St
+18-16 Harman St#
+18-18 Harman St
+18-20 Harman St
+18-22 Hannan St
+18-66 Harman St
+18-70 Harman St
+18-75 Harman St
+19-11 Harman St
+19-23 Harman St
+21-11 Harman St
+21-19 Harman St
+21-23 Harman St
+21-49 Harman St
+22-03 Harman St#
+22-07 Harman St#
+1866 Hart St
+
+1870 Hart St
+1874 Hart St
+1876 Hart St
+
+375 Himrod St#
+1701 Himrod St#
+1702 Himrod St#
+1702 Himrod St#
+1703 Himrod St
+1704 Himrod St#
+1705 Himrod St#
+1706 Himrod St
+1707 Himrod St
+1708 Himrod St
+1709 Himrod St#
+1710 Himrod St
+1711 Himrod St#
+1712 Hi.rnrod St
+1713 Himrod St
+1714 Himrod St#
+1715 Himrod St#
+1716 Himrod St
+1717 Himrod St#
+1718 Himrod St
+1719 Himrod St
+1720 Himrod St#
+1721 Himrod St#
+1722 Himrod St
+1723 Himrod St
+1725 Himrod St
+1726 Himrod St
+1727 Himrod St
+1854 Himrod St
+1861 Himrod St
+1870 Himrod St
+1872 Himrod St#
+1874 Himrod St#
+1876 Himrod St
+1878 Himrod St
+1879 Himrod St
+1880 Himrod St
+2012 Himrod St
+2014 Himrod St
+2018 Himrod St
+2028 Himrod St
+2240 Himrod St#
+1724 Hirrnod St
+
+16- 10 Jefferson Ave
+16-1 1 Jefferson Ave
+16-18 Jefferson Ave#
+69-42/44 Juniper Blvd
+
+1665 Linden St
+1694 Linden St
+1702 Linden St
+1704 Linden St
+1706 Linden St
+1708 Linden St#
+1710 Linden St#
+171 1 Linden St
+1712 Linden St
+1714 Linden St
+1715 Linden St#
+1716 Linden St#
+1718 Linden St#
+1719 Linden St
+1720 Linden St
+1721 Linden St
+1722 Linden St#
+1723 Linden St
+
+1725 Linden St#
+1727 Linden St
+1729 Linden St
+1731 Linden St
+1733 Linden St
+1811 Linden St#
+1814 Linden St
+1814 Linden St
+1865 Linden St
+1867 Linden St#
+1879 Linden St
+1911 Linden St
+1912 Linden St
+1913 Linden St
+1914 Linden St#
+1915 Linden St#
+1916 Linden St
+1917 Linden St#
+1918 Linden St#
+1919 Linden St#
+1920 Linden St#
+1921 Linden St
+1922 Linden St#
+1923 Linden St
+1924 Linden St
+1926 Linden St#
+1927 Linden St
+1928 Linden St
+1929 Linden St#
+1930 Linden St#
+1935 Linden St#
+1936 Linden St
+1937 Linden St#
+2105 Linden St#
+2106 Linden St#
+2115 Linden St*#
+2121 Linden St#
+5906 Linden St#
+6070 Linden St#
+1634 Madison St
+1636 Madison St
+1648 Madison St
+1665 Madison St
+1667 Madison St#
+1669 Madison St
+1671 Madison St
+1673 Madison St
+1675 Madison St
+1677 Madison St
+1679 Madison St#
+1681 Madison St
+1683 Madison St
+1703 Madison St#
+1704 Madison St
+1705 Madison St
+1706 Madison St#
+1707 Madison St#
+1708 Madison St
+1709 Madison St
+1710 Madison St#
+1711 Madison St#
+1712 Madison St#
+1713 Madison St
+1714 Madison St#
+1715 Madison St
+1716 Madison St#
+1717 Madison St
+1718 Madison St#
+
+Queens
+
+1719 Madison St
+1720 Madison St
+1722 Madison St#
+1725 Madison St
+1726 Madison St#
+1727 Madison St
+1728 Madison St
+1730 Madison St#
+1732 Madison St#
+18 13 Madison St
+1819 Madison St
+1820 Madison St#
+1821 Madison St
+1822 Madison St#
+1823 Madison St
+1824 Madison St#
+1825 Madison St
+1826 Madison St
+1827 Madison St#
+1828 Madison St
+1829 Madison St
+1830 Madison St#
+1853 Madison St
+1854 Madison St#
+1855 Madison St
+1856 Madison St
+1857 Madison St
+1858 Madison St
+1859 Madison St#
+1860 Madison St
+1862 Madison St
+1863 Madison St#
+1864 Madison St#
+1865 Madison St
+1866 Madison St#
+1867 Madison St
+1868 Madison St
+1869 Madison St#
+1870 Madison St
+1871 Madison St
+1872 Madison St#
+1873 Madison St
+187 4 Madison St#
+1875 Madison St#
+1876 Madison St#
+1877 Madison St#
+1878 Madison St
+1880 Madison St
+1882 Madison St#
+1932 Madison St
+5909 Madison St#
+5951 Madison St#
+5953 Madison St
+5954 Madison St
+5955 Madison St
+5956 Madison St
+6011 Madison St#
+6015 Madison St#
+6017 Madison St#
+6030 Madison St#
+6040 Madison St#
+6052 Madison St#
+6072 Madison St#
+61 12 Madison St#
+61 13 Madison St#
+61 15 Madison St
+61 16 Madison St#
+61 19 Madison St
+32
+
+6120 Madison St#
+6124 Madison St#
+6125 Madison St#
+6127 Madison St#
+6128 Madison St
+6129 Madison St
+6130 Madison St#
+6131 Madison St#
+6134 Madison St#
+6135 Madison St
+6138 Madison St#
+6139 Madison St
+6142 Madison St
+6143 Madison St
+6144 Madison St
+6148 Madison St#
+6152 Madison St#
+6156 Madison St#
+6402 Madison St
+6406 Madison St#
+6410 Madison St
+6414 Madison St
+6416 Madison St
+6418 Madison St#
+6422 Madison St
+6424 Madison St
+6428 Madison St
+6430 Madison St#
+6432 Madison St
+6436 Madison St
+6440 Madison St#
+6442 Madison St
+6446 Madison St#
+6448 Madison St#
+6450 Madison St#
+1721 Menahan St#
+1723 Menahan St
+1725 Menahan St
+1727 Menahan St#
+1812 Menahan St#
+1861 Menahan St
+1863 Menahan St
+1870 Menahan St#
+1872 Menahan St#
+1873 Menahan St#
+1874 Menahan St
+1917 Menahan St
+1921 Menahan St
+2029 Menahan St
+2031 Menahan St
+2126 Menahan St
+6022 Menahan St
+
+53-38 Metropolitan Ave#
+54-33 Metropolitan Ave
+54-35 Metropolitan Ave
+54-39 Metropolitan Ave#
+54-43 Metropolitan Ave
+73-15 Metropolitan Ave
+
+58-02 Myrtle Ave
+59-02 Myrtle Ave
+59-10 Myrtle Ave
+60-82 Myrtle Ave
+61- 16 Myrtle Ave
+62-09 Myrtle Ave
+64-11 Myrtle Ave
+66-11 Myrtle Ave
+66-42 Myrtle Ave
+67-03 Myrtle Ave
+
+67-05 Myrtle Ave
+67-07 Myrtle Ave
+67-43 Myrtle Ave#
+68-07 Myrtle Ave
+68-33 Myrtle Ave#
+68-35 Myrtle Ave#
+69-09 Myrtle Ave
+
+7 1-3 1 Myrtle Ave#
+71-37 Myrtle Ave
+71-47 Myrtle Ave
+75-21 Myrtle Ave#
+79-19 Myrtle Ave
+79-33 Myrtle Ave
+86-35 Myrtle Ave
+90-15 Myrtle Ave
+1630 Norman St
+1662 Norman St
+1685 Norman St
+1729 Norman St
+1731 Norman St#
+1733 Norman St
+1735 Norman St
+1741 Norman St
+1743 Norman St
+1804 Norman St
+
+166 Onderdonk Ave
+282 Onderdonk Ave
+305 Onderdonk Ave
+307 Onderdonk Ave
+309 Onderdonk Ave
+359 Onderdonk Ave
+360 Onderdonk Ave
+361 Onderdonk Ave
+362 Onderdonk Ave#
+363 Onderdonk Ave#
+364 Onderdonk Ave#
+366 Onderdonk Ave
+379 Onderdonk Ave
+381 Onderdonk Ave
+385 Onderdonk Ave
+404 Onderdonk Ave#
+405 Onderdonk Ave
+406 Onderdonk Ave
+409 Onderdonk Ave
+414 Onderdonk Ave#
+456 Onderdonk Ave#
+458 Onderdonk Ave#
+477 Onderdonk Ave
+479 Onderdonk Ave#
+480 Onderdonk Ave#
+481 Onderdonk Ave
+482 Onderdonk Ave#
+483 Onderdonk Ave#
+485 Onderdonk Ave
+504 Onderdonk Ave
+507 Onderdonk Ave
+508 Onderdonk Ave
+510 Onderdonk Ave
+512 Onderdonk Ave
+514 Onderdonk Ave#
+562 Onderdonk Ave
+565 Onderdonk Ave#
+566 Onderdonk Ave
+576 Onderdonk Ave#
+577 Onderdonk Ave
+589 Onderdonk Ave
+664 Onderdonk Ave
+677 Onderdonk Ave
+

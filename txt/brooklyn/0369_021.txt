@@ -1,0 +1,2209 @@
+12 Hancock St
+46 Hancock St
+60 Hancock St
+67 Hancock St
+73 Hancock St
+75 Hancock St
+78 Hancock St
+82 Hancock St
+102 Hancock St#
+109 Hancock St
+114 Hancock St
+121 Hancock St*
+128 Hancock St#
+132 Hancock St
+138 Hancock St
+148 Hancock St#
+156 Hancock St
+158 Hancock St
+161 Hancock St
+171 Hancock St
+184 Hancock St
+186 Hancock St#
+190 Hancock St
+196 Hancock St
+206 Hancock St#
+209 Hancock St
+210 Hancock St
+212 Hancock St
+217 Hancock St#
+227 Hancock St
+228 Hancock St
+231 Hancock St#
+235 Hancock St
+236 Hancock St
+
+237-239 Hancock St#
+
+243 Hancock St
+248 Hancock St
+260 Hancock St#
+275 Hancock St
+280 Hancock St
+282 Hancock St
+289 Hancock St
+299 Hancock St
+305 Hancock St
+333 Hancock St
+354 Hancock St
+357 Hancock St
+375 Hancock St
+395 Hancock St
+396 Hancock St
+398a Hancock St
+403 Hancock St
+408 Hancock St#
+414 Hancock St
+417 Hancock St#
+423 Hancock St
+437 Hancock St
+
+1206 Hancock St#
+
+19 Herkimer St
+21 Herkimer St
+23 Herkimer St
+57 Herkimer St#
+64 Herkimer St
+72 Herkimer St
+73 Herkimer St
+78 Herkimer St
+84 Herkimer St
+88 Herkimer St
+
+99 Herkimer St#
+126 Herkimer St#
+131 Herkimer St
+132 Herkimer St#
+136 Herkimer St#
+140 Herkimer St
+156 Herkimer St
+181 Herkimer St#
+341 Herkimer St
+117 Jefferson Ave#
+121 Jefferson Ave#
+124 Jefferson Ave
+130 Jefferson Ave
+139 Jefferson Ave
+157 Jefferson Ave#
+189 Jefferson Ave
+191 Jefferson Ave
+193 Jefferson Ave
+211 Jefferson Ave#
+237 Jefferson Ave
+242 Jefferson Ave
+253 Jefferson Ave
+258 Jefferson Ave
+261 Jefferson Ave
+275 Jefferson
+
+295 Jefferson Ave
+325 Jefferson Ave
+327 Jefferson Ave
+333 Jefferson Ave
+644 Lafayette Ave
+674 Lafayette Ave#
+140a Lexington Ave#
+180 Lexington Ave
+251 Lexington Ave
+255 Lexington Ave#
+257 Lexington Ave#
+572 Lincoln Place
+580 Lincoln Place#
+584 Lincoln Place
+590 Lincoln Place
+594 Lincoln Place
+600 Lincoln Place
+603 Lincoln Place
+626 Lincoln Place#
+670 Lincoln Place
+674 Lincoln Place
+676 Lincoln Place
+677 Lincoln Place
+681 Lincoln Place#
+683 Lincoln Place
+689 Lincoln Place#
+694 Lincoln Place
+745 Lincoln Place#
+771 Lincoln Place
+778 Lincoln Place#
+782 Lincoln Place
+783 Lincoln Place
+838 Lincoln Place
+
+3 Macdonough St#
+39 Macdonough St
+43 Macdonough St#
+44 Macdonough St
+47 Macdonough St#
+141 Macdonough St*
+181 Macdonough St
+204 Macdonough St
+2 Macon St
+
+21 Macon St
+
+Kings
+
+40 Macon St
+54 Macon St
+64 Macon St#
+95 Macon St
+
+97 Macon St
+99 Macon St
+102 Macon St#
+110 Macon St
+113 Macon St
+130 Macon St#
+132 Macon St
+150 Macon St
+156 Macon St
+216 Macon St#
+305 Macon St
+312 Macon St
+313 Macon St#
+142 Madison St
+252 Madison St#
+318 Madison St
+328 Madison St#
+
+237 Malcolm X Blvd
+254 Malcolm X Blvd
+
+202 New York Ave
+218 New York Ave#
+224 New York Ave
+226 New York Ave
+228 New York Ave#
+236 New York Ave
+238 New York Ave
+239 New York Ave#
+242 New York Ave#
+243 New York Ave#
+244 New York Ave#
+248 New York Ave
+250 New York Ave#
+254 New York Ave
+288 New York Ave#
+283 Nostrand Ave
+289 Nostrand Ave
+331 Nostrand Ave
+333 Nostrand Ave#
+337 Nostrand Ave
+339 Nostrand Ave
+393 Nostrand Ave#
+395 Nostrand Ave#
+
+441-447 Marcus Garvey Blvd 402 Nostrand Ave
+461-469 Marcus Garvey Blvd 407 Nostrand Ave
+
+724 Marcy Ave
+758 Marcy Ave
+760 Marcy Ave
+784 Marcy Ave
+814 Marcy Ave#
+816 Marcy Ave
+820 Marcy Ave#
+822 Marcy Ave#
+826 Marcy Ave#
+860 Marcy Ave#
+929 Marcy Ave#
+944 Marcy Ave#
+7 Mcdonough St
+25 Mcdonough St
+
+50 Mcdonough St#
+
+74 Mcdonough St
+75 Mcdonough St
+
+112 Mcdonough St
+137 Mcdonough St
+
+80 Monroe St
+
+85 Monroe St
+
+105 Monroe St
+160 Monroe St
+183 Monroe St
+197 Monroe St
+222 Monroe St
+295 Monroe St
+388 Monroe St#
+42 New York Ave
+
+460 Nostrand Ave#
+464 Nostrand Ave#
+551 Nostrand Ave
+611 Nostrand Ave
+616 Nostrand Ave
+619 Nostrand Ave#
+621 Nostrand Ave
+642 Nostrand Ave
+685 Nostrand Ave
+688 Nostrand Ave
+691 Nostrand Ave#
+711 Nostrand Ave
+724 Nostrand Ave
+726 Nostrand Ave#
+736 Nostrand Ave
+745 Nostrand Ave#
+751 Nostrand Ave#
+752 Nostrand Ave#
+766 Nostrand Ave#
+768 Nostrand Ave#
+774 Nostrand Ave#
+776 Nostrand Ave#
+780 Nostrand Ave#
+784 Nostrand Ave#
+786 Nostrand Ave#
+790 Nostrand Ave#
+800 Nostrand Ave#
+804 Nostrand Ave#
+820 Nostrand Ave
+
+1250 Paciﬁc St#
+1257 Paciﬁc St
+1259 Paciﬁc St
+1259 Paciﬁc St
+1261 Paciﬁc St
+1263 Paciﬁc St
+1268 Paciﬁc St#
+1274 Paciﬁc St#
+1280 Pacific St#
+1284 Paciﬁc St
+1296 Paciﬁc St#
+1302 Paciﬁc St
+1307 Pacific St
+1308 Paciﬁc St
+1310 Paciﬁc St#
+1325 Paciﬁc St
+1326 Paciﬁc St
+1327 Paciﬁc St
+1329 Paciﬁc St
+1331 Paciﬁc St
+1333 Paciﬁc St
+1340 Paciﬁc St#
+1344 Paciﬁc St#
+1353 Paciﬁc St
+1355 Paciﬁc St
+1356 Paciﬁc St
+1357 Paciﬁc St#
+1378-84 Paciﬁc St*
+1383 Paciﬁc St
+1387 Paciﬁc St
+1401 Paciﬁc St
+1402 Paciﬁc St
+1406 Paciﬁc St#
+1432 Paciﬁc St#
+1436 Paciﬁc St#
+1440 Paciﬁc St#
+1442 Paciﬁc St
+1444 Paciﬁc St
+1446 Paciﬁc St#
+1447 Paciﬁc St
+1448 Paciﬁc St#
+1451 Paciﬁc St#
+1469 Paciﬁc St
+1473 Paciﬁc St#
+1477 Paciﬁc St#
+654 Park Place#
+658 Park Place#
+662 Park Place#
+666 Park Place#
+710 Park Place
+726 Park Place#
+736 Park Place#
+740 Park Place
+744 Park Place#
+
+60 New York Ave#
+62 New York Ave
+70 New York Ave#
+80 New York Ave#
+110 New York Ave#
+124 New York Ave#
+126 New York Ave#
+132 New York Ave#
+165 New York Ave#
+167 New York Ave
+169 New York Ave
+170 New York Ave#
+171 New York Ave
+182 New York Ave
+Kings 23
+
+1126 Paciﬁc St#
+1153 Paciﬁc St
+1 154 Paciﬁc St
+1164 Paciﬁc St#
+1166 Paciﬁc St
+1200 Paciﬁc St#
+1224 Paciﬁc St#
+1234 Paciﬁc St#
+1236 Paciﬁc St#
+1239 Paciﬁc St
+1244 Paciﬁc St#
+1246 Paciﬁc St#
+1248 Paciﬁc St#
+1249 Paciﬁc St
+
+746 Park Place
+754 Park Place
+767 Park Place
+769 Park Place
+778 Park Place
+7 84 Park Place
+788 Park Place
+792 Park Place
+802 Park Place#
+804 Park Place#
+806 Park Place
+808 Park Place#
+809 Park Place
+817 Park Place
+
+834 Park Place#
+837 Park Place
+
+858 Park Place#
+866 Park Place
+
+867 Park Place
+
+872 Park Place
+
+895 Park Place
+
+625 Prospect Place#
+643 Prospect Place
+648 Prospect Place
+649 Prospect Place#
+650 Prospect Place
+658 Prospect Place
+690 Prospect Place
+727 Prospect Place#
+746 Prospect Place#
+761 Prospect Place
+767 Prospect Place
+77 8 Prospect Place
+780 Prospect Place
+784 Prospect Place
+786 Prospect Place#
+794 Prospect Place#
+805 Prospect Place#
+810 Prospect Place#
+814 Prospect Place"
+816 Prospect Place#
+821 Prospect Place*#
+846 Prospect Place
+160 Putnam Ave
+179 Putnam Ave
+191 Putnam Ave
+210 Putnam Ave#
+216 Putnam Ave#
+299 Putnam Ave
+303 Putnam Ave
+321 Putnam Ave
+323 Putnam Ave#
+325 Putnam Ave#
+385a Putnam Ave
+399 Putnam Ave
+403 Putnam Ave
+409 Putnam Ave
+476 Putnam Ave
+589 Putnam Ave
+118 Quincy St
+
+124 Quincy St
+
+125 Quincy St
+
+130 Quincy St
+
+165 Quincy St
+
+181 Quincy St
+
+186 Quincy St
+
+205 Quincy St
+
+257 Quincy St#
+
+261 Quincy St
+
+263 Quincy St
+
+273 Quincy St
+
+285 Quincy St#
+300 Quincy St#
+
+301 Quincy St#
+
+302 Quincy St#
+304 Quincy St#
+
+341 Quincy St
+
+347 Quincy St
+
+22 Rogers Ave#
+
+24 Rogers Ave#
+
+30 Rogers Ave
+
+32 Rogers Ave
+
+99 Rogers Ave
+
+100 Rogers Ave#
+
+101 Rogers Ave#
+
+102 Rogers Ave
+
+104 Rogers Ave
+
+119 Rogers Ave
+
+125 Rogers Ave
+
+135 Rogers Ave#
+
+139 Rogers Ave
+
+142 Rogers Ave
+
+148 Rogers Ave
+
+148 Rogers Ave
+
+150 Rogers Ave
+
+154 Rogers Ave
+
+156 Rogers Ave
+
+166 Rogers Ave#
+
+169 Rogers Ave#
+
+175 Rogers Ave#
+
+177 Rogers Ave#
+
+666 Saint Johns Place
+682 Saint Johns Place
+707 Saint Johns Place
+764 Saint Johns Place#
+769 Saint Johns Place
+771 Saint Johns Place#
+772 Saint Johns Place
+775 Saint Johns Place#
+780 Saint Johns Place#
+784 Saint Johns Place
+798 Saint Johns Place#
+801 Saint Johns Place
+802 Saint Johns Place
+807 Saint Johns Place
+811 Saint Johns Place#
+817 Saint Johns Place‘
+823 Saint Johns Place
+827 Saint Johns Place
+831 Saint Johns Place
+844 Saint Johns Place
+853 Saint Johns Place
+857 Saint Johns Place
+859 Saint Johns Place#
+863 Saint Johns Place
+865 Saint Johns Place
+869 Saint Johns Place
+873 Saint Johns Place
+875 Saint Johns Place
+879 Saint Johns Place
+881 Saint Johns Place#
+885 Saint Johns Place
+887 Saint Johns Place
+891 Saint Johns Place
+893 Saint Johns Place
+897 Saint Johns Place
+901 Saint Johns Place
+909 Saint Johns Place
+913 Saint Johns Place
+919 Saint Johns Place
+1369 Saint Johns Place
+561 Saint Marks Ave
+564 Saint Marks Ave
+577 Saint Marks Ave
+589 Saint Marks Ave
+606 Saint Marks Ave
+623 Saint Marks Ave
+637 St Marks Ave
+
+641 Saint Marks Ave
+651 Saint Marks Ave
+
+Kings
+
+654 Saint Marks Ave
+657 Saint Marks Ave
+659 Saint Marks Ave
+665 Saint Marks Ave
+670 Saint Marks Ave
+679 Saint Marks Ave
+680 Saint Marks Ave
+685 Saint Marks Ave
+687 Saint Marks Ave
+692 Saint Marks Ave
+
+701 Saint Marks Ave#
+705 Saint Marks Ave#
+711 Saint Marks Ave#
+715 Saint Marks Ave#
+720 Saint Marks Ave#
+731-759 Saint Marks Ave#
+732 Saint Marks Ave#
+
+748 Saint Marks Ave
+758 Saint Marks Ave
+
+762 Saint Marks Ave#
+770 Saint Marks Ave#
+
+780 Saint Marks Ave
+1 Spencer Place
+
+10 Spencer Place
+11a Spencer Place
+21 Spencer Place
+
+25 Spencer Place
+
+29 Spencer Place
+673 Sterling Place
+675 Sterling Place#
+677 Sterling Place#
+681 Sterling Place
+685 Sterling Place#
+703 Sterling Place#
+707 Sterling Place#
+717 Sterling Place#
+742 Sterling Place
+783 Sterling Place
+787 Sterling Place#
+791 Sterling Place
+885 Sterling Place
+901 Sterling Place#
+905 Sterling Place#
+915 Sterling Place#
+924 Sterling Place
+934 Sterling Place#
+939 Sterling Place#
+406 Sumner Ave
+408 Sumner Ave#
+419 Sumner Ave
+421 Sumner Ave
+423 Sumner Ave
+443 Sumner Ave
+465 Sumner Ave#
+547 Throop Ave#
+588 Throop Ave#
+632 Throop Ave#
+638 Throop Ave
+251 Tompkins Ave#
+252 Tompkins Ave#
+302 Tompkins Ave
+309 Tompkins Ave
+318 Tompkins Ave#
+353 Tompkins Ave
+367 Tompkins Ave
+406 Tompkins Ave
+413 Tompkins Ave
+455 Tompkins Ave#
+
+Kings 24
+
+469 Tompkins Ave
+482 Tompkins Ave#
+489 Tompkins Ave#
+12 Verona Place
+
+14 Verona Place
+
+Times Plaza,11217
+
+191 Ashland Place
+348 Atlantic Ave
+354 Atlantic Ave
+355 Atlantic Ave#
+371 Atlantic Ave#
+377 Atlantic Ave#
+450 Atlantic Ave
+452 Atlantic Ave#
+501 Atlantic Ave#
+510 Atlantic Ave
+519 Atlantic Ave
+525 Atlantic Ave
+527 Atlantic Ave
+529 Atlantic Ave
+531 Atlantic Ave
+533 Atlantic Ave
+535 Atlantic Ave
+539 Atlantic Ave
+541 Atlantic Ave
+562 Atlantic Ave
+564 Atlantic Ave
+574 Atlantic Ave
+576 Atlantic Ave
+560 Baltic St
+
+566 Baltic St
+
+568 Baltic St
+
+617 Baltic St
+
+619 Baltic St
+
+661 Baltic St
+
+143 Bergen St
+149 Bergen St
+172 Bergen St
+255 Bergen St#
+259 Bergen St
+324 Bergen St
+332 Bergen St
+342 Bergen St
+374 Bergen St
+388 Bergen St
+390 Bergen St
+415 Bergen St
+426 Bergen St#
+440 Bergen St
+444 Bergen St
+446 Bergen St#
+448 Bergen St
+470 Bergen St
+472 Bergen St#
+475 Bergen St
+531 Bergen St
+533 Bergen St
+534 Bergen St
+535 Bergen St
+536 Bergen St#
+537 Bergen St#
+538 Bergen St#
+539 Bergen St#
+541 Bergen St#
+
+542 Bergen St
+
+543 Bergen St
+
+545 Bergen St#
+
+549 Bergen St#
+
+5 Berkeley Place
+
+17 Berkeley Place
+102 Berkeley Place
+113 Berkeley Place
+151 Berkeley Place
+180 Berkeley Place#
+185 Berkeley Place
+186 Berkeley Place
+187 Berkeley Place
+191 Berkeley Place*
+193 Berkeley Place
+197 Berkeley Place*
+198 Berkeley Place
+206 Berkeley Place#
+217 Berkeley Place
+220 Berkeley Place*
+221 Berkeley Place#
+223 Berkeley Place
+225 Berkeley Place#
+227 Berkeley Place
+233 Berkeley Place
+235 Berkeley Place
+268 Berkeley Place
+272 Berkeley Place#
+106 Bond St
+
+187 Bond St
+
+201 Bond St#
+
+515 Clinton Ave
+202 Dean St
+
+210 Dean St
+
+213 Dean St
+
+214 Dean St#
+
+274 Dean St#
+
+278 Dean St#
+
+280 Dean St*
+
+303 Dean St#
+
+334 Dean St#
+
+357 Dean St
+
+427 Dean St
+
+433 Dean St
+
+446 Dean St
+
+473 Dean St
+
+497 Dean St
+
+499 Dean St
+
+501 Dean St#
+
+507 Dean St#
+
+509 Dean St
+
+523 Dean St#
+
+527 Dean St
+
+541 Dean St
+
+543 Dean St
+
+546 Dean St
+
+552 Dean St
+
+556 Dean St
+
+438 Degraw St
+
+660 Degraw St
+718-720 Degraw St
+149 Dekalb Ave
+153 Dekalb Ave
+155 Dekalb Ave
+
+24 Eighth Ave*
+
+40 Eighth Ave
+
+46 Eighth Ave
+
+50 Eight Ave
+
+ 
+
+1
+1
+
+59 Eighth Ave
+
+63 Eighth Ave#
+
+65 Eighth Ave#
+
+70 Eighth Ave
+
+71 Eighth Ave#
+
+361 Fenimore St
+
+51 Fifth Ave
+
+53 Fifth Ave#
+
+55 Fifth Ave
+
+69 Fifth Ave
+
+76 Fifth Ave
+
+78 Fifth Ave#
+
+82 Fifth Ave
+
+86 Fifth Ave#
+
+88 Fifth Ave
+
+94 Fifth Ave
+
+109 Fifth Ave
+
+111 Fifth Ave
+
+142 Fifth Ave
+152-154 Fifth Ave
+157 Fifth Ave
+
+158 Fifth Ave
+
+171 Fifth Ave
+
+186 Fifth Ave
+
+188 Fifth Ave
+
+189 Fifth Ave
+
+191 Fifth Ave
+
+195 Fifth Ave#
+
+203 Fifth Ave
+
+228 Flatbush Ave#
+255 Flatbush Ave
+259 Flatbush Ave
+261 Flatbush Ave
+263 Flatbush Ave
+281 Flatbush Ave
+319 Flatbush Ave
+321 Flatbush Ave
+
+10 Fort Greene Place
+48 Fort Greene Place
+62 Fort Greene Place
+63 Fort Greene Place#
+68 Fort Greene Place
+70 Fort Greene Place
+83 Fort Greene Place
+104 Fort Greene Place
+1 12 Fort Greene Place
+122 Fort Greene Place
+140 Fourth Ave#
+143 Fourth Ave#
+145 Fourth Ave
+
+147 Fourth Ave#
+150 Fourth Ave
+
+156 Fourth Ave
+
+158 Fourth Ave
+
+200 Fourth Ave
+
+209 Fourth Ave
+
+211 Fourth Ave
+680-686 Fulton St
+698 Fulton St
+
+87 Hanson Place
+
+89 Hanson Place
+
+91 Hanson Place
+
+122 Hoyt St
+
+139 Hoyt St
+
+206 Hoyt St
+
+7139 Hoyt St
+
+25 Lafayette Ave
+82-84 Lafayette Ave#
+
+92 Lafayette Ave#
+99 Lafayette Ave#
+101 Lafayette Ave*#
+110 Lafayette Ave
+112 Lafayette Ave
+114 Lafayette Ave
+123 Lafayette Ave
+125 Lafayette Ave
+127 Lafayette Ave
+129 Lafayette Ave
+14 Lincoln Place#
+108 Lincoln Place
+124 Lincoln Place
+160 Lincoln Place*#
+168 Lincoln Place
+174 Lincoln Place
+184 Lincoln Place#
+186 Lincoln Place
+202 Lincoln Place
+206 Lincoln Place
+209 Lincoln Place#
+216 Lincoln Place#
+218 Lincoln Place*#
+220 Lincoln Place
+224 Lincoln Place#
+225 Lincoln Place*#
+232 Lincoln Place#
+234 Lincoln Place#
+235 Lincoln Place*#
+305 Livingston St#
+314 Livingston St
+324 Livingston St#
+362 Livingston St#
+68 Nevins St
+
+178 Nevins St#
+180 Nevins St
+
+347 Paciﬁc St*
+
+349 Paciﬁc St#
+369 Paciﬁc St
+
+378 Paciﬁc St
+
+410 Pacific St
+
+413 Pacific St
+
+419 Paciﬁc St
+
+467 Paciﬁc St*#
+483 Paciﬁc St
+
+485 Paciﬁc St#
+532 Paciﬁc St#
+538 Pacific St
+
+540 Pacific St
+
+542 Paciﬁc St
+
+544 Paciﬁc St
+
+557 Paciﬁc St
+
+570 Paciﬁc St#
+572 Paciﬁc St
+
+12 Park Place#
+
+108 Park Place
+
+109 Park Place
+
+118 Park Place*
+130 Park Place
+
+134 Park Place
+
+136 Park Place
+
+1 Plaza St*#
+
+10 Plaza St*
+
+25 Plaza St*#
+
+39 Plaza St#
+
+45 Plaza St#
+
+43 Prospect Place
+82 Prospect Place#
+
+Kings
+
+111 Prospect Place
+113 Prospect Place
+115 Prospect Place#
+126 Prospect Place
+128 Prospect Place
+134 Prospect Place
+136 Prospect Place
+138 Saclanan St
+
+661 Sackett St
+
+682 Sackett St#
+
+686 Sackett St
+
+687 Sackett St
+
+688 Sackett St
+
+696 Sackett St
+
+698 Sackett St
+
+700 Sackett St
+
+704 Sackett St
+
+713 Sackett St
+
+715 Sackett St#
+
+716 Sackett St#
+
+730 Sackett St
+
+21a Saint Felix St
+
+46 Saint Felix St
+
+47 Saint Felix St
+
+19 Saint Johns Place
+42 Saint Johns Place
+56 Saint Johns Place
+93 Saint Johns Place
+111 Saint Johns Place
+115 Saint Johns Place
+135 Saint Johns Place
+170 Saint Johns Place
+172 Saint Johns Place
+174 Saint Johns Place
+176 Saint Johns Place
+179 Saint Johns Place
+208 Saint Johns Place
+217 Saint Johns Place
+218 Saint Johns Place
+219 Saint Johns Place
+
+229 Saint Johns Place#
+
+9 Saint Marks Ave#
+11 Saint Marks Ave
+15 Saint Marks Ave
+25 Saint Marks Ave
+55 Saint Marks Ave
+58 Saint Marks Ave
+
+76-78 Saint Marks Ave#
+
+77 Saint Marks Ave#
+
+80-82 Saint Marks Ave#
+
+109 Saint Marks Ave#
+127 Saint Marks Ave
+144 Saint Marks Ave*
+1150 Saint Marks Ave
+5 Saint Marks Place
+55 Saint Marks Place
+78 Saint Marks Place
+
+100 Saint Marks Place#
+
+130 Saint Marks Place
+138 Saint Marks Place
+323 Schermerhom St#
+20 Seventh Ave
+
+20a Seventh Ave
+
+32 Seventh Ave#
+
+39 Seventh Ave
+
+41 Seventh Ave*
+
+47 Seventh Ave
+
+52 Seventh Ave#
+
+Kings 25
+
+56 Seventh Ave
+66 Seventh Ave#
+70 Seventh Ave
+72 Seventh Ave#
+78 Seventh Ave
+90 Seventh Ave
+92 Seventh Ave
+
+49 Sixth Ave
+
+60 Sixth Ave
+71-73 Sixth Ave
+75 Sixth Ave
+
+82 Sixth Ave
+
+89 Sixth Ave
+
+97 Sixth Ave
+
+98 Sixth Ave
+
+106 Sixth Ave
+
+108 Sixth Ave*
+112 Sixth Ave
+
+135 Sixth Ave#
+137 Sixth Ave
+
+149 Sixth Ave
+
+158 Sixth Ave
+
+161 Sixth Ave
+
+164 Sixth Ave
+192a Sixth Ave
+
+1 S. Elliott Place
+33 S. Elliott Place
+45 S. Elliott Place#
+54 S. Elliott Place#
+60 S. Elliott Place
+62 S. Elliott Place
+64 S. Elliott Place
+71 S. Elliott Place
+105 S. Elliott Place#
+115 S. Elliott Place
+117 S. Elliott Place
+1 S. Oxford St
+
+5 S. Oxford St
+
+9 S. Oxford St*
+
+10 S. Oxford St
+26 S. Oxford St
+
+28 S. Oxford St*
+32 S. Oxford St*#
+34 S. Oxford St*#
+36 S. Oxford St
+42 S. Oxford St
+
+46 S. Oxford St
+
+50 S. Oxford St
+54 S. Oxford St#
+60 S. Oxford St*
+64 S. Oxford St
+
+67 S. Oxford St
+73 S. Oxford St
+99 S. Oxford St#
+101 S. Oxford St#
+111 S. Oxford St
+114 S. Oxford St#
+125 S. Oxford St
+126 S. Oxford St
+
+1 S. Portland Ave
+6 S. Portland Ave
+7 S. Portland Ave
+12 S. Portland Ave
+14 S. Portland Ave
+27 S. Portland Ave*
+28 S. Portland Ave
+31 S. Portland Ave
+56 S. Portland Ave
+
+65 S. Portland Ave
+72 S. Portland Ave
+96 S. Portland Ave*#
+104 S. Portland Ave
+108 S. Portland Ave
+112 S. Portland Ave
+331 State St
+
+335 State St#
+
+346 State St
+
+346a State St
+
+354 State St
+
+356 State St#
+
+368 State St#
+
+371 State St#
+
+372 State St
+
+374 State St#
+
+375 State St#
+
+407 State St#
+
+410 State St#
+
+411 State St
+
+443 State St#
+
+448 State St
+
+449 State St
+
+451 State St
+
+457 State St*#
+466 State St#
+
+469 State St
+
+472 State St
+
+560 State St
+
+21 Sterling Place
+48 Sterling Place
+96 Sterling Place
+118 Sterling Place
+122 Sterling Place#
+126 Sterling Place#
+160 Sterling Place
+172 Sterling Place
+33 Third Ave
+
+105 Third Ave
+
+107 Third Ave
+473 Warren St
+479 Warren St#
+480 Warren St
+
+481 Warren St
+483 Warren St#
+506 Warren St
+563 Warren St#
+577 Warren St
+609 Warren St
+613 Warren St
+635 Warren St
+637 Warren St
+640 Warren St#
+650 Warren St
+656 Warren St
+662 Warren St
+663 Warren St
+664 Warren St
+680 Warren St
+
+169 Wyckoff St
+237 Wyckoff St
+252 Wyckoff St#
+259 Wyckoff St
+103 3 Ave#
+
+152 4 Ave
+
+154 4 Ave
+
+183 4 Ave
+
+185 4 Ave
+
+61 5 Ave
+131 5 Ave
+140 5 Ave#
+94 6 Ave
+104 6 Ave
+129 6 Ave
+148 6 Ave
+61a 7 Ave
+20 8 Ave*#
+
+Kensington,11218
+
+102 Albemarle Rd#
+114 Albemarle Rd#
+414 Albemarle Rd#
+415 Albemarle Rd#
+10 Argyle Rd
+
+15 Argyle Rd
+
+21 Argyle Rd
+
+27 Argyle Rd
+28-30 Argyle Rd
+33 Argyle Rd
+
+39 Argyle Rd
+
+40 Argyle Rd
+
+' 45 Argyle Rd
+
+51 Argyle Rd
+
+52 Argyle Rd
+
+58 Argyle Rd
+385 Argyle Rd*#
+400 Argyle Rd
+415 Argyle Rd*
+3 Ave C
+
+114 Ave C
+
+116 Ave C
+
+302 Ave C#
+
+701 Ave C#
+
+717 Ave C
+
+801 Ave C#
+
+813 Ave C
+
+815 Ave C
+
+819 Ave C
+
+823 Ave C
+
+111 Ave F
+
+202 Ave F
+
+203 Ave F#
+
+209 Ave F#
+
+215 Ave F
+
+221 Ave F#
+
+420 Ave F#
+
+303 Beverly Rd*
+310 Beverly Rd*
+408 Beverly Rd
+415 Beverly Rd
+420 Beverly Rd
+707 Beverly Rd#
+726 Beverly Rd
+803 Beverly Rd#
+807 Beverly Rd
+811 Beverly Rd#
+100 Caton Ave
+110 Caton Ave
+210 Caton Ave
+625 Caton Ave*#
+910 Caton Ave
+1006 Caton Ave#
+
+1110 Caton Ave*
+
+50 Chester Ave#
+
+145 Chester Ave
+
+53 Church Ave
+
+55 Church Ave#
+
+58 Church Ave#
+
+64 Church Ave#
+
+99 Church Ave
+
+113 Clara St#
+
+140 Clara St#
+
+399 Coney Island Ave
+695 Coney Island Ave
+697 Coney Island Ave
+701 Coney Island Ave
+703 Coney Island Ave
+705 Coney Island Ave#
+707 Coney Island Ave#
+737 Coney Island Ave
+755 Coney Island Ave
+759 Coney Island Ave
+763 Coney Island Ave#
+765 Coney Island Ave#
+876 Coney Island Ave
+116 Cortelyou Rd
+118 Cortelyou Rd
+124 Cortelyou Rd
+405 Cortelyou Rd#
+407 Cortelyou Rd#
+411 Cortelyou Rd#
+800 Cortelyou Rd*
+811 Cortelyou Rd*#
+922 Cortelyou Rd
+1206 Cortelyou Rd
+36 Dahill Rd*
+
+70 Dahill Rd#
+
+262 Dahill Rd
+
+323 Dahill Rd#
+
+526 Dahill Rd#
+
+611 Dahill Rd#
+
+636 Dahill Rd#
+
+654 Dahill Rd#
+
+679 Dahill Rd
+
+103 Ditmas Ave
+
+318 Ditmas Ave#
+640 Ditmas Ave#
+
+805 Ditmas Ave
+
+924 Ditmas Ave
+
+1002 Ditrnas Ave#
+1001 Dorchester Rd
+1010 Dorchester Rd#
+1115 Dorchester Rd*
+285 E. Eight St#
+
+192 E. Eighth St*#
+200 E. Eighth St#
+222 E. Eighth St
+
+376 E. Eighth St#
+217 E. Fifth St
+
+221 E. Fifth St
+
+445 E. Fifth St#
+
+555 E. Fifth St#
+
+669 E. Fifth St#
+
+695 E. Fifth St
+
+723 E. Fifth St#
+
+78 E. Fourth St
+
+151 E. Fourth St
+
+170 E. Fourth St
+
+326 E. Fourth St
+
+435 E. Fourth St
+
+Kings
+
+474 E. Fourth St
+484 E. Fourth St#
+563 E. Fourth St
+564 E. Fourth St
+780 E. Fourth St
+785 E. Fourth St
+323 E. Ninth St
+112-140 E. Second St#
+235 E. Second St#
+274 E. Second St
+276 E. Second St#
+280 E. Second St#
+288 E. Second St
+296 E. Second St
+300 E. Second St
+329 E. Second St#
+474 E. Second St
+533 E. Second St#
+553 E. Second St#
+558 E. Second St#
+561 E. Second St#
+564 E. Second St#
+570 E. Second St
+590 E. Second St
+594 E. Second St
+638 E. Second St#
+640 E. Second St#
+780 E. Second St#
+791 E. Second St#
+217 E. Seventh St
+227 E. Seventh St
+465 E. Seventh St
+495 E. Seventh St*
+599 E. Seventh St*
+2 E. Tenth St
+
+327 E. Third St#
+564 E. Third St#
+742 E. Third St
+762 E. Third St#
+199 E. 2 St#
+
+270 E. 2 St
+
+284 E. 2 St#
+
+618 E. 2 St
+
+713 E. 2 St#
+
+741 E. 3 St#
+
+74 E. 4 St
+
+392 E. 4 St#
+
+556 E. 4 St
+
+283 E. 5 St#
+
+617 E. 5 St
+
+623 E. 5 St#
+
+515 E. 7 St
+
+70 E. 8 St
+
+352 E. 8 St#
+
+430 E. 8 St
+
+499 E. 8 St
+
+205 E. 9 St
+
+440 E. 9 St#
+
+2 E. 12 St
+355-365 E. 12 St#
+377 E. 13 St#
+2920 Ft Hamilton Pkwy
+2922 Ft Hamilton Pkwy
+800 Greenwood Ave#
+24 Henckley Place
+2-24 Hinkley Place#
+14 Lewis Place
+
+25 Louisa St
+
+Kings 26
+
+333 Mcdonald Ave
+347 Mcdonald Ave#
+355 Mcdonald Ave
+476 Mcdonald Ave
+495 Mcdonald Ave
+497 Mcdonald Ave
+501 Mcdonald Ave
+503 Mcdonald Ave
+505 Mcdonald Ave
+509 Mcdonald Ave
+511 Mcdonald Ave#
+514 Mcdonald Ave
+516 Mcdonald Ave
+518 Mcdonald Ave
+522 Mcdonald Ave#
+523 Mcdonald Ave#
+524 Mcdonald Ave
+525 Mcdonald Ave
+528 Mcdonald Ave
+529 Mcdonald Ave
+530 Mcdonald Ave
+534 Mcdonald Ave
+535 Mcdonald Ave
+536 Mcdonald Ave#
+537 Mcdonald Ave#
+540 Mcdonald Ave#
+541 Mcdonald Ave
+543 Mcdonald Ave
+545 Mcdonald Ave
+549 Mcdonald Ave
+553 Mcdonald Ave
+555 Mcdonald Ave#
+10 Ocean Pkwy#
+
+30 Ocean Pkwy*#
+31 Ocean Pkwy#
+
+40 Ocean Pkwy*#
+50 Ocean Pkwy#
+
+71 Ocean Pkwy*#
+81 Ocean Pkwy*#
+91 Ocean Pkwy
+
+100 Ocean Pkwy*
+101 Ocean Pkwy#
+
+1 10 Ocean Pkwy*
+120 Ocean Pkwy#
+125 Ocean Pkwy#
+135 Ocean Pkwy*
+140 Ocean Pkwy#
+160 Ocean Pkwy*
+175 Ocean Pkwy#
+17 8 Ocean Pkwy#
+179 Ocean Pkwy*#
+183 Ocean Pkwy#
+201 Ocean Pkwy
+207 Ocean Pkwy*
+227 Ocean Pkwy*
+230 Ocean Pkwy#
+240 Ocean Pkwy#
+241 Ocean Pkwy#
+245 Ocean Pkwy#
+249 Ocean Pkwy#
+250 Ocean Pkwy#
+260 Ocean Pkwy*#
+269 Ocean Pkwy#
+280 Ocean Pkwy*#
+295 Ocean Pkwy#
+305 Ocean Pkwy#
+315 Ocean Pkwy
+320 Ocean Pkwy#
+
+330 Ocean Pkwy#
+349 Ocean Pkwy#
+350 Ocean Pkwy*
+360 Ocean Pkwy*#
+363 Ocean Pkwy#
+370 Ocean Pkwy*
+377 Ocean Pkwy#
+386 Ocean Pkwy*#
+387 Ocean Pkwy#
+390 Ocean Pkwy#
+399 Ocean Pkwy*
+402 Ocean Pkwy#
+410 Ocean Pkwy#
+415 Ocean Pkwy*
+430 Ocean Pkwy#
+435 Ocean Pkwy*#
+438 Ocean Pkwy#
+441 Ocean Pkwy#
+450 Ocean Pkwy#
+455 Ocean Pkwy
+465 Ocean Pkwy
+470 Ocean Pkwy#
+483 Ocean Pkwy
+488 Ocean Pkwy*
+490 Ocean Pkwy*#
+499 Ocean Pkwy#
+507 Ocean Pkwy#
+514 Ocean Pkwy
+525 Ocean Pkwy*
+535 Ocean Pkwy
+540 Ocean Pkwy*#
+570 Ocean Pkwy*#
+572 Ocean Pkwy#
+602 Ocean Pkwy#
+622 Ocean Pkwy#
+300 Ocean Pkwy*#
+1293 Prospect Ave
+
+107 Prospect Park W#
+135 Prospect Park SW*#
+147 Prospect Park SW#
+149 Prospect Park SW#
+175 Prospect Pk SW*#
+185 Prospect Park SW*
+199 Prospect Park SW
+269 Quincy St
+
+8 Reeve Place
+
+47 Reeve Place*#
+
+176 Seeley St*#
+
+202 Seeley St*
+
+250 Seeley St
+
+299 Sherman St
+
+5516 Sixth Ave
+
+111 Story St
+
+5 Stratford Rd#
+
+10 Stratford Rd
+
+15 Stratford Rd*#
+
+25 Stratford Rd*#
+
+49 Stratford Rd#
+
+51 Stratford Rd#
+
+395 Stratford Rd#
+
+415 Stratford Rd
+
+428 Stratford Rd#
+
+470 Stratford Rd
+
+23 Tehama St
+
+25 Tehama St
+
+40 Tehama St*#
+
+45 Tehama St#
+
+159 Tehama St#
+
+39 Turner Place#
+60 Tumer Place
+372 W.minister Rd#
+5 W.minster Rd#
+15 W.minster Rd#
+20 W.minster Rd
+30 W.minster Rd#
+33 Wminster Rd
+50 W.rninster Rd#
+405 W.minster Rd
+410 W.minster Rd#
+310 Windsor Place"‘#
+1692 11 Ave
+1720 11 Ave
+3553 12 Ave
+3802 12 Ave#
+3820 12 Ave#
+377 13 St
+
+3709 13 St
+
+3403 14 Ave#
+3409 14 Ave#
+3505 14 Ave
+3507 14 Ave#
+3511 14 Ave
+3609 15 Ave
+3611 15 Ave#
+3619 15 Ave
+3623 15 Ave#
+4023 15 Ave
+
+584 16 St
+
+4014 16 Ave#
+7821 16 Ave
+608a 17 St
+
+561 17 St
+
+580 17 St
+
+598 17 St
+
+685 18 St
+
+3723 18 Ave#
+3751 18 Ave#
+3765 18 Ave#
+3801 18 Ave#
+3821 18 Ave
+3841 18 Ave#
+3845 18 Ave#
+4219 18 Ave#
+8666 20 Ave
+
+1405 35 St
+
+1406 35 St#
+
+1407 35 St
+
+1409 35 St
+
+1411 35 St
+
+1411 35 St
+
+1415 35 St
+
+1419 35 St#
+
+1421 35 St
+
+1425 35 St#
+
+1427 35 St
+
+1429 35 St
+
+1239 36 St#
+
+1243 36 St
+
+1245 36 St#
+
+1249 36 St#
+
+1251 36 St
+
+1135 38 St#
+
+1155 38 St
+
+1137 38 St
+
+1139 38 St
+
+1141 38 St
+
+1143 38 St
+1145 38 St
+1147 38 St
+1151 38 St
+1159 38 St
+1526 38 St
+1141 39 St
+1143 39 St
+1145 39 St
+1149 39 St
+1241 39 St#
+1215 40 St
+1327 40 St#
+1540 40 St
+1575 40 St
+1315 41 St
+1321 41 St
+1322 41 St
+1323 41 St
+1332 41 St#
+1374 41 St
+1513 41 St
+1630 41 St#
+
+Blythbourne,11219
+
+2601-07 Ave U
+
+2601 Ave U
+
+1149 Bay Ridge Ave
+
+1230 Bay Ridge Ave
+
+1234 Bay Ridge Ave#
+1238 Bay Ridge Ave
+
+1242 Bay Ridge Ave#
+
+1275 Bay Ridge Ave#
+1305 Bay Ridge Ave#
+1336 Bay Ridge Ave#
+1340 Bay Ridge Ave#
+1352 Bay Ridge Ave
+
+1362 Bay Ridge Ave#
+1416 Bay Ridge Ave#
+
+1455 Bay Ridge Ave#
+1456 Bay Ridge Ave#
+1474 Bay Ridge Ave
+
+1501 Bay Ridge Ave#
+
+289 Bay 17 St
+
+1456 Bayridge Ave#
+
+143 Eighth St#
+
+603 Fort Hamilton Pkwy#
+4504 Fort Hamilton Pkwy
+5423 Fort Hamilton Pkwy#
+5511 Fort Hamilton Pkwy#
+5718 Fort Hamilton Pkwy#
+6224 Fort Hamilton Pkwy#
+6303 Fort Hamilton Pkwy#
+6402 Fort Hamilton Pkwy
+6613 Fort Hamilton Pkwy#
+6623 Fort Hamilton Pkwy#
+671 1 Fort Hamilton Pkwy#
+6717 Fort Hamilton Pkwy#
+5207 New Utrecht Ave
+5219 New Utrecht Ave#
+5904 New Utrecht Ave
+5912 New Utrecht Ave
+6304 New Utrecht Ave
+6318 New Utrecht Ave#
+
+Kings
+
+6412 New Utrecht Ave
+6701 New Utrecht Ave
+7405 New Utrecht Ave
+1073 Ovington Ave#
+1080 Ovington Ave#
+1102 Ovington Ave#
+1223 Ovington Ave
+1227 Ovington Ave#
+1231 Ovington Ave
+1312 Ovington Ave#
+1361 Ovington Ave
+5119 Seventh Ave
+4319 Tenth Ave
+4408 Tenth Ave
+4412 Tenth Ave
+4414 Tenth Ave
+4420 Tenth Ave
+4509 Tenth Ave
+4513 Tenth Ave#
+4514 Tenth Ave#
+4515 Tenth Ave
+4519 Tenth Ave
+4706 Tenth Ave
+5001 Tenth Ave#
+6604 Tenth Ave
+6606 Tenth Ave
+
+521 1 Utrecht Ave
+4402 10 Ave#
+
+4424 10 Ave
+
+4514 10 Ave
+
+5901 10 Ave#
+
+6216 10 Ave
+
+6624 10 Ave#
+
+4601 11 Ave#
+
+5507 11 Ave
+
+6302 11 Ave
+
+6312 11 Ave#
+
+6322 11 Ave
+
+6701 11 Ave
+
+6707 11 Ave
+
+1208 12 Ave
+
+4102 12 Ave
+
+4202 12 Ave
+
+4209 12 Ave
+
+4219 12 Ave
+
+4307 12 Ave#
+
+4315 12 Ave#
+
+4515 12 Ave#
+
+4520 12 Ave#
+
+4611 12 Ave#
+
+4701 12 Ave#
+
+4711 12 Ave#
+
+5010 12 Ave#
+
+5016 12 Ave#
+
+6614 12 Ave#
+
+6622 12 Ave
+
+4719 13 Ave
+
+4922 13 Ave
+
+5101 13 Ave#
+
+5115 13 Ave#
+
+5510 13 Ave#
+
+6611 13 Ave#
+
+6612 13 Ave#
+
+6622 13 Ave
+
+6704 13 Ave#
+
+6714 13 Ave#
+
+6716 13 Ave#
+
+6719 13 Ave
+
+Kings 27
+
+6802 13 Ave#
+6806 13 Ave
+6808 13 Ave#
+6812 13 Ave
+63-18 14 Ave
+4600 14 Ave*#
+4716 14 Ave#
+4800 14 Ave#
+4812 14 Ave#
+4901 14 Ave#
+5001 14 Ave#
+5023 14 Ave#
+5118 14 Ave#
+5123 14 Ave#
+5201 14 Ave#
+5225 14 Ave#
+5502 14 Ave
+5601 14 Ave#
+5619 14 Ave
+5801 14 Ave#
+6223 14 Ave#
+6422 14 Ave
+6513 14 Ave
+6515 14 Ave
+6604 14 Ave
+6705 14 Ave
+6709 14 Ave
+6710 14 Ave
+6710 14 Ave#
+6716 14 Ave
+6718 14 Ave
+6720 14 Ave
+6722 14 Ave
+6801 14 Ave#
+6816 14 Ave
+48-15 15 Ave
+4108 15 Ave#
+4109 15 Ave
+4117 15 Ave#
+4118 15 Ave
+4120 15 Ave
+4215 15 Ave
+4216 15 Ave
+4219 15 Ave
+4220 15 Ave
+4701 15 Ave#
+4702 15 Ave#
+4815 15 Ave#
+4910 15 Ave#
+5000 15 Ave#
+5001 15 Ave#
+5100 15 Ave*
+5200 15 Ave#
+5302 15 Ave#
+5315 15 Ave#
+5420 15 Ave#
+5501 15 Ave#
+5520 15 Ave#
+5609 15 Ave#
+5614 15 Ave*#
+5701 15 Ave*#
+5801 15 Ave#
+6804 15 Ave
+6806 15 Ave#
+6806 15 Ave#
+286 10 St
+1084 38 St
+1536 38 St
+
+1069 39 St#
+1163 39 St
+905 40 St#
+907 40 St
+909 40 St
+934 40 St
+1066 40 St
+1360 40 St#
+902 41 St#
+1320 41 St
+1326 41 St#
+1328 41 St
+902 42 St
+914 42 St
+915 42 St
+917 42 St
+921 42 St#
+923 42 St
+927 42 St
+935 42 St
+944 42 St#
+945 42 St#
+953 42 St
+959 42 St#
+961 42 St#
+979 42 St
+1142 42 St#
+1162 42 St
+1214 42 St
+1226 42 St*
+1230 42 St
+1254 42 St#
+1356 42 St
+1438 42 St
+1517 42 St
+1571 42 St#
+902 43 St#
+905 43 St#
+915 43 St#
+969 43 St#
+1124 43 St#
+1129 43 St#
+1130 43 St
+1134 43 St
+1135 43 St#
+1138 43 St
+1143 43 St#
+1157 43 St*#
+1163 43 St*#
+1169 43 St
+1220 43 St#
+1231 43 St
+1234 43 St
+1235 43 St#
+1255 43 St#
+1270 43 St
+1275 43 St
+1318 43 St
+1326 43 St
+1330 43 St#
+1334 43 St#
+1336 43 St
+1340 43 St
+1344 43 St
+1348 43 St
+1367 43 St#
+1371 43 St
+1441 43 St
+
+ 
+

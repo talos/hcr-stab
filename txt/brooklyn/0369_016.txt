@@ -1,0 +1,1855 @@
+2040 21 Drive
+2044 21 Drive
+2050 21 Drive
+7601 21 Ave#
+7602 21 Ave#
+7605 21 Ave
+7609 21 Ave#
+7611 21 Ave
+7615 21 Ave#
+7619 21 Ave
+7623 21 Ave#
+7802 21 Ave#
+7803 21 Ave
+8002 21 Ave#
+8301 21 Ave
+8305 21 Ave
+8307 21 Ave#
+8311 21 Ave
+8313 21 Ave
+8317 21 Ave
+8321 21 Ave
+8410 21 Ave#
+8411 21 Ave#
+8416 21 Ave#
+8506 21 Ave
+8635 21 Ave
+8714 21 Ave#
+8730 21 Ave
+8732 21 Ave
+8798 21 Ave#
+8404 23 Ave#
+8615 23 Ave
+8625 23 Ave/#
+8627 23 Ave
+8629 23 Ave
+8630 23 Ave#
+8634 23 Ave
+8636 23 Ave
+8784 23 Ave
+8835 23 Ave*#
+8700 25 Ave
+8797 25 Ave
+101 28 Ave
+176 28 Ave
+112 29 Ave
+1907 75 St#
+1944 75 St
+1655 76 St*#
+1663 76 St
+1665 76 St
+1669 76 St
+1673 76 St#
+1675 76 St#
+1677 76 St#
+1684 76 St#
+1704 76 St#
+1752 76 St
+1754 76 St#
+1776 76 St#
+1780 76 St#
+1804 76 St#
+1836 76 St
+1840 76 St#
+2014 76 St
+2021 76 St
+2101 76 St
+2103 76 St
+2107 76 St
+
+2109 76 St
+2116 76 St
+1634 77 St
+1704 77 St#
+1710 77 St#
+1772 77 St
+1865 77 St#
+2048 77 St
+2052 77 St
+2054 77 St
+2058 77 St
+2064 77 St
+2080 77 St#
+2117 77 St#
+2135 77 St
+1624 78 St#
+1710 78 St
+1711 78 St
+1814 78 St#
+1853 78 St
+1937 78 St#
+1971 78 St#
+2014 78 St
+2021 78 St#
+2024 78 St#
+2025 78 St
+2027 78 St
+2029 78 St#
+2033 78 St#
+2034 78 St#
+2035 78 St#
+2039 78 St
+2041 78 St
+2045 78 St#
+2047 78 St
+2053 78 St
+207 3 78 St#
+2101 78 St
+1631 79 St
+1661 79 St#
+1663 79 St#
+1669 79 St#
+1723 79 St
+1732 79 St
+1738 79 St#
+1740 79 St
+1744 79 St
+1746 79 St
+1748 79 St
+1752 79 St#
+1754 79 St#
+1758 79 St
+1759 79 St#
+1761 79 St
+1764 79 St
+1765 79 St
+1768 79 St#
+1770 79 St
+1818 79 St#
+2075 79 St#
+1620 80 St#
+1624 80 St#
+1626 80 St#
+1630 80 St
+1634 80 St
+1638 80 St
+1730 80 St
+1733 80 St
+
+Kings
+
+1737 80 St
+1785 80 St#
+2036 80 St
+2346 80 St
+2348 80 St
+1761 81 St#
+1763 81 St#
+1766 81 St#
+1772 81 St
+1779 81 St#
+1803 81 St#
+1814 81 St
+1818 81 St#
+1820 81 St#
+1824 81 St
+1826 81 St#
+1830 81 St
+1832 81 St
+1836 81 St#
+1850 81 St#
+1902 81 St#
+1969 81 St
+1973 81 St#
+2025 81 St
+2233 81 St#
+2237 81 St#
+2251 81 St
+2305 81 St#
+2309 81 St
+2347 81 St
+2351 81 St#
+2353 81 St
+2357 81 St#
+2361 81 St#
+2363 81 St
+1845 82 St*#
+1850 82 St
+1919 82 St#
+1938 82 St#
+2121 82 St#
+2143 82 St
+2155 82 St*
+2256 82 St
+2323 82 St
+2331 82 St
+2334 82 St#
+2336 82 St
+2338 82 St#
+2346 82 St
+2348 82 St
+2350 82 St
+1637 83 St
+1832 83 St
+1835 83 St#
+1842 83 St
+1869 83 St
+1919 83 St
+1926 83 St#
+1935 83 St#
+1975 83 St"‘#
+2013 83 St#
+2227 83 St#
+2235 83 St
+2237 83 St
+2249 83 St#
+2250 83 St#
+2302 83 St
+2345 83 St
+Kings 18
+
+2412 83 St
+2435 83 St
+2439 83 St
+1726 84 St#
+1745 84 St#
+1835 84 St
+1839 84 St
+1847 84 St
+1878 84 St#
+1901 84 St#
+1975 84 St#
+2000 84 St#
+2021 84 St*
+2070 84 St#
+2080 84 St
+2123 84 St#
+2131 84 St
+2149 84 St
+2149 84 St
+2151 84 St
+2160 84 St#
+2214 84 St
+2240 84 St#
+2263 84 St#
+2264 84 St
+2305 84 St
+2366 84 St
+2368 84 St
+2372 84 St
+2409 84 St#
+2436 84 St
+2471 84 St#
+1701 85 St#
+1745 85 St#
+1751 85 St#
+1757 85 St#
+1762 85 St#
+1819 85 St
+1857 85 St#
+1864 85 St*#
+1917 85 St#
+1922 85 St#
+1970 85 St
+2009 85 St#
+2051 85 St
+2053 85 St
+2069 85 St#
+2109 85 St#
+2200 85 St#
+2229 85 St#
+2239 85 St
+2249 85 St
+2284 85 St
+2302 85 St#
+2345 85 St#
+2365 85 St
+2369 85 St#
+2373 85 St#
+2375 85 St#
+2381 85 St
+2383 85 St#
+2453 85 St
+2522 85 St
+1710 86 St
+1712 86 St#
+1863 86 St#
+1865 86 St#
+2062 77 St
+
+1728 80 St
+
+Van Brunt,11215
+
+171 Carroll St#
+462-464 Carroll St#
+471 Carroll St#
+511 Carroll St#
+529 Carroll St
+585 Carroll St
+607 Carroll St#
+644 Carroll St#
+658 Carroll St
+660 Carroll St#
+703 Carroll St#
+705 Carroll St#
+707 Carroll St
+709 Carroll St#
+711 Carroll St#
+715 Carroll St#
+716 Carroll St#
+717 Carroll St#
+719 Carroll St#
+753 Carroll St
+773 Carroll St#
+777 Carroll St#
+778 Carroll St#
+784 Carroll St#
+786 Carroll St
+812 Carroll St
+815 Carroll St#
+817 Carroll St
+821 Carroll St#
+827 Carroll St
+835 Carroll St
+837 Carroll St
+841 Carroll St#
+843 Carroll St
+847 Carroll St
+849 Carroll St#
+851 Carroll St#
+853 Carroll St#
+856 Carroll St
+863 Carroll St
+888 Carroll St
+1873 Cropsey Ave/#
+78 Eighth Ave*#
+81 Eighth Ave
+87 Eighth Ave
+90 Eighth Ave*#
+100 Eighth Ave*
+111 Eighth Ave#
+111 Eighth Ave*#
+117 Eight Ave
+118 Eighth Ave*#
+130 Eighth Ave*
+133 Eighth Ave*#
+140 Eighth Ave#
+152 Eighth Ave
+154 Eighth Ave#
+156 Eighth Ave
+182 Eight Ave
+183 Eighth Ave
+190 Eighth Ave
+196 Eighth Ave
+198 Eighth Ave
+
+199 Eighth Ave*#
+200 Eighth Ave
+203 Eighth Ave#
+221 Eighth Ave#
+225 Eighth Ave*
+300 Eighth Ave*#
+305 Eighth Ave*#
+314 Eighth Ave*
+315 Eighth Ave#
+320 Eighth Ave*#
+341 Eighth Ave
+358 Eighth Ave
+401 Eighth Ave*#
+404 Eighth Ave#
+412 Eighth Ave#
+420 Eighth Ave#
+510 Eighth Ave#
+512 Eighth Ave#
+514 Eighth Ave
+704 Eighth Ave#
+712 Eighth Ave*#
+719 Eighth Ave#
+723 Eighth Ave#
+805 Eighth Ave#
+807 Eighth Ave#
+808 Eighth Ave
+809 Eighth Ave#
+812 Eighth Ave#
+813 Eighth Ave#
+815 Eighth Ave#
+816 Eighth Ave#
+817 Eighth Ave#
+911 Eighth Ave
+922 Eighth Ave
+1020 Eighth Ave#
+1117 Eighth Ave#
+1121 Eighth Ave#
+1203 Eighth Ave#
+1205 Eighth Ave#
+1207 Eighth Ave
+1209 Eighth Ave*#
+1211 Eighth Ave#
+1213 Eighth Ave#
+1405 Eighth Ave#
+1504 Eighth Ave#
+1616 Eighth Ave
+1630 Eighth Ave
+1632 Eighth Ave#
+1643 Eighth Ave#
+1645 Eighth Ave
+1647 Eighth Ave
+1649 Eighth Ave
+1651 Eighth Ave
+1663 Eighth Ave#
+1902 Eighth Ave#
+1908 Eighth Ave
+1912 Eighth Ave
+1920 Eighth Ave
+149 Eight St#
+
+177 Eighth St
+
+179 Eighth St#
+185a Eighth St
+188 Eighth St
+
+194 Eighth St
+
+225 Eighth St#
+227 Eighth St#
+229 Eighth St#
+231 Eighth St
+
+236 Eighth St#
+238 Eighth St#
+251 Eighth St
+311 Eighth St#
+334 Eighth St
+338 Eighth St
+374 Eighth St
+388 Eighth St
+392 Eighth St*#
+394 Eighth St#
+396 Eighth St*#
+398 Eighth St#
+400 Eighth St#
+414 Eighth St
+474 Eighth St#
+484 Eighth St*
+51 1 Eighth St#
+515 Eighth St#
+519 Eighth St
+523 Eighth St*#
+527 Eighth St*#
+529 Eighth St
+533 Eighth St#
+537 Eighth St#
+541 Eighth St*#
+553 Eighth St#
+557 Eighth St
+563 Eighth St*#
+567 Eighth St
+571 Eighth St
+231 Fifth Ave*
+233 Fifth Ave
+235 Fifth Ave#
+237 Fifth Ave#
+240 Fifth Ave
+242 Fifth Ave#
+254 Fifth Ave#
+256 Fifth Ave
+258 Fifth Ave#
+260 Fifth Ave#
+262 Fifth Ave
+272 Fifth Ave#
+274 Fifth Ave#
+276 Fifth Ave#
+283 Fifth Ave
+291 Fifth Ave#
+295 Fifth Ave
+31 2- 14 Fifth Ave#
+310 Fifth Ave
+347 Fifth Ave
+351 Fifth Ave
+367 Fifth Ave#
+369 Fifth Ave
+371 Fifth Ave
+375 Fifth Ave
+396 Fifth Ave
+400 Fifth Ave
+437 Fifth Ave
+471 Fifth Ave
+481 Fifth Ave#
+483 Fifth Ave#
+487 Fifth Ave#
+710 Fifth Ave#
+718 Fifth Ave
+719 Fifth Ave#
+720 Fifth Ave#
+339 Fifth St#
+350 Fifth St
+
+Kings
+
+512 Fifth St
+
+515 Fifth St
+
+519 Fifth St#
+522 Fifth St
+
+523 Fifth St#
+524 Fifth St
+
+525 Fifth St*#
+527-29 Fifth St#
+530 Fifth St#
+532 Fifth St#
+568 Fifth St#
+571 Fifth St
+
+574 Fifth St#
+576 Fifth St#
+582 Fifth St#
+608 Fifth St
+
+272 First St
+
+274 First St#
+294 First St
+
+298 First St
+
+314 First St
+
+325 First St#
+390 First St
+
+391 First St#
+392 First St
+
+394 First St
+
+397 First St#
+398 First St
+
+437 First St
+
+439 First St#
+441 First St#
+443 First St#
+458 First St
+
+486 First St
+
+504 First St
+
+530 First St#
+997 First St#
+
+19 Fiske Place*
+22 Fiske Place*
+226 Fourth Ave
+234 Fourth Ave
+265 Fourth Ave#
+315 Fourth Ave#
+317 Fourth Ave#
+397 Fourth Ave#
+399 Fourth Ave
+404 Fourth Ave
+406 Fourth Ave#
+412 Fourth Ave
+414 Fourth Ave
+422 Fourth Ave
+463 Fourth Ave#
+475 Fourth Ave#
+479 Fourth Ave#
+481 Fourth Ave#
+488 Fourth Ave#
+490 Fourth Ave
+492 Fourth Ave#
+516 Fourth Ave
+518 Fourth Ave#
+520 Fourth Ave
+522 Fourth Ave#
+565 Fourth Ave
+618 Fourth Ave
+8616 Fourth Ave
+308 Fourth St
+333 Fourth St*#
+391 Fourth St
+
+Kings 19
+
+396 Fourth St
+
+411 Fourth St
+
+469 Fourth St#
+
+473 Fourth St#
+
+486 Fourth St#
+
+491 Fourth St
+
+525 Fourth St#
+
+539 Fourth St
+
+543 Fourth St#
+
+547 Fourth St#
+
+551 Fourth St*
+
+557 Fourth St#
+
+561 Fourth St#
+
+14 Garﬁeld Place#
+
+66 Garﬁeld Place#
+
+95 Garﬁeld Place
+
+112 Garﬁeld Place*
+120 Garﬁeld Place#
+135 Garﬁeld Place*
+137 Garﬁeld Place#
+144 Garﬁeld Place*
+151 Garﬁeld Place#
+154 Garﬁeld Place#
+155 Garﬁeld Place#
+156 Garﬁeld Place
+157 Garﬁeld Place
+158 Garﬁeld Place
+159 Garﬁeld Place#
+182 Garﬁeld Place
+203 Garﬁeld Place
+221 Garﬁeld Place
+229 Garﬁeld Place
+232 Garﬁeld Place
+240 Garﬁeld Place
+242 Garﬁeld Place
+244 Garﬁeld Place
+247 Garﬁeld Place
+253 Garﬁeld Place#
+259 Garﬁeld Place*#
+278 Garﬁeld Place
+293 Garﬁeld Place
+296 Garﬁeld Place*
+297 Garﬁeld Place
+298 Garﬁeld Place
+300 Garﬁeld Place*
+302 Garﬁeld Place*
+304 Garﬁeld Place
+306 Garﬁeld Place
+308 Garﬁeld Place
+310 Garﬁeld Place*#
+314 Garﬁeld Place#
+319 Garﬁeld Place#
+19 Jackson Place
+
+1 Montgomery Place#
+10 Montgomery Place*#
+30 Montgomery Place
+31 Montgomery Place
+34 Montgomery Place
+48 Montgomery Place
+53 Montgomery Place*
+59 Montgomery Place*
+152 Ninth St
+
+223 Ninth St
+
+225 Ninth St
+
+268 Ninth St
+
+328 Ninth St
+
+389 Ninth St#
+
+412 Ninth St
+
+415 Ninth St*#
+439 Ninth St
+
+449 Ninth St
+
+536 Ninth St
+
+571 Ninth St#
+
+21 Polhemus Place
+568 President St
+595 President St
+599 President St#
+622 President St
+642 President St#
+644 President St
+646 President St#
+647 President St
+663 President St
+670 President St*#
+674 President St
+708 President St
+709 President St#
+788 President St#
+790 President St*
+794 President St
+796 President St#
+800 President St
+820 President St#
+828 President St
+834 President St
+845 President St
+846 President St#
+853 President St
+855 President St
+856 President St
+858 President St
+859 President St
+864 President St
+868 President St
+874 President St
+904 President St
+913 President St
+915 President St*#
+922 President St
+924 President St
+926 President St#
+928 President St
+929 President St*
+932 President St
+934 President St
+936 President St#
+937 President St
+938 President St*
+940 President St
+941 President St
+942 President St
+943 President St*#
+949 President St
+153 Prospect Ave
+308 Prospect Ave#
+312 Prospect Ave
+31 4 Prospect Ave#
+318 Prospect Ave
+320 Prospect Ave
+324 Prospect Ave
+326 Prospect Ave#
+328 Prospect Ave#
+338 Prospect Ave
+340 Prospect Ave
+342 Prospect Ave#
+351 Prospect Ave
+
+373 Prospect Ave
+381 Prospect Ave#
+383 Prospect Ave
+385 Prospect Ave
+387 Prospect Ave
+389 Prospect Ave
+390 Prospect Ave#
+392 Prospect Ave
+394 Prospect Ave
+406 Prospect Ave
+414 Prospect Ave
+416 Prospect Ave
+418 Prospect Ave#
+428 Prospect Ave
+432 Prospect Ave#
+436 Prospect Ave
+437 Prospect Ave#
+440 Prospect Ave
+455 Prospect Ave
+456 Prospect Ave*#
+458 Prospect Ave#
+460 Prospect Ave#
+462 Prospect Ave#
+464 Prospect Ave
+466 Prospect Ave#
+470 Prospect Ave#
+490 Prospect Ave#
+548 Prospect Ave
+550 Prospect Ave
+218 Prospect Park#
+
+1 Prospect Park SouthW.
+
+7 Prospect Park SW*#
+10 Prospect Park SW*#
+14 Prospect Park SW*#
+16 Prospect Park SW*#
+38 Prospect Park SW#
+41 Prospect Park SW*#
+63 Prospect Park SW#
+70 Prospect Park SW#
+75 Prospect Park SW*#
+9 Prospect Park W.*
+
+25 Prospect Park W.
+
+40 Prospect Park W.*#
+44 Prospect Park W."'#
+66 Prospect Park W.#
+75 Prospect Park W.*#
+78 Prospect Park W.#
+92 Prospect Park W.*
+94 Prospect Park W.
+
+99 Prospect Park W.
+100 Prospect Park W.
+101 Prospect Park W.
+109 Prospect Park W.
+122 Prospect Park W.
+125 Prospect Park W.*#
+135 Prospect Park W.#
+136 Prospect Park W.#
+145 Prospect Park W.
+150 Prospect Park W.#
+152 Prospect Park W.*#
+154 Prospect Park W.#
+156 Prospect Park W.*#
+159 Prospect Park W.
+161 Prospect Park W.#
+163 Prospect Park W.#
+164 Prospect Park W.#
+165 Prospect Park W.
+168 Prospect Park W.#
+
+170 Prospect Park W.#
+172 Prospect Park W.#
+174 Prospect Park W.#
+176 Prospect Park W.#
+178 Prospect Park W.#
+179 Prospect Park W.
+180 Prospect Park W.
+181 Prospect Park W.#
+182 Prospect Park W.#
+184 Prospect Park W.
+185 Prospect Park W.#
+186 Prospect Park W.*#
+195 Prospect Park W.#
+196-200 Prospect Park W#
+206 Prospect Park W.#
+208 Prospect Park W.
+209 Prospect Park W.#
+210 Prospect Park W.
+240 Prospect Park W.#
+242 Prospect Park W.
+244 Prospect Park W.#
+246 Prospect Park W.#
+263 Prospect Park W.
+271 Prospect Park W.
+276 Prospect Park W.#
+339 Second St
+
+372 Second St
+
+376 Second St
+
+380 Second St
+
+384 Second St#
+
+390 Second St#
+
+404 Second St
+
+412 Second St
+
+416 Second St#
+
+441 Second St#
+
+443 Second St#
+
+470 Second St
+
+501 Second St
+
+507 Second St*
+
+509 Second St*#
+
+520 Second St#
+
+530 Second St#
+
+556 Second St
+
+573 Second St
+
+582 Second St#
+
+606 Second St
+
+622 Second St
+
+626 Second St
+
+628 Second St
+
+635 Second St#
+
+57 Seventh Ave
+
+108 Seventh Ave
+
+119 Seventh Ave#
+
+137 Seventh Ave
+
+138 Seventh Ave
+
+144 Seventh Ave#
+
+148 Seventh Ave
+
+152 Seventh Ave#
+
+153 Seven Ave
+158 Seventh Ave#
+
+160 Seventh Ave#
+
+162 Seventh Ave#
+
+168 Seven Ave
+
+168 Seven Ave#
+
+175 Seventh Ave
+
+177 Seventh Ave#
+
+179 Seventh Ave
+
+183 Seven Ave
+
+Kings
+
+189 Seven Ave#
+193 Seventh Ave#
+195 Seventh Ave
+197 Seventh Ave#
+198 Seventh Ave
+203 Seven Ave*#
+209 Seventh Ave
+217 Seventh Ave
+219 Seventh Ave
+226 Seventh Ave
+228 Seventh Ave#
+230 Seventh Ave
+238 Seventh Ave
+240 Seventh Ave
+242 Seventh Ave#
+284 Seven Ave
+293 Seven Ave
+311 Seventh Ave
+313 Seventh Ave
+322 Seventh Ave
+324 Seventh Ave
+340 Seventh Ave
+363 Seventh Ave#
+369 Seventh Ave*
+374 Seventh Ave#
+378 Seventh Ave
+382 Seventh Ave
+383 Seventh Ave
+388 Seventh Ave#
+400 Seventh Ave#
+409 Seven Ave
+
+41 1 Seventh Ave
+413 Seventh Ave
+420 Seventh Ave
+425 Seventh Ave
+428 Seventh Ave
+435 Seven Ave
+445 Seventh Ave#
+447 Seventh Ave
+449 Seventh Ave#
+451 Seven Ave#
+469 Seventh Ave
+471 Seventh Ave
+477 Seventh Ave
+485 Seventh Ave
+488 Seventh Ave#
+493 Seventh Ave#
+497 Seventh Ave
+564 Seventh Ave#
+564 Seventh Ave#
+570 Seventh Ave
+576 Seventh Ave
+582 Seventh Ave#
+584 Seventh Ave
+586 Seventh Ave#
+216 Seventh St
+277 Seventh St
+278 Seventh St
+301 Seventh St#
+303 Seventh St#
+305 Seventh St#
+307 Seventh St#
+361 Seventh St
+378 Seventh St#
+405 Seventh St
+435 Seventh St
+482 Seventh St
+484 Seventh St
+
+Kings 20
+
+550 Seventh St#
+554 Seventh St#
+558 Seventh St
+562 Seventh St#
+566 Seventh St
+570 Seventh St
+574 Seventh St
+93 Sixth Ave
+210 Sixth Ave
+211 Sixth Ave
+228 Sixth Ave
+236 Sixth Ave
+238 Sixth Ave
+256 Sixth Ave
+264 Sixth Ave*#
+272 Sixth Ave#
+277 Sixth Ave#
+291 Sixth Ave
+307 Sixth Ave#
+311 Sixth Ave
+354 Sixth Ave
+369 Sixth Ave
+371 Sixth Ave
+400 Sixth Ave
+420 Sixth Ave*
+481 Sixth Ave
+485 Sixth Ave
+511 Sixth Ave
+513 Sixth Ave
+526 Sixth Ave
+530 Sixth Ave#
+532 Sixth Ave
+534 Sixth Ave*
+547 Sixth Ave
+561 Sixth Ave
+582 Sixth Ave
+584 Sixth Ave
+586 Sixth Ave
+588 Sixth Ave
+594 Sixth Ave
+619 Sixth Ave
+646 Sixth Ave#
+650 Sixth Ave
+662 Sixth Ave#
+664 Sixth Ave#
+685 Sixth Ave
+693 Sixth Ave
+698 Sixth Ave#
+714 Sixth Ave#
+727 Sixth Ave
+731 Sixth Ave#
+733 Sixth Ave#
+737 Sixth Ave#
+4606 Sixth Ave#
+242 Sixth St
+288 Sixth St#
+292 Sixth St
+300 Sixth St#
+316 Sixth St#
+318 Sixth St#
+322 Sixth St*#
+343 Sixth St
+462 Sixth St*
+464 Sixth St
+505 Sixth St#
+509 Sixth St#
+511 Sixth St#
+567 Sixth St#
+
+585 Sixth St#
+605 Sixth St
+610 Sixth St
+324 S. Fourth St
+414 S. 4 St
+1667 Tenth Ave
+300 Tenth St#
+304 Tenth St#
+346 Tenth St
+408 Tenth St
+545 Tenth St
+669 Tenth St
+257 Third Ave
+276 Third Ave#
+425 Third Ave
+443 Third Ave
+445 Third Ave
+446 Third Ave
+448 Third Ave
+450 Third Ave
+454 Third Ave
+484 Third Ave#
+517 Third Ave
+534 Third Ave#
+301 Third St
+303 Third St#
+319 Third St#
+323 Third St#
+329 Third St
+331 Third St#
+333 Third St
+337 Third St
+339 Third St
+385 Third St
+392 Third St
+396 Third St*#
+400 Third St*#
+404 Third St*
+414 Third St*#
+419 Third St
+429 Third St#
+433 Third St*#
+437 Third St#
+440 Third St
+441 Third St#
+445 Third St#
+449 'I'hird St#
+450 Third St*#
+453 Third St#
+454 Third St*
+457 'I'hird St#
+458 Third St#
+461 Third St#
+462 Third St#
+466 Third St
+474 Third St*#
+477 Third St
+478 Third St*#
+488 Third St*#
+492 Third St
+500 Third St*
+504 Third St#
+533 Third St
+573 Third St#
+568 Union St
+570 Union St#
+572 Union St
+578 Union St
+
+580 Union St
+586 Union St
+588 Union St
+629 Union St
+633 Union St
+639 Union St
+673 Union St
+678 Union St
+683 Union St#
+685 Union St#
+687 Union St#
+691 Union St#
+693 Union St#
+695 Union St#
+709 Union St#
+711 Union St
+719 Union St
+721 Union St
+751 Union St
+756 Union St
+767 Union St#
+768 Union St#
+769 Union St#
+770 Union St#
+772 Union St#
+774 Union St#
+781 Union St
+803 Union St
+821 Union St
+822 Union St
+827 Union St
+830 Union St
+832 Union St
+848 Union St
+852 Union St
+857 Union St
+862 Union St#
+869 Union St
+873 Union St
+875 Union St
+881 Union St#
+882 Union St#
+883 Union St
+885 Union St
+886 Union St#
+888 Union St#
+892 Union St
+896 Union St
+898 Union St
+900 Union St
+904 Union St*#
+916 Union St*#
+925 Union St*#
+559 Warren St
+198 W. 9 St
+52 Windsor Place
+66 Windsor Place#
+427 3 Ave
+480 3 Ave
+486 3 Ave
+
+401 4 Ave#
+483 4 Ave
+524 4 Ave"‘#
+219 5 Ave
+229 5 Ave
+244 5 Ave#
+294 5 Ave#
+343 5 Ave
+
+349 5 Ave
+355 5 Ave
+363 5 Ave#
+584 5 Ave
+301 6 Ave
+343 6 Ave#
+399 6 Ave#
+666 6 Ave
+181 7 Ave#
+294 7 Ave
+346 7 Ave#
+479 7 Ave
+83 8 Ave
+106 8 Ave
+115 8 Ave*
+121 8 Ave
+123a 8 Ave
+189 8 Ave#
+207 8 Ave#
+211 8 Ave
+408 8 Ave#
+509 8 Ave
+1419 8 Ave#
+1657 8 Ave#
+1673 8 Ave
+1677 8 Ave
+1683 8 Ave
+1661 11 Ave#
+390 1 St
+449 1 St
+323 2 St
+337 2 St
+406 2 St
+439 2 St#
+325 3 St
+401 3 St
+412 3 St
+379 4 St
+451 4 St
+465 4 St#
+330-332 5 St
+404 5 St
+528 5 St
+572 5 St
+274 6 St
+286 6 St#
+476 6 St
+573 6 St#
+598 6 St
+350 7 St*#
+374 7 St
+472 7 St
+180 8 St
+196 8 St
+198 8 St
+234 8 St
+414 8 St#
+130 9 St
+145 9 St
+147 9 St
+169 9 St#
+265 9 St#
+267 9 St#
+461 9 St
+491 9 St
+492 9 St
+505 9 St#
+511 9 St#
+
+512 9 St
+420 10 St
+597 10 St
+633 10 St
+634 10 St#
+648 10 St
+231 11 St
+318 11 St
+320 11 St
+352 11 St#
+358 11 St
+362 11 St
+404 11 St
+425 11 St
+449 11 St
+454 11 St#
+455 11 St
+459 11 St
+496 11 St#
+500 11 St#
+506 11 St#
+527 11 St
+536 11 St#
+537 11 St
+540 11 St
+542 11 St#
+548 11 St
+550 11 St#
+552 11 St#
+554 11 St#
+558 11 St#
+573 11 St#
+618 11 St#
+624 11 St#
+632 11 St
+156 12 St#
+181 12 St
+207 12 St
+209 12 St#
+227 12 St
+250 12 St
+252 12 St#
+256 12 St#
+258 12 St#
+260 12 St#
+262 12 St#
+266 12 St#
+267 12 St
+296-12 12 St
+296 12 St
+300 12 St#
+307 12 St#
+308 12 St#
+310 12 St#
+324 12 St#
+326 12 St
+353 12 St#
+355 12 St#
+356 12 St#
+358 12 St
+359 12 St#
+374 12 St
+382 12 St#
+384 12 St#
+392 12 St#
+396 12 St
+398 12 St
+399 12 St
+
+Kings 21
+
+401 12 St
+421 12 St
+468 12 St#
+474 12 St
+476 12 St#
+479 12 St
+480 12 St#
+481 12 St
+483 12 St*#
+485 12 St#
+487 12 St*
+489 12 St
+493 12 St
+497 12 St
+499 12 St*
+501 12 St#
+501 12 St#
+505 12 St
+509 12 St
+513 12 St
+516 12 St
+518 12 St#
+521 12 St
+143 13 St
+204 13 St
+219 13 St#
+223 13 St#
+225 13 St
+243 13 St#
+249 13 St#
+331 13 St
+351 13 St#
+36413 St
+373 13 St*
+375 13 St#
+430 13 St
+43213 St
+439 13 St
+453 13 St#
+481 13 St
+152 14 St
+154 14 St#
+172 14 St*#
+181 14 St#
+20414 St
+239 14 St
+261 14 St
+280 14 St#
+284 14 St#
+310 14 St#
+336 14 St#
+338 14 St#
+340 14 St
+342 14 St#
+34414 St
+346 14 St
+361 14 St
+370 14 St
+407 14 St#
+409 14 St
+411 14 St
+413 14 St
+415 14 St
+417 14 St#
+419 14 St#
+421 14 St
+425 14 St#
+442 14 St#
+
+485 14 St
+489 14 St#
+60 15 St
+93 15 St#
+95 15 St
+97 15 St
+99 15 St
+101 15 St
+111 15 St#
+117-119 15 St
+162 15 St
+167 15 St
+169 15 St#
+171 15 St#
+173 15 St
+174 15 St#
+175 15 St
+238 15 St#
+244 15 St#
+246 15 St
+270 15 St#
+285 15 St
+296 15 St#
+298 15 St
+364 15 St
+388 15 St
+390 15 St
+392 15 St
+417 15 St
+423 15 St*
+437 15 St
+440 15 St#
+442 15 St#
+444 15 St#
+446 15 St*#
+448 15 St#
+454 15 St*#
+456 15 St*#
+457 15 St#
+458 15 St#
+460 15 St
+462 15 St#
+466 15 St#
+470 15 St#
+58 16 St#
+60 16 St#
+68 16 St
+76 16 St#
+80 16 St#
+82 16 St
+88 16 St*
+177 16 St#
+185 16 St
+187 16 St
+191 16 St
+193 16 St
+235 16 St#
+255 16 St
+257 16 St#
+355 16 St#
+357 16 St
+419 16 St#
+423 16 St#
+427 16 St#
+429 16 St#
+431 16 St#
+433 16 St
+435 16 St#
+
+437 16 St
+439 16 St#
+441 16 St#
+443 16 St#
+445 16 St
+447 16 St
+449 16 St
+451 16 St#
+467 16 St#
+475 16 St#
+531 16 St#
+551 16 St#
+553 16 St#
+130 17 St#
+132 17 St#
+133 17 St
+13417 St
+140 17 St#
+144 17 St#
+146 17 St#
+151 17 St
+18217 St
+203 17 St#
+268 17 St#
+349 17 St
+351 17 St
+39917 St
+411 17 St
+437 17 St
+439 17 St
+443 17 St
+445 17 St
+447 17 St
+449 17 St*
+463 17 St
+467 17 St
+469 17 St#
+485 17 St
+502 17 St#
+50917 St
+513 17 St#
+515 17 St#
+543 17 St
+54917 St
+555 17 St
+159 18 St#
+161 18 St
+207 18 St#
+223 18 St
+32918 St
+333 18 St
+337 18 St
+260 19 St#
+276 19 St#
+278 19 St#
+284 19 St#
+285 19 St#
+286 19 St#
+338 19 St
+348 19 St
+388 19 St
+251 20 St
+259 20 St
+261 20 St
+267 20 St
+271 20 St
+273 20 St#
+288 20 St#
+
+289 20 St#
+290 20 St
+291 20 St
+292 20 St#
+293 20 St
+321 20 St
+367 20 St#
+401 20 St
+431 20 St#
+249 21 St
+289 21 St
+293 21 St#
+326 21 St
+336 21 St#
+338 21 St
+340 21 St
+342 21 St
+344 21 St#
+346 21 St
+351 21 St
+353 21 St#
+354 21 St
+355 21 St
+356 21 St
+279 22 St#
+281 22 St
+283 22 St
+306 22 St#
+341 22 St
+344 22 St
+352 22 St
+356 22 St
+223 23 St
+233 23 St
+249 23 St#
+265 23 St
+273 23 St#
+277 23 St#
+281 23 St#
+283 23 St#
+318 23 St
+327 43 St
+
+Brevoort,l1216
+
+2 Arlington Place
+14 Arlington Place
+
+15 Arlington Place#
+1277 Atlantic Ave
+1306 Atlantic Ave#
+1369 Atlantic Ave
+1047 Bedford Ave#
+1063-65 Bedford Ave
+1069 Bedford Ave
+1073 Bedford Ave
+1077 Bedford Ave
+1187 Bedford Ave
+1233 Bedford Ave
+1235 Bedford Ave
+1238 Bedford Ave
+1441 Bedford Ave
+1442 Bedford Ave#
+1454 Bedford Ave
+1460 Bedford Ave
+1463 Bedford Ave
+1475 Bedford Ave
+
+Kings
+
+1478 Bedford Ave
+1480 Bedford Ave
+1483 Bedford Ave
+1486 Bedford Ave
+1490 Bedford Ave#
+1508 Bedford Ave
+1516 Bedford Ave*
+1518 Bedford Ave#
+1524 Bedford Ave
+1528 Bedford Ave
+948 Bergen St
+950 Bergen St
+952 Bergen St
+967 Bergen St#
+980 Bergen St#
+986 Bergen St
+988 Bergen St#
+1039 Bergen St
+1042 Bergen St#
+1046 Bergen St
+1054 Bergen St
+1058 Bergen St
+1059 Bergen St
+1061 Bergen St#
+1063 Bergen St
+1066 Bergen St
+1075 Bergen St#
+1077 Bergen St#
+1120 Bergen St
+1130 Bergen St#
+1131 Bergen St#
+1137 Bergen St#
+1141 Bergen St#
+1144 Bergen St
+23 Brevoort Place
+24 Brevoort Place
+29 Brooklyn Ave#
+55 Brooklyn Ave
+71 Brooklyn Ave
+78-88 Brooklyn Ave*
+95 Brooklyn Ave#
+96 Brooklyn Ave
+97 Brooklyn Ave#
+102 Brooklyn Ave
+107 Brooklyn Ave#
+108 Brooklyn Ave
+241 Clifton Place
+251 Clifton Place
+267 Clifton Place
+322 Clifton Place
+338 Clifton Place
+349 Clifton Place
+1055 Dean St#
+1076 Dean St
+1084 Dean St
+1093 Dean St
+1100 Dean St
+1102 Dean St
+1104 Dean St
+1108 Dean St
+1125 Dean St#
+1133 Dean St
+1138 Dean St#
+1140 Dean St
+1145 Dean St
+1147 Dean St
+
+1 151 Dean St#
+1155 Dean St#
+
+Kings 22
+
+1159 Dean St#
+1163 Dean St
+1177 Dean St
+
+1 181 Dean St
+1184 Dean St
+1185 Dean St
+1190 Dean St
+1207 Dean St
+1209 Dean St
+1211 Dean St
+1221 Dean St
+1225 Dean St
+1229 Dean St
+1237 Dean St
+1239 Dean St
+1241 Dean St#
+1241 Dean St
+1242 Dean St#
+1243 Dean St
+1244 Dean St
+1247 Dean St
+1248 Dean St
+1249 Dean St
+1289 Dean St
+1296 Dean St
+1299 Dean Ave*
+1303 Dean St*#
+1310 Dean St
+
+13 12 Dean St
+1314 Dean St
+1326 Dean St
+1328 Dean St#
+1383 Dean St#
+1391 Dean St#
+1395 Dean St
+1400 Dean St#
+1415 Dean St
+79-81 Decatur St
+2 Decatur St#
+
+35 Decatur St
+
+41 Decatur St
+
+42 Decatur St
+
+59 Decatur St
+
+69 Decatur St#
+92 Decatur St#
+94 Decatur St#
+689 Dekalb Ave
+699 Dekalb Ave
+709 Dekalb Ave
+717 Dekalb Ave
+741 Dekalb Ave
+379 Eastern Pkwy#
+387 Eastern Pkwy#
+481 Eastern Pkwy#
+489 Eastern Pkwy
+497 Eastern Pkwy
+511 Eastern Pkwy
+555 Eastern Pkwy
+612 Flatbush Ave#
+1156 Fulton St#
+1165 Fulton St
+1165 Fulton St
+1200 Fulton St
+1221 Fulton St
+1337 Fulton St
+1347 Fulton St
+1349 Fulton St
+1351 Fulton St
+
+1353 Fulton St
+1357 Fulton St
+1359 Fulton St
+1361 Fulton St
+1391 Fulton St
+1397 Fulton St
+1399 Fulton St
+1407 Fulton St#
+1460 Fulton St
+1462 Fulton St#
+1468 Fulton St
+1470 Fulton St#
+1486 Fulton St
+1499 Fulton St
+1513 Fulton St
+1516 Fulton St#
+1547 Fulton St
+262 Gates Ave
+272 Gates Ave
+274 Gates Ave
+299 Gates Ave
+346 Gates Ave#
+410 Gates Ave
+412 Gates Ave
+47 7 Gates Ave
+478 Gates Ave
+461 Green Ave
+365 Greene St
+370 Greene Ave
+426 Greene Ave#
+455 Greene Ave
+473 Greene Ave
+481 Greene Ave
+516 Greene Ave
+566 Greene Ave
+11 Halsey St
+
+13 Halsey St#
+22 Halsey St#
+27 Halsey St
+
+35 Halsey St
+
+39 Halsey St
+
+41 Halsey St
+
+44 Halsey St
+
+53 Halsey St
+
+57 Halsey St
+
+61 Halsey St
+
+67 Halsey St#
+83 Halsey St
+
+85 Halsey St#
+89 Halsey St
+105 Halsey St
+122 Halsey St
+143 Halsey St
+153 Halsey St
+157 Halsey St#
+159 Halsey St
+165 Halsey St
+176 Halsey St
+263 Halsey St
+271 Halsey St#
+273 Halsey St#
+27 4 Halsey St
+275 Halsey St#
+277 Halsey St#
+279 Halsey St
+297 Halsey St
+396 Halsey St
+10 Hancock St
+

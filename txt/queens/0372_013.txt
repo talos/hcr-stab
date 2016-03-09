@@ -1,0 +1,1845 @@
+15-19 119 St#
+15-21 119 St#
+22-14 120 St
+14-54 121 St
+14-56 121 St
+11-41 123 St
+15-23 123 St#
+21-10 123 St
+18-12 124 St
+18-45 125 St#
+23-37 125 St#
+23-39 125 St#
+20-24 127 St#
+14-42 132 St
+14-44 132 St
+14-46 132 St
+
+Whitestone,11357
+
+10-17 Cross Island Pkwy*
+10-19 Cross Island Pkwy*
+10-21 Cross Island Pkwy*
+10-23 Cross Island Pkwy*
+10-25 Cross Island Pkwy*
+10-27 Cross Island Pkwy*
+10-27a Cross Island Pkwy
+10-31 Cross Island Pkwy*
+10-33 Cross Island Pkwy*
+10-35 Cross Island Pkwy
+151-05 Cross Island Pkwy*
+65-03 Grand Ave
+
+162-ll Ninth Ave*
+162-20 Ninth Ave*
+162-31 Ninth Ave*
+162-40 Ninth Ave*
+166-31 Ninth Ave*
+166-35 Ninth Ave*
+
+19-10 Parsons Blvd
+
+20-05 Parsons Blvd
+
+20-1 1 Parsons Blvd
+
+20-15 Parsons Blvd
+
+20-21 Parsons Blvd
+
+20-25 Parsons Blvd
+
+20-31 Parsons Blvd
+
+20-35 Parsons Blvd
+
+160-15 Powells Cove B1vd*#
+162-01 Powells Cove Blvd*
+
+162- 10 Powells Cove B1vd*
+162-21 Powells Cove B1vd*
+162-30 Powells Cove Blvd*
+162-41 Powells Cove Blvd*
+162-41 Powells Cove Blvd
+166-10 Powells Cove Blvd
+166-26 Powells Cove B1vd*
+166-40 Powells Cove B1vd*
+166-41 Powells Cove Blvd*
+10-17/33 Whitestone Pkwy*
+157-12 Willets Point Blvd
+157-20 Willets Point Blvd
+145-11 11 Ave
+
+152-66 12 Ave#
+
+152-68 12 Ave
+
+152-70 12 Ave
+
+152-72 12 Ave
+
+166-25 12 Ave*
+
+167-05 12 Ave*
+167-15 12 Ave*
+168-01 12 Ave*
+168-11 12 Ave*
+154-17 15 Ave#
+145-10 20 Ave
+145-20 20 Ave
+145-26 20 Ave
+145-05 21 Ave
+145-11 21 Ave
+145-15 21 Ave
+149-47 22 Ave
+149-49 22 Ave*
+149-51 22 Ave*
+149-53 22 Ave*
+149-55 22 Ave*
+149-57 22 Ave*
+149-59 22 Ave*
+149-61 22 Ave*
+149-63 22 Ave*
+149-65 22 Ave
+150-06 23 Ave
+150-14 23 Ave
+149-35 25 Ave
+13-39 146 Place
+20-10 146 St
+20-14 146 St
+20-18 146 St
+20-20 146 St
+20-24 146 St
+20-30 146 St
+13-22 147 St
+22-11 149 St#
+15-06 150 St#
+21-19 150 St
+22-01 150 St
+22-09 150 St
+23-08 150 St
+11-22 154 St
+07-15 162 St*
+09-05 162 St*
+1001 162 St*
+10-11 162 St*
+10-21 162 St*
+11-01 162 St*
+07-04 166 St*
+07-24 166 St*
+07-25 166 St*
+09-05 166 St*
+09-15 166 St*
+09-20 166 St
+10-10 166 St*
+10-24 166 St*
+10-25 166 St
+10-34 166 St*
+
+Station A. ,11358
+
+18-10 Centre St#
+
+162-24 Qocheron Ave
+163-02 Crocheron Ave
+163-04 Crocheron Ave
+163-0'7 Crocheron Ave
+163-09 Crocheron Ave#
+167-1 0 Crocheron Ave*#
+168-09 Crocheron Ave#
+
+Queens
+
+168-10 Crocheron Ave/#
+168- 17 Crocheron Ave#
+168-18 Crocheron Ave#
+170-06 Crocheron Ave*
+171-10 Crocheron Ave
+171-19 Crocheron Ave*
+172-157 Crocheron Ave
+189-11 Crocheron Ave
+189-14 Crocheron Ave
+190-01 Crocheron Ave
+190- 15 Crocheron Ave
+191-10 Crocheron Ave
+191-15 Crocheron Ave*#
+166-15 Depot Rd
+34-02 Jordan St#
+192-05 Northern B1vd#
+158-03 Sanford Ave#
+158-04 Sanford Ave#
+158-09 Sanford Ave#
+158-10 Sanford Ave
+158-16 Sanford Ave#
+158-17 Sanford Ave#
+159-04 Sanford Ave#
+159-10 Sanford Ave#
+159-16 Sanford Ave#
+160-04 Sanford Ave#
+160-09 Sanford Ave#
+160-10 Sanford Ave#
+190-12 Station Rd
+191-04 Station Rd
+191-08 Station Rd
+191-12 Station Rd
+192-06 Station Rd
+192-10 Station Rd
+192-14 Station Rd
+193-04 Station Rd
+193-08 Station Rd
+195-08 Station Rd
+195-12 Station Rd
+195-16 Station Rd
+35-06 Utopia Pkwy*
+36-10 Utopia Pkwy
+37-15 Utopia Pkwy*
+42-13 Utopia Pkwy
+171-06 28 Ave
+
+161-11 29 Ave
+
+198-39 32 Ave#
+198-40 32 Ave#
+189-16 35 Ave
+
+189-18 35 Ave
+
+191-05 35 Ave*#
+191-06 35 Ave
+
+191-11a 35 Ave
+
+191-15 35 Ave
+191-17b 35 Ave
+191-19a 35 Ave
+
+191-21 35 Ave
+191-21a 35 Ave
+191-23h 35 Ave
+
+191-25 35 Ave
+
+191-27 35 Ave
+
+189-10 37 Ave#
+189-15 37 Ave#
+189-16 37 Ave#
+
+191-07 37 Ave
+
+191-11 37 Ave
+
+192-11 37 Ave*
+
+193-15 37 Ave*
+
+13
+
+194-11 37 Ave
+194-12 37 Ave
+194-15 37 Ave
+194-15/17 37 Ave
+189-07 39 Ave*
+190-05 39 Ave*
+191-03 39 Ave*
+191-03/15 39 Ave
+192-02 39 Ave*
+194-05 39 Ave
+194-17 39 Ave
+195-05 39 Ave*
+192-07 42 Ave
+192-11 42 Ave
+192-15 42 Ave
+164-18 43 Ave#
+133-31 41 Rd
+40-07 193 Rd#
+22-08 120 St
+41-05 158 St#
+43-39 158 St#
+41-04 159 St#
+42-35 159 St#
+42-38 159 St
+43-06 159 St#
+43-11 159 St#
+43-12 159 St#
+43-51 159 St
+43-53 159 St
+43-55 159 St
+43-44 160 St
+45-85 160 St
+45-87 160 St
+45-89 160 St
+35-91 161 St#
+45-61 161 St
+45-82 161 St
+45-84 161 St
+45-86 161 St
+45-88 161 St
+40-33 162 St
+43-55 162 St
+46-22 162 St
+46-24 162 St
+35-40 163 St#
+35-44 163 St#
+35-91 163 St#
+42-13 163 St
+43-76 163 St#
+35-58 164 St
+35-59 164 St
+35-60 164 St#
+35-86 164 St#
+36-05 164 St#
+42-11 164 St#
+42-15 164 St*#
+42-17 164 St
+42-19 164 St
+43-06 164 St#
+36-14 165 St#
+36-25 165 St
+40-14 165 St
+42-14 165 St
+42-16 165 St
+42-18 165 St#
+43-19 165 St#
+43-23 165 St#
+43-26 165 St#
+
+43-27 165 St
+43-29 165 St
+43-31 165 St
+35-59 166 St
+35-05 167 St*#
+36-19 167 St#
+36-35 167 St#
+61-40 167 St
+35-69 168 St#
+36-03 168th St
+36-03 168 St
+36-15 168 St
+36-19 168 St
+36-20 168 St*#
+36-23 168 St
+35-06 169 St#
+36-42 169 St
+36-21 170 St*
+36-35 170 St
+36-11 171 St*
+36-40 171 St*
+28-06 172 St
+28-10 172 St
+28-16 172 St
+28-22 172 St
+35-48 172 St*
+36-46 172 St*
+35-15 190 St
+35-21 190 St
+37-14 190 St*
+40-35 190 St#
+40-41 190 St#
+3501 191 St#
+36-03 191 St
+36-07 191 St
+36-11 191 St
+36-21 191 St
+36-25 191 St
+36-29 191 St
+37-15 191 St*
+40-06 191 St
+40-07 191 St
+40-10 191 St
+40-11 191 St
+40-14 191 St
+40-14 191 St
+40-18 191 St
+34-66 192 St
+34-70b 192 St
+40-05 192 St
+40-11 192 St
+40-12 192 St
+40-15 192 St
+40-17 192 St
+40-18 192nd St
+40-18 192 St
+40-21 192 St
+40-21 192 St
+40-22/26 192 St
+40-25 192 St
+40-26/36 192 St
+40-29 192 St
+40-30 192 St
+40-31 192 St
+40-32 192 St
+40-35 192 St
+40-41 192 St
+40-45 192 St
+
+36-26 193 St
+40-10 193 St
+40-11 193 St
+40-15 193 St
+40-46 193 St
+40-46-48 193 St
+40-48 193 St
+36-23 194 St
+36-25 194 St
+36-29 194 St
+36-31 194 St
+36-33 194 St
+36-38 194 St*
+40-04 194 St
+43-13 194 St
+43-27 194 St
+36-18/24 195 St
+37-08 195 St
+37-12 195 St
+37-15 195 St*
+40-05 195 St
+
+Bayside,11360
+16-66 Bell Blvd
+
+16-70 Bell Blvd
+
+23-25 Bell Blvd
+
+23-35 Bell Blvd
+
+23-45 Bell Blvd
+
+23-55 Bell Blvd
+
+18-35 Corporal Kennedy
+18-55 Corporal Kennedy
+18-75 Corporal Kennedy
+23-50 Waters Edge
+211-10 18 Ave
+
+211-40 18 Ave
+
+209-39 23 Ave*
+
+211-35 23 Ave
+
+211-65 23 Ave
+
+199-12 32 Ave
+
+15-20 202 St*
+
+18-65 211 St
+
+17-85 215 St*
+
+18-05 215 St*
+
+18-15 215 St*
+
+Bayside,11361
+
+244-14 Alameda Ave
+244-18 Alameda Ave
+244-20 Alameda Ave
+244-20 Alameda Ave
+
+36-08 Bell Blvd
+
+43-28 Bell Blvd
+
+39-06 Corporal Kennedy St
+42-11 Corporal Kennedy St
+42- 17 Corporal Kennedy St
+42-21 Corporal Kennedy St
+42-41 Corporal Kennedy St
+42-45 Corporal Kennedy St
+79-16 Main St
+
+201-02 Rocky Hill Rd*
+202-02 Rocky Hill Rd*
+209-02 34 Ave
+
+209-04 34 Ave
+
+209-06 34 Ave
+
+209-08 34 Ave
+209-10 34 Ave
+209-12 34 Ave
+204-12 35 Ave*
+204-17 35 Ave
+205-14 35 Ave*
+209-43 35 Ave*
+204-03 36 Ave*
+205-01 36 Ave
+212-16 38 Ave
+213-49 38 Ave
+213-51 38 Ave
+213-53 38 Ave
+208-08 39 Ave
+208-09 39 Ave
+208-10 39 Ave
+208-12 39 Ave
+208-14 39 Ave
+208-09 41 Ave
+208-11 41 Ave
+209-10 41 Ave*
+210-50 41 Ave*
+213-03 41 Ave
+213-09 41 Ave
+202-06 42 Ave
+203-05 42 Ave
+204-14 42 Ave#
+205-16 42 Ave
+209-07 42 Ave#
+210-02 42 Ave
+210-04 42 Ave
+210-06 42 Ave
+210-06 42 Ave
+211-01 42 Ave
+211-09 42 Ave
+21 1-11 42 Ave
+21 1-11 42 Ave
+212-23 42 Ave
+202-01 43 Ave
+202-02 43 Ave#
+202-09 43 Ave#
+202-10 43 Ave
+202-17 43 Ave#
+202-18 43 Ave#
+203-06 43 Ave
+204-06 43 Ave
+210-01 43 Ave
+210-02 43 Ave
+210-03 43 Ave
+210-05 43 Ave
+210-05 43 Ave
+214-32 43 Ave#
+215-05 43 Ave/#
+215-37 43 Ave#
+218-12 43 Ave*
+220-55 46 Ave*
+215-09 47 Ave*
+215-28 47 Ave
+215-47 47 Ave*
+216-04 47 Ave*
+216-10 47 Ave*
+216-16 47 Ave*
+251-30 71 Ave
+39-30 214 Place
+46-11 215 Place*
+46-16 215 Place*
+46-17 215 Place*
+46-25 215 Place*
+
+Queens
+
+46-26 215 Place*
+46-30 215 Place*
+46-31 215 Place*
+46-42 215 Place*
+46-43 215 Place*
+45-34 220 Place
+45-36 220 Place
+45-38 220 Place
+209-44 34 Rd*
+63-69 110 St
+35-11 200 St
+35-06/16 201 St*
+40-45 201 St#
+42-48 201 St
+40-40 203 St*#
+42-09 204 St
+35-04 205 St*
+35-41 205 St*
+39-05 208 St
+39-07 208 St
+39-11 208 St
+39-18 208 St#
+43-24 208 St#
+34-07 209 St
+34-09 209 St
+39-08 209 St
+39-10 209 St
+39-12 209 St
+39-14 209 St
+39-05 210 St#
+39-07 210 St
+39-09 210 St#
+39-11 210 St#
+43-10 210 St
+42-06 212 St
+42-10 212 St
+42-34 212 St
+42-40 212 St
+36-21 213 St
+36-26 213 St*
+38-12 213 St#
+38-24 213 St#
+39-41 213 St
+43-05 215 St#
+46-41 215 St*
+46-40 216 St*
+47-15 216 St*
+47-16 216 St*
+47-19 216 St*
+47-31 216 St*
+47-35 216 St*
+43-14 217 St
+47-14 217 St*
+47-18 217 St*
+47-30 217 St*
+47-34 217 St*
+46-04 245 St
+46-08 245 St
+
+Little Neck ,1l362
+
+49-09 Hartford St
+
+49-23 Hanford St
+
+47-19 Little Neck Pkwy*
+54-40 Little Neck Pkwy*
+54-44 Little Neck Pkwy
+
+14
+
+56-28 Marathon Pkwy
+239-19 66 Ave
+147-18 71 Ave
+
+Little Neck,1 1363
+
+1530 Bayview Ave
+
+38-30 Douglaston Pkwy*#
+
+42-30 Douglaston Pkwy*
+43-25 Douglaston Pkwy*
+44-20 Douglaston Pkwy*
+43-60 Douglaston Pkwy
+44-37 Douglaston Pkwy#
+44-30 Douglaston Pkwy
+49-30 Hanford St#
+
+40-01 Little Neck Pkwy*#
+
+241-20 Northern Blvd*
+242-01 Northern Blvd#
+59-11 Queens B1vd*#
+239-10 42 Ave
+
+239-14 42 Ave#
+239-18 42 Ave#
+
+43-51 248 St
+
+Oakland
+Gardens,11364
+
+69-04 Bell Blvd*
+
+73-03 Bell Blvd*
+
+73-62 Bell Blvd*
+
+73-63 Bell Blvd*
+
+75-08 Bell Blvd*
+
+75-26 Bell Blvd*
+
+75-34 Bell Blvd*
+
+75-40 Bell Blvd*
+
+61 -58b Cloverdale Blvd
+62- 1 Ob Cloverdale Blvd
+67-02a Cloverdale Blvd
+67-04a Cloverdale Blvd
+67-06a Cloverdale Blvd
+67-08b Cloverdale Blvd
+67- 1 0b Cloverdale Blvd
+67-12a Cloverdale Blvd
+67-14a Cloverdale Blvd
+67-16a Cloverdale Blvd
+67-18a Cloverdale Blvd
+67-20b Cloverdale Blvd
+67-22b Cloverdale Blvd
+67-24a Cloverdale Blvd
+67-26a Cloverdale Blvd
+67-28a Cloverdale Blvd
+68-02a Cloverdale Blvd
+68-04b Cloverdale Blvd
+68-06b Cloverdale Blvd
+68-08a Cloverdale Blvd
+68- 10a Cloverdale Blvd
+68-12b Cloverdale Blvd
+68-14b Cloverdale Blvd
+68-16a Cloverdale Blvd
+68-40a Cloverdale Blvd
+68-42a Cloverdale Blvd
+68-44a Cloverdale Blvd
+68-46b Cloverdale Blvd
+68-48b Cloverdale Blvd
+68-50a Cloverdale Blvd
+
+68-52a Cloverdale Blvd
+68-54a Cloverdale Blvd
+68-56a Cloverdale Blvd
+68-58b Cloverdale Blvd
+68-60b Cloverdale Blvd
+68-62a Cloverdale Blvd
+68-64a Cloverdale Blvd
+68-66a Cloverdale Blvd
+
+78-01 Cloverdale Blvd*
+78-02 Cloverdale Blvd*
+
+78-03 Cloverdale Blvd
+
+78-04 Cloverdale Blvd
+
+78-05 Cloverdale Blvd*
+78-06 Cloverdale Blvd
+
+78-07 Cloverdale Blvd*
+78-08 Cloverdale Blvd
+
+78-11 Cloverdale Blvd*#
+78-12 Cloverdale Blvd*
+78-14 Cloverdale Blvd*
+
+78-15 Cloverdale Blvd*#
+78-16 Cloverdale Blvd
+
+78-17 Cloverdale Blvd
+
+78-18 Cloverdale Blvd
+
+78-19 Cloverdale Blvd*
+78-20 Cloverdale Blvd
+
+78-21 Cloverdale Blvd
+
+78-22 Cloverdale Blvd*#
+78-22 Cloverdale Blvd
+
+78-23 Cloverdale Blvd*
+78-24 Cloverdale Blvd*
+78-25 Cloverdale Blvd*
+78-26 Cloverdale Blvd*
+78-27 Cloverdale Blvd*
+78-29 Cloverdale Blvd*
+78-30 Cloverdale Blvd*
+
+78-31 Cloverdale Blvd
+
+78-32 Cloverdale Blvd
+
+78-33 Cloverdale Blvd*
+78-34 Cloverdale Blvd*
+78-35 Cloverdale Blvd
+
+78-36 Cloverdale Blvd*#
+78-37 Cloverdale Blvd
+
+78-38 Cloverdale Blvd*
+78-40 Cloverdale Blvd*#
+78-42 Cloverdale Blvd*#
+229-01 GrandCentral Pkwy
+229-03 GrandCentral Pkwy
+229-05 GrandCentral Pkwy
+229-09 GrandCentral Pkwy*
+229-11 GrandCentral Pkwy
+230-01 GrandCentral Pkwy*
+230-01 -1 GrandCentral Pkwy
+230-03 GrandCentral Pkwy*#
+230-07 GrandCentral Pkwy
+230-09 GrandCentral Pkwy*
+230-1 1 GrandCentral Pkwy
+230-15 GrandCentral Pkwy*
+201-01 HoraceHarding
+Expressway
+
+221 -52a Horacel-Iarding Blvd
+221-54a HoraceHarding Blvd
+221-56a HoraceHarding Blvd
+221-58b Horacel-larding Blvd
+221-60b HoraceHarding Blvd
+221-62a HoraceHarding Blvd
+221-64a HoraceHarding Blvd
+221-66a HoraceHarding Blvd
+221-68a Horaceﬂarding Blvd
+
+221-70b HoraceHarding Blvd 226-04 Kingsbury Ave*
+221-72b HoraceHarding Blvd 226-05 Kingsbury Ave
+221-7421 HoraceHarding Blvd 226-06 Kingsbury Ave
+221-76a HoraceHarding Blvd 226-07 Kingsbury Ave*#
+221-78a HoraceHarding Blvd 226-08 Kingbury Ave
+
+224-06 HoraceHarding
+Expressway*
+
+224-46a HoraceHarding
+Expressway*
+
+224-01 Kingsbury Ave
+224-03 Kingsbury Ave
+224-05 Kingsbury Ave
+224-06 Kingsbury Ave*
+224-07 Kingsbury Ave
+224-08 Kingsbury Ave
+224-09 Kingsbury Ave*
+224- 10 Kingsbury Ave
+224-11 Kingsbury Ave*
+224-12 Kingsbury Ave*
+224-14 Kingsbury Ave
+224-15 Kingsbury Ave*
+224-16 Kingsbury Ave
+224-17 Kingsbury Ave*
+224-18 Kingsbury Ave*#
+224-19 Kingsbury Ave*
+224-20 Kingsbury Ave
+224-21 Kingsbury Ave*
+224-22 Kingsbury Ave
+224-23 Kingsbury Ave*
+224-24 Kingsbury Ave
+224-25 Kingsbury Ave*
+224-26 Kingsbury Ave
+224-27 Kingsbury Ave*
+224-28 Kingsbury Ave
+224-29 Kingsbury Ave
+224-30 Kingsbury Ave
+224-31 Kingsbury Ave*#
+224-32 Kingsbury Ave*#
+224-33 Kingsbury Ave*
+224-34 Kingsbury Ave
+224-35 Kingsbury Ave*
+224-36 Kingsbury Ave
+224-37 Kingsbury Ave
+224-38 Kingsbury Ave*
+224-39 Kingsbury Ave*#
+224-40 Kingsbury Ave
+224-41 Kingsbury Ave
+224-42 Kingsbury Ave*#
+224-43 Kingsbury Ave
+224-44 Kingsbury Ave
+224-45 Kingsbury Ave*#
+224-47 Kingsbury Ave*
+224-48 Kingsbury Ave
+224-49 Kingsbury Ave
+224-51 Kingsbury Ave
+224-53 Kingsbury Ave*
+224-55 Kingsbury Ave*
+224-57 Kingsbury Ave*
+224-59 Kingsbury Ave
+224-61 Kingsbury Ave*
+224-63 Kingsbury Ave*
+224-65 Kingsbury Ave
+224-67 Kingsbury Ave
+224-69 Kingsbury Ave*
+226-01 Kingsbury Ave
+226-02 Kingsbury Ave
+226-02a Kingsbury Ave*
+226-03 Kingsbury Ave*
+
+226-09 K.ingsbury Ave*
+226-10 Kingsbury Ave*
+226-1 1 Kingsbury Ave
+226-12 Kingsbury Ave*
+226-14 Kingsbury Ave*#
+226-15 Kingsbury Ave*
+226-16 Kingsbury Ave*
+226-17 Kingsbury Ave*
+226-18 Kingsbury Ave*
+226-19 Kingsbury Ave*
+226-20 Kingsbury Ave
+226-21 Kingsbury Ave
+226-22 Kingsbury Ave
+226-23 Kingsbury Ave
+226-24 Kingsbury Ave
+226-25 Kingsbury Ave
+226-26 Kingsbury Ave*
+226-27 Kingsbury Ave
+226-28 Kingsbury Ave*
+226-29 Kingsbury Ave*
+226-30 Kingsbury Ave*
+226-31 Kingsbury Ave
+226-32 Kingsbury Ave*
+226-33 Kingsbury Ave
+226-34 Kingsbury Ave*
+226-35 Kingsbury Ave*
+226-36 Kingsbury Ave*
+226-37 Kingsbury Ave*
+226-38 Kingsbury Ave*
+226-39 Kingsbury Ave*
+226-40 Kinsbury Ave
+226-41 Kingsbury Ave*
+226-42 Kingsbury Ave*
+226-43 Kingsbury Ave*
+226-44 Kingsbury Ave*#
+226-45 Kingsbury Ave*
+226-46 Kingsbury Ave*
+226-47 Kingsbury Ave*
+226-48 Kingsbury Ave
+226-49 Kingsbury Ave*
+226-50 Kingsbury Ave
+226-52 Kingsbury Ave*
+226-56 Kingsbury Ave
+226-56 Kingsbury Ave*#
+229-02 Kingsbury Ave*
+229-04 Kingsbury Ave
+229-06 Kingsbury Ave*#
+229-08 Kingsbury Ave*
+229-10 Kingsbury Ave*
+229-12 Kingsbury Ave
+229-14 Kingsbury Ave
+229-16 Kingsbury Ave
+229-18 Kingsbury Ave*
+229-20 Kingsbury Ave*
+229-22 Kingsbury Ave*
+229-24 Kingsbury Ave
+229-26 Kingsbury Ave*
+229-28 Kingsbury Ave
+229-30 Kingsbury Ave
+229-32 Kingsbury Ave*#
+229-34 Kingsbury Ave
+229-36 Kingsbury Ave
+230-02 Kingsbury Ave*
+
+Queens
+
+230-04 Kingsbury Ave*
+230-06 Kingsbury Ave*#
+230-08 Kingsbury Ave
+230-10 Kingsbury Ave
+230-12 Kingsbury Ave
+230-14 Kingsbury Ave
+230-16 Kingsbury Ave
+230-18 Kingsbury Ave*
+230-20 Kingsbury Ave*
+61-51a Springfield Blvd
+61 -53a Springﬁeld Blvd
+63-54 Springﬁeld Blvd
+64-01 Springﬁeld Blvd
+
+73-04/96 Springﬁeld Blvd*
+
+73-22 Springﬁeld Blvd*
+73-24 Springﬁeld Blvd
+73-30 Springﬁeld Blvd
+73-32 Sprinﬁeld Blvd
+73-33 Sprinﬁeld Blvd
+73-38 Springﬁeld Blvd*
+73-44 Sprinﬁeld Blvd
+73-48 Sprinﬁeld Blvd
+73-50 Sprinﬁeld Blvd
+73-52 Sprinﬁeld Blvd
+73-72 Sprinﬁeld Blvd
+73-74 Sprinﬁeld Blvd
+73-96 Sprinﬁeld Blvd
+
+75-02/40 Springﬁeld Blvd*
+76-02/34 Springﬁeld Blvd*
+
+76-24 Sprinﬁeld Blvd
+77-15 Springﬁeld Blvd
+77- 17 Springﬁeld Blvd
+
+7 8-05 Springﬁeld Blvd*
+7 8-07 Springﬁeld Blvd*#
+78-09 Springﬁeld Blvd*#
+78-11 Springﬁeld Blvd
+78-15 Springﬁeld Blvd*
+78-17 Springﬁeld Blvd
+78-19 Springﬁeld Blvd*#
+78-21 Springﬁeld Blvd*
+78-23 Springﬁeld Blvd*#
+78-25 Springﬁeld Blvd*
+78-27 Springﬁeld Blvd*#
+78-29 Springﬁeld Blvd*
+224-24 Union Tumpike*
+224-27 Union Turnpike
+224-29 Union Turnpike
+
+224-31 Union Tumpike*#
+
+224-33 Union Turnpike
+226-01 Union Tumpike*
+226-03 Union Tumpike*
+226-05 Union Tumpike*
+226-07 Union Tumpike*
+226-09 Union Turnpike
+226-1 1 Union Turnpike
+226-15 Union Tumpike*
+226-17 Union TLunpike*
+226-19 Union Tumpike*
+226-21 Union Tumpike*
+226-23 Union Turnpike
+226-25 Union Turnpike
+226-25 Union Turnpike
+226-26 Union Tumpike*
+226-27 Union Tumpike*
+226-29 Union Turnpike
+226-31 Union Tumpike*
+226-33 Union Tumpike*
+226-35 Union Tumpike*
+1 5
+
+226-37 Union Tumpike*
+226-39 Union Tumpike*
+226-41 Union Tumpike*
+226-43 Union Tumpike*#
+226-45 Union Tumpike*
+226-47 Union Tumpike*
+226-49 Union Turnpike*#
+226-51 Union Turnpike
+226-53 Union Turnpike*#
+226-55 Union Turnpike
+226-57 Union Tumpike*
+226-59 Union Tumpike*
+226-61 Union Turnpike
+226-63 Union Tumpike*#
+226-65 Union Tumpike*
+226-67 Union Turnpike
+226-69 Union Tumpike*
+226-73 Union Turnpike
+226-73 Union Turnpike
+219-53 WindsorOaks Ave
+220-47 47 Ave
+
+216-05 48 Ave*
+
+216-11 48 Ave*
+
+216-17 48 Ave*
+221-07a 64 Ave
+221-09a 64 Ave
+
+221-10 64 Ave
+
+221-11a 64 Ave
+221-13a 64 Ave
+221-13b 64 Ave
+221-15b 64 Ave
+221-17a 64 Ave
+221-19a 64 Ave
+221-21b 64 Ave
+221-23b 64 Ave
+221-2521 64 Ave
+221-27a 64 Ave
+221-29a 64 Ave
+
+224-01 64 Ave*
+224-02a 64 Ave
+224-04b 64 Ave
+224-06b 64 Ave
+224-08a 64 Ave
+224-10a 64 Ave
+224-1221 64 Ave
+224-12A/B 64 Ave
+224-14a 64 Ave
+224-16a 64 Ave
+224-183 64 Ave
+224-20a 64 Ave
+224-22a 64 Ave
+224-24a 64 Ave
+224-26a 64 Ave
+224-26A/B 64 Ave
+224-28a 64 Ave
+224-30a 64 Ave
+224-32a 64 Ave
+224-34a 64 Ave
+224-36a 64 Ave
+224-383 64 Ave
+224-40a 64 Ave
+224-423 64 Ave
+224-44a 64 Ave
+224-46a 64 Ave
+224-48a 64 Ave
+224-50a 64 Ave
+224-50A/B 64 Ave
+224-52a 64 Ave
+
+224-54a 64 Ave
+224-56a 64 Ave
+224-5821 64 Ave
+224-60b 64 Ave
+224-62b 64 Ave
+224-64a 64 Ave
+223-Ola 65 Ave
+223-02 65 Ave
+
+223-05b 65 Ave
+223-0721 65 Ave
+223-0921 65 Ave
+223-1 lb 65 Ave
+223-13b 65 Ave
+223-1521 65 Ave
+223-17a 65 Ave
+223-19b 65 Ave
+223-21a 65 Ave
+223-23a 65 Ave
+223-25a 65 Ave
+223-27a 65 Ave
+223-29a 65 Ave
+223-31a 65 Ave
+223-33a 65 Ave
+223-35a 65 Ave
+223-373 65 Ave
+223-39a 65 Ave
+223-41a 65 Ave
+223-43b 65 Ave
+223-45b 65 Ave
+223-47a 65 Ave
+223-492 65 Ave
+223-51b 65 Ave
+223-53b 65 Ave
+223-55a 65 Ave
+223-57a 65 Ave
+223-59b 65 Ave
+223-61b 65 Ave
+223-633 65 Ave
+223-65a 65 Ave
+233-39a 65 Ave
+221-02 67 Ave
+
+223-233 67 Ave
+223-31a 67 Ave
+223-33a 67 Ave
+223-37a 67 Ave
+224-Ola 67 Ave
+224-02a 67 Ave
+224-03a 67 Ave
+224-04a 67 Ave
+224-05b 67 Ave
+224-07a 67 Ave
+224-08a 67 Ave
+224-09a 67 Ave
+224-10a 67 Ave
+224-11a 67 Ave
+224- 12a 67 Ave
+224- 14a 67 Ave
+224- 15a 67 Ave
+224-16a 67 Ave
+224-17a 67 Ave
+224-18a 67 Ave
+224-19a 67 Ave
+224-20a 67 Ave
+224-213 67 Ave
+224-22a 67 _Ave
+224-23a 67 Ave
+224-243 67 Ave
+224-253 67 Ave
+
+224-26a 67 Ave
+224-26b 67 Ave
+224-27a 67 Ave
+224-28a 67 Ave
+224-29a 67 Ave
+224-30a 67 Ave
+224-31a 67 Ave
+224-32a 67 Ave
+224-33a 67 Ave
+224-34a 67 Ave
+224-35a 67 Ave
+224-37a 67 Ave
+224-38a 67 Ave
+224-39a 67 Ave
+224-40a 67 Ave
+224-41a 67 Ave
+224-43a 67 Ave
+224-45a 67 Ave
+224-47a 67 Ave
+224-4921 67 Ave
+224-51a 67 Ave
+224-53a 67 Ave
+224-55a 67 Ave
+224-57a 67 Ave
+224-59a 67 Ave
+224-61b 67 Ave
+224-63b 67 Ave
+224-65a 67 Ave
+226-04a 67 Ave
+210-06 69 Ave*
+21 1-02 69 Ave*
+21 1-02 69 Ave*
+212-02 69 Ave*
+213-12 69 Ave*
+214-06 69 Ave*
+214-08 69 Ave*
+214-12 69 Ave*
+215-04 69 Ave*
+222- 15a 69 Ave
+222- 17a 69 Ave
+222-19a 69 Ave
+222-21a 69 Ave
+222-25 69 Ave
+
+224-01a 69 Ave
+224-03a 69 Ave
+224-15a 69 Ave
+224-17a 69 Ave
+225-0121 69 Ave
+225-03a 69 Ave
+225-05a 69 Ave
+225-07b 69 Ave
+225-09b 69 Ave
+225-11a 69 Ave
+225-15a 69 Ave
+225-17a 69 Ave
+225-19a 69 Ave
+225-21a 69 Ave
+225-23a 69 Ave
+225-25a 69 Ave
+226-Ola 69 Ave
+226-033 69 Ave
+226-05a 69 Ave
+226-07b 69 Ave
+226-09b 69 Ave
+226-11a 69 Ave
+226-15a 69 Ave
+226-17a 69 Ave
+226- 19a 69 Ave
+
+226-21a 69 Ave
+226-23a 69 Ave
+226-25a 69 Ave
+219-70 70 Ave
+210-05 73 Ave*
+211-01 73 Ave*
+211-10 73 Ave*
+212-01 73 Ave*
+212-04 73 Ave*
+213-02 73 Ave*
+213-05 73 Ave*
+213-09 73 Ave
+213-15a 73 Ave*
+213-17 73 Ave*
+213-21 73 Ave*
+213-23 73 Ave*
+214-03 73 Ave*
+217-02 73 Ave*
+217-04 73 Ave*
+217-10 73 Ave
+217-12 73 Ave
+217-14 73 Ave*
+217-16 73 Ave*
+217-18 73 Ave*
+217-20 73 Ave*
+217-22 73 Ave*
+217-24 73 Ave*
+217-28 73 Ave*
+217-32 73 Ave
+217-34 73 Ave*
+217-94 73 Ave
+218-02 73 Ave*
+218-08 73 Ave*
+218-10 73 Ave
+218-12 73 Ave*
+220-02 73 Ave*
+220-04 73 Ave*
+220-06 73 Ave*
+220-10 73 Ave*
+220-12 73 Ave*
+220-14 73 Ave*
+220-18 73 Ave*
+220-20 73 Ave*
+220-22 73 Ave*
+220-24 73 Ave*
+220-26 73 Ave*
+220-28 73 Ave*
+220-30 73 Ave
+220-32 73 Ave
+220-34 73 Ave*
+220-36 73 Ave
+220-38 73 Ave*
+220-40 73 Ave
+220-44 73 Ave*
+220-46 73 Ave*
+218-04 74 Ave
+219-02 74 Ave*
+219-02 74 Ave*
+219-27 74 Ave*
+219-29 74 Ave
+219-30 74 Ave
+219-30 74 Ave*
+219-31 74 Ave
+219-33 74 Ave*
+219-34 74 Ave*
+219-35 74 Ave*
+219-36 74 Ave*
+219-37 74 Ave*
+
+Queens
+
+219-39 74 Ave*
+219-40 74 Ave*
+219-41 74 Ave*
+219-42 74 Ave*
+219-43 74 Ave
+
+219-45 74 Ave*
+219-46 74 Ave*
+219-47 74 Ave
+
+219-48 74 Ave*
+219-49 74 Ave*
+219-50 74 Ave*
+219-52 74 Ave*
+219-53 74 Ave
+
+219-53 74 Ave*
+219-55 74 Ave
+
+219-57 74 Ave*
+219-58 74 Ave*
+219-60 74 Ave*
+219-61 74 Ave*
+219-63 74 Ave
+
+219-65 74 Ave*
+219-69 74 Ave*
+219-73 74 Ave*
+219-75 74 Ave*
+211-01 75 Ave*
+211-02 75 Ave*
+211-06 75 Ave
+
+212-03 75 Ave*
+212-08 75 Ave*
+213-02 75 Ave*
+213-05 75 Ave*
+217-02 75 Ave*
+219-02 75 Ave*
+219-80 75 Ave*
+220-02 75 Ave*
+216-10 77 Ave*
+
+224-47a 223 Place
+
+54-27b 223 Place
+61-12b 223 Place
+61-16a 223 Place
+61-19 223 Place
+
+61-20a 223 Place
+61-21 223 Place
+
+61-22a 223 Place
+61-233 223 Place
+61-2421 223 Place
+61-25a 223 Place
+61-26b 223 Place
+61-27a 223 Place
+61-28b 223 Place
+61-29b 223 Place
+61-30a 223 Place
+61-31b 223 Place
+61-32a 223 Place
+61-33a 223 Place
+61-34a 223 Place
+61-35a 223 Place
+61-36a 223 Place
+61-37a 223 Place
+61-38a 223 Place
+
+61-38A/B 223 Place
+
+61-39a 223 Place
+61-40a 223 Place
+61 -41 b 223 Place
+61-42a 223 Place
+61-43b 223 Place
+61-44a 223 Place
+61-45a 223 Place
+16
+
+61-46a 223 Place
+61 -47a 223 Place
+61-48a 223 Place
+61-49b 223 Place
+61-50b 223 Place
+61-51b 223 Place
+61 -52b 223 Place
+61-53a 223 Place
+61 -54a 223 Place
+61 -55a 223 Place
+61 -56a 23 Place
+61-57b 223 Place
+61-5 8a 223 Place
+61-59b 223 Place
+61-60a 223 Place
+61-61a 223 Place
+61-62a 223 Place
+61-63a 223 Place
+61-64a 223 Place
+61-65b 223 Place
+61-66a 223 Place
+61-67b 223 Place
+61-6821 223 Place
+61-69a 223 Place
+61-70a 223 Place
+61 -72a 223 Place
+61-74b 223 Place
+61 -76b 223 Place
+61-78a 223 Place
+64-Ola 223 Place
+64-03a 223 Place
+64-05a 223 Place
+64-07a 223 Place
+64-09a 223 Place
+64-1 la 223 Place
+64-13a 223 Place
+64-15b 223 Place
+64-17b 223 Place
+64-19 223 Place
+
+64-21a 223 Place
+64-23a 223 Place
+64-25a 223 Place
+64-27a 223 Place
+64-29a 223 Place
+64-3121 223 Place
+64-3321 223 Place
+64-35a 223 Place
+64-37a 223 Place
+64-39b 223 Place
+64-41b 223 Place
+64-43a 223 Place
+64-45a 223 Place
+64-47a 223 Place
+64-49a 223 Place
+64-50 223 Place
+
+64-51:: 223 Place
+64-532: 223 Place
+64-5521 223 Place
+64-57a 223 Place
+64-59a 223 Place
+64-61a 223 Place
+64-63a 223 Place
+64-65a 223 Place
+64-67a 223 Place
+64-69a 223 Place
+64-71a 223 Place
+64-74b 223 Place
+67-39b 223 Place
+
+67-59b 223 Place
+67-83 223 Place*
+61-56a 273 Place
+67-99A/B 224 Rd
+223-43b 65 St
+222-21b 69 St
+217-18 75 St
+69-07 210 St*
+69-15 210 St*
+69-25a 210 St*
+73-11 210 St*
+73-55 210 St*
+75-05 210 St*
+75-35 210 St*
+69-04 213 St*
+69-07 213 St*
+69-30 213 St*
+69-04 215 St*
+73-05 217 St
+73-07 217 St*
+73-09 217 St*
+73-11 217 St*
+73-19 217 St*
+73-25 217 St*
+73-27 217 St*
+73-29 217 St*
+73-31 217 St*
+73-33 217 St*
+73-37 217 St*
+73-39 217 St*
+73-41 217 St*
+73-43 217 St*
+73-45 217 St*
+73-47 217 St*
+73-55 217 St*
+73-57 217 St
+73-61 217 St*
+73-63 217 St*
+73-67 217 St*
+73-69 217 St*
+74-11 217 St
+75-05/41 217 St*
+73-01 220 St
+73-02 220 St*
+73-03 220 St*
+73-04 220 St*
+73-05 220 St
+73-06 220 St*
+73-08 220 St*
+73-09 220 St*
+73-10 220 St*
+73-14 220 St
+73-18 220 St
+73-20 220 St*
+73-21/33 220 St*
+74-01/89 220 St*
+74-91 220 St
+75-23 220 St
+60-02a 224 St
+61-01 224 St*
+61-028 224 St
+61-04b 224 St
+61-06b 224 St
+61-08a 224 St
+61-10a 224 St
+61-12b 224 St
+61-14b 224 St
+61-16a 224 St
+
+61-22a 224 St
+61-24b 224 St
+61-26b 224 St»
+61-28a 224 St
+61-32a 224 St
+61-34a 224 St
+61-36a 224 St
+61-36A/B 224 St
+61-38a 224 St
+61-40a 224 St
+61-42a 224 St
+61-46a 224 St
+61-48b 224 St
+61-50a 224 St
+61-50b 224 St
+61-52a 224 St
+61-52b 224 St
+64-02a 224 St
+64-03a 224 St
+64-04b 224 St
+64-05b 224 St
+64-06a 224 St
+64-06b 224 St
+64-083 224 St
+64-08b 224 St
+64-09b 224 St
+64-10a 224 St
+64-11 224 St
+64-12a 224 St
+64-12A/B 224 St
+64-14a 224 St
+64-14A/B 224 St
+64-15a 224 St
+64-16a 224 St
+64-17a 224 St
+64-18a 224 St
+64-19a 224 St
+64-20b 224 St
+64-21b 224 St
+64-221) 224 St
+64-23b 224 St
+64-25a 224 St
+64-26a 224 St
+64-27a 224 St
+64-28a 224 St
+64-29a 224 St
+64-30a 224 St
+64-32a 224 St
+64-33a 224 St
+64-34a 224 St
+64-35b 224 St
+64-362 224 St
+64-37b 224 St
+64-38a 224 St
+64-39a 224 St
+64-40a 224 St
+65-01 224 St
+65-03a 224 St
+65-03a 224 St
+65-03A/B 224 St
+65-05 224 St
+65-07 224 St
+65-07A/B 224 St
+65-09a 224 St
+65-1 la 224 St
+65-15 224 St
+65-15A/B 224 St
+65-17a 224 St
+
+65-17A/B 224 St
+65-19 224 St
+65-21 224 St
+65-21A/B 224 St
+65-23 224 St
+65-25 224 St
+65-27a 224 St
+65-29b 224 St
+65-31b 224 St
+65-33a 224 St
+65-35a 224 St
+65-37a 224 St
+65-39a 224 St
+65-41b 224 St
+65-43b 224 St
+65-45a 224 St
+65-47a 224 St
+65-49a 224 St
+65-51a 224 St
+65-53b 224 St
+65-55b 224 St
+65-57a 224 St
+67-Ola 224 St
+67-03a 224 St
+67-05a 224 St
+67-07a 224 St
+67-09a 224 St
+67-1 la 224 St
+67-13a 224 St
+67-15b 224 St
+67-17b 224 St
+67-19a 224 St
+67-21a 224 St
+67-23a 224 St
+67-25a 224 St
+67-27b 224 St
+67-29b 224 St
+67-31a 224 St
+67-33a 224 St
+67-35b 224 St
+67-37b 224 St
+67-39a 224 St
+67-41a 224 St
+67-43a 224 St
+67-45a 224 St
+67-47a 224 St
+67-49a 224 St
+67-51a 224 St
+67-53a 224 St
+67-55a 224 St
+67-57a 224 St
+67-59a 224 St
+67-61a 224 St
+67-63b 224 St
+67-65b 224 St
+67-67a 224 St
+67-69a 224 St
+67-71b 224 St
+67-73b 224 St
+67-743 224 St
+67-75a 224 St
+67-77a 224 St
+67-793 224 St
+67-81a 224 St
+67-83b 224 St
+67-85b 224 St
+67-873 224 St
+67-89a 224 St
+
+Queens
+
+67-91a 224 St
+67-93a 224 St
+67-95a 224 St
+67-97a 224 St
+67-99a 224 St
+68-01a 224 St
+68-03a 224 St
+68-05a 224 St
+68-07b 224 St
+68-09a 224 St
+68-11a 224 St
+68-15a 224 St
+68-17a 224 St
+68-21a 224 St
+68-23a 224 St
+78-19 226 St
+78-21 226 St
+78-24 226 St
+78-34 226 St
+78-38 226 St
+78-40 226 St
+78-44 226 St
+78-22 226 St
+78-14 226 St*
+78-15 226 St*
+78-16 226 St*
+78-18 226 St*
+78-25 226 St*
+78-26 226 St*
+78-27 226 St*
+78-28 226 St*
+78-29 226 St*
+78-31 226 St*
+78-32 226 St*
+78-35 226 St*
+78-36 226 St*
+78-37 226 St*
+78-39 226 St*
+78-41 226 St*
+78-42 226 St*
+78-44 226 St*
+78-17 226 St*#
+78-20 226 St*#
+78-30 226 St*#
+78-01 226 St
+78-01-25 226 St
+78-02 226 St*
+78-03 226 St
+78-04 226 St*
+78-05 226 St
+78-06 226 St
+78-07 226 St
+78-08 226 St*
+78-09 226 St*
+78-10 226 St*
+78-11 226 St
+78-12 226 St
+
+193-04 HoraceHarding
+Expressway
+195-10 Peck Ave
+195-20 Peck Ave
+195-30 Peck Ave
+195-40 Peck Ave
+195-60 Peck Ave
+195-60a Peck Ave
+195-60b Peck Ave
+197-20 Peck Ave
+197-40 Peck Ave
+197-50 Peck Ave
+197-70 Peck Ave
+197-80 Peck Ave
+56-03 Utopia Pkwy*
+56-27 Utopia Pkwy*
+56-44a Utopia Pkwy
+56-45 Utopia Pkwy*
+175-10a 56 Ave
+175-10b 56 Ave
+175-16 56 Ave*
+175-32 56 Ave*
+175-40 56 Ave*
+182/03 58 Ave*
+183-03 58 Ave*
+183-04 58 Ave*
+184-07 58 Ave*
+194-40 64th Ave
+188-02 64 Ave
+188-04 64 Ave
+189-(2 64 Ave
+189-04 64 Ave
+189-04 64 Ave
+192-10 64 Ave
+192-10a 64 Ave
+192-10b 64 Ave
+192-100 64 Ave
+194-16 64 Ave
+194- 1 6a 64 Ave
+194-16b 64 Ave
+194-25 64 Ave
+194-25a 64 Ave
+194-25b 64 Ave
+194-25c 64 Ave
+194-40a 64 Ave
+194-40b 64 Ave
+194-60a 64 Ave
+194-60b 64 Ave
+194-60 64 Ave
+164-05 65 Ave
+161-18 65 Ave
+161-20 65 Ave
+192-15 67 Ave
+192-20a 67 Ave
+192-20b 67 Ave
+192-20c 67 Ave
+194-02 67 Ave
+194-0221 67 Ave
+194-02b 67 Ave
+
+Fresh Meadows,11365 194-02c 67 Ave
+
+194-05 67 Ave
+
+175-33 BoothMemorial Drive*195'05 57 M5
+134.05 BoothMemorial Drive*195‘05a 57 AV5
+
+175-41 BoothMernorial*
+196-65 Crescent St
+197-65 Crescent St
+
+195-05b 67 Ave
+195-10 67 Ave
+195-15 67 Ave
+
+182-12 HoraceHarding Blvd* 195-153 57 Ave
+
+17
+
+195-15b 67 Ave
+
+195-150 67 Ave
+196-05 67 Ave
+196-05A 67 Ave
+196-05B 67 Ave
+196-05C 67 Ave
+198-01 67 Ave
+198-01a 67 Ave
+198-01b 67 Ave
+198-01c 67 Ave
+198-Old 67 Ave
+198-01e 67 Ave
+198-01f 67 Ave
+192-20 67 Ave#
+188-20 69 Ave
+188-20a 69 Ave
+188-20b 69 Ave
+188-20c 69 Ave
+188-35 69 Ave
+188-35a 69 Ave
+188-35b 69 Ave
+188-35c 69 Ave
+190-06 69 Ave
+190-06a 69 Ave
+190-06b 69 Ave
+190-06c 69 Ave
+190-06d 69 Ave
+190-17 69 Ave
+190-17a 69 Ave
+190-17b 69 Ave
+190-17c 69 Ave
+190-38 69 Ave
+190-38a 69 Ave
+190-38b 69 Ave
+192-10 69 Ave
+192-10a 69 Ave
+192-10b 69 Ave
+192-15 69 Ave
+192-153 69 Ave
+192-15b 69 Ave
+193-15 69 Ave
+193-15a 69 Ave
+193-15b 69 Ave
+193- 1 5c 69 Ave
+189-15 73 Ave
+190-15 73 Ave
+190-15a 73 Ave
+190-15b 73 Ave
+192-05 73 Ave
+192-05a 73 Ave
+192-05b 73 Ave
+193-01 73 Ave
+193-15a 73 Ave
+193-15b 73 Ave
+193-15c 73 Ave
+192-15 64 Circle
+192-15a 64 Circle
+192-15b 64 Circle
+192-15c 64 Circle
+192-20 64 Circle
+192-24 64 Circle
+192-243 64 Circle
+192-24b 64 Circle
+192-24c 64 Circle
+194-01 64 Circle
+194-Ola 64 Circle
+194-01b 64 Circle
+194-01c 64 Circle
+194-01d 64 Circle
+

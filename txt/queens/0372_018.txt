@@ -1,0 +1,1474 @@
+Queens
+
+194-02 64 Circle 192-45a 71 Crescent 69-02b 186 Lane 61-22 168 St 76-15 160 St
+194-02a 64 Circle 192-45b 71 Crescent 69-02c 186 Lane 61-36 169 St 77-33 164 St
+194-02b 64 Circle 192-45c 71 Crescent 69-05 186 Lane 61-38 169 St 77-35 164 St#
+194-02c 64 Circle 192-50 71 Crescent 69-05a 186 Lane 58-38 182 St 77-37 164 St#
+194-10 64 Circle 192-50a 71 Crescent 69-05b 186 Lane 61-04 183 St* 77-39 164 St#
+194-15 64 Circle 192-50b 71 Crescent 69-05c 186 Lane 61-10 183 St* 77-41 164 St
+194—15a 64 Circle 192-50c 71 Crescent 69-09 186 Lane 56-27b 184 St 77-41 164 St
+194-15b 64 Circle 192-65a 71 Crescent 69-20 186 Lane 56-31 184 St 78-40 164 St*
+194-10 65 Crescent 192-65b 71 Crescent 69-21 186 Lane 56-27:: 184 St* 160-06 75 Rd
+194-15 65 Crescent 192-65c 71 Crescent 69-30 186 Lane 56-28a 184 St* 160-08 75 Rd
+194-25 65 Crescent 188-35 71 Crescent 69-30a 186 Lane 56-52 184 St* 160-10 75 Rd
+194-30 65 Crescent 192-65 71 Crescent 69-30b 186 Lane 58-03 184 St* 160-28 75 Rd
+194-35 65 Crescent 64-36C 186 Lane 69-34 186 Lane 64-5021 188 St 160-30 75 Rd
+194-35 65 Crescent 67-09B 186 Lane 69-34a 186 Lane 64-50b 188 St 1-60-32 75 Rd
+196-05a 65 Crescent 69-40B 186 Lane 69-35 186 Lane 64-50c 188 St 158-05 76 Rd
+196-05b 65 Crescent 67-09A 186 Lane 69-35a 186 Lane 64-50d 188 St 158-06 76 Ave
+196-05c 65 Crescent 69-40A 186 Lane 69-35b 186 Lane 64-50e 188 St 158-06 76 Ave
+196-10 65 Crescent 64-05 186 Lane 69-35c 186 Lane 67-02a 188 St 158-09 76 Rd
+196-15 65 Crescent 64-05a 186 Lane 69-35d 186 Lane 67-02b 188 St 158-10 76 Ave
+196-1521 65 Crescent 64-05b 186 Lane 69-35e 186 Lane 67-02c 188 St 158-25 76 Rd
+196-15b 65 Crescent 64-1021 186 Lane 69-35f 186 Lane 67-02d 188 St 158-26 76 Ave
+196-15c 65 Crescent 64-10b 186 Lane 69-40 186 Lane 67-02e 188 St 158-29 76 Rd
+197-05 65 Crescent 64-10c 186 Lane 69-40C 186 Lane 67-02f 188 St 158-30 76 Ave
+197-05a 65 Crescent 64-15 186 Lane 67-10 190 Lane 67-50 188 St 158-45 76 Rd
+197-05b 65 Crescent 64-19 186 Lane 67-10a 190 Lane 67-5011 188 St 158-46 76 Ave
+197-05c 65 Crescent 64-19a 186 Lane 67-10b 190 Lane 67-50b 188 St 158-49 76 Rd
+197-10 65 Crescent 64-19b 186 Lane 67-10c 190 Lane 67-50c 188 St 158-49 76 Rd
+194-25b 65 Crescent 64-19c 186 Lane 67-15 190 Lane 69-103 188 St 158-50 76 Ave
+194-25c 65 Crescent 64-25 186 Lane 67-38 190 Lane 69-10b 188 St 160-05 76 Ave
+194-25d 65 Crescent 64-30 186 Lane 67-38a 190 Lane 69-10c 188 St 160-07 76 Ave
+194-25e 65 Crescent 64-35 186 Lane 67-38b 190 Lane 69-10d 188 St 160-09 76 Ave
+194-25f 65 Crescent 64-36a 186 Lane 67-38c 190 Lane 69-11:: 188 St 160-15 76 Ave
+188-01 71 Crescent 64-36b 186 Lane 67-44 190 Lane 69-11b 188 St 160-16 76 Ave
+188-01a 71 Crescent 64-36c 186 Lane 67-45 190 Lane 64-20B 192 St 160-17 76 Ave
+188-01b 71 Crescent 64-39 186 Lane 67-20 193 Lane 64-20A 192 St 160-18 76 Ave#
+188-01c 71 Crescent 64-39a 186 Lane 67-21 193 Lane 67-50 192 St 160-19 76 Ave
+188-02 71 Crescent 64-39b 186 Lane 67-40 193 Lane 64-02 192 St 160-20 76 Ave
+188-022 71 Crescent 64-39c 186 Lane 67-40a 193 Lane 64-02a 192 St 160-26 76 Ave
+188-02b 71 Crescent 64-39d 186 Lane 67-40b 193 Lane 64-02b 192 St 160-28 76 Ave
+188-10 71 Crescent 64-51 186 Lane 67-40c 193 Lane 64-02c 192 St 160-30 76 Ave
+188-15 71 Crescent 64-52 186 Lane 67-55 193 Lane 64-15 192 St
+
+188-15a 71 Crescent 67-02 186 Lane 67-55a 193 Lane 64-20 192 St
+
+188-15b 71 Crescent 67-02a 186 Lane 67-55b 193 Lane s4—2oc 192 st Station C. ,11367
+188-15c 71 Crescent 67-02b 186 Lane 67-55c 193 Lane 67-00 192 St _________ __
+
+188-25 71 Crescent 67-02c 186 Lane 64-19 194 Lane 67-15 192 St J47/287 First Ave
+188-35 71 Crescent 67-02d 186 Lane 64-20 194 Lane 67-49 192 St l53_27 Hereee Harding
+188-40 71 Crescent 67-05 186 Lane 64-20 194 Lane 67-50 192 St Expwy
+
+188-4011 71 Crescent 67-06 186 Lane 67-18 195 Lane 60-01 194 St l34_02 Jewel Ave»:
+188-40b 71 Crescent 67-09 186 Lane 67-50 195 Lane# 60-01a 194 St l34_o4 Jewel Ave;
+188-45 71 Crescent 67-15 186 Lane 56-0321 175 Place 60-01b 194 St l34_06 Jewel Ave
+188-49 71 Crescent 67-20 186 Lane 56-03b 175 Place 60-01c 194 St l34_08 Jewel Ave
+188-50 71 Crescent 67-25 186 Lane 56-07a 175 Place 60-01d 194 St l34_l0 Jewel Ave
+190-16 71 Crescent 67-25a 186 Lane 56-12a 175 Place 60-05 194 St l34_l0 Jewell Ave
+190-16 71 Crescent 67-25b 186 Lane 56-12b 175 Place* 60-17 194 St l34_l2 Jewel Ave.
+190-19 71 Crescent 67-25c 186 Lane 56-15b 175 Place* 60-18 194 St l34_l4 Jewel Ave
+190-1921 71 Crescent 67-30 186 Lane 56-29 175 Place 60-19 194 St l34_l6 Jewel Ave
+190-19b 71 Crescent 67-35 186 Lane 56-33 175 Place 60-20 194 St l34_l8 Jewel Ave
+190-19c 71 Crescent 67-353 186 Lane 56-35b 175 Place 60-20a 194 St l34_20 Jewel Ave
+190-19d 71 Crescent 67-35b 186 Lane 56-40 175 Place 60-20b 194 St l34_22 Jewel Ave
+190-19e 71 Crescent 67-35c 186 Lane 59-50 162 St 60-20c 194 St l35_0l Jewel Ave#
+190-19f 71 Crescent 67-36 186 Lane 61-20 162 St 69-19 194 St l35_O2 Jewel Ave
+190-19g 71 Crescent 67-36a 186 Lane 61-22 162 St 69-08 197 St* l35_03 Jewel Ave
+192-04 71 Crescent 67-361) 186 Lane 61-25 163 St# l35_04 Jewel Ave
+192-15 71 Crescent 67-42 186 Lane 65-06 163 St Fresh Meadows,11366 13505 Jewel Ave
+192-16 71 Crescent 67-45 186 Lane 61-49 164 St ........ _. 135-05 Jewel Ave:
+192-35 71 Crescent 69-01 186 Lane 61-14 165 St 76_07 160 St l35_07 Jewe1Ave
+192-40 71 Crescent 69-02 186 Lane 61-19 167 St 76_ll 160 St l35_08 ]ewe1Ave
+192-45 71 Crescent 69-02a 186 Lane 61-20 168 St
+
+18
+
+135-09 Jewel Ave
+135-10 Jewel Ave
+135-11 Jewel Ave
+135-12 Jewel Ave
+135-14 Jewel Ave
+135-15 Jewel Ave
+135-16 Jewel Ave
+135-17 Jewel Ave
+135-19 Jewel Ave
+135-21 Jewel Ave
+135-23 Jewel Ave
+136-01 Jewel Ave
+136-03 Jewel Ave
+136-05 Jewel Ave
+136-07 Jewel Ave
+136-09 Jewel Ave
+136-11 Jewel Ave
+136-15 Jewel Ave
+136-17 Jewel Ave
+136- 19 Jewel Ave
+136-21 Jewel Ave
+136-23 Jewel Ave*
+136-25 Jewel Ave
+136-27 Jewel Ave
+136-29 Jewel Ave
+136-31 Jewel Ave
+136-33 Jewel Ave
+136-35 Jewel Ave*
+136-37 Jewel Ave*
+136-39 Jewel Ave*
+136-41 Jewel Ave*
+136-43 Jewel Ave
+136-45 Jewel Ave
+136-47 Jewel Ave
+136-49 Jewel Ave
+136-51 Jewel Ave
+136-53 Jewel Ave*
+136-55 Jewel Ave
+136-57 Jewel Ave
+136-59 Jewel Ave
+136-61 Jewel Ave
+136-63 Jewel Ave
+137-01 Jewel Ave
+137-02 Jewel Ave
+137-03 Jewel Ave
+137-05 Jewel Ave
+137-06 Jewel Ave
+137 -07 Jewel Ave
+137-09 Jewel Ave
+137-10 Jewel Ave
+137-11 Jewel Ave
+137-11 Jewel Ave*
+137-14 Jewel Ave
+137-18 Jewel Ave
+137-57 Jewel Ave
+138-04 Jewel Ave
+138-04 Jewel Ave
+138-05 Jewel Ave
+138-06 Jewel Ave
+138-07 Jewel Ave*
+138-08 Jewel Ave
+138-10 Jewel Ave
+138-10 Jewell Ave
+138-11 Jewel Ave*
+138-12 Jewel Ave
+138-16 Jewel Ave
+138-16 Jewell Ave
+138-17 Jewel Ave*
+
+138-18 Jewel Ave
+138-19 Jewel Ave*
+138-20 Jewel Ave
+138-20 Jewell Ave
+138-21 Jewel Ave*
+138-22 Jewel Ave
+138-22 Jewell Ave
+138-25 Jewel Ave
+138-26 Jewel Ave
+138-26 Jewell Ave
+138-28 Jewel Ave
+138-28 Jewell Ave
+138-29 Jewel Ave*
+138-29 Jewel Ave*
+138-30 Jewel Ave
+138-30 Jewell Ave
+138-31 Jewel Ave*
+138-32 Jewel Ave
+138-32 Jewell Ave
+138-33 Jewel Ave
+138-33 Jewel Ave*
+138-35 Jewel Ave*
+138-37 Jewel Ave*
+138-39 Jewel Ave*
+138-39 Jewel Ave*
+138-43 Jewel Ave
+138-45 Jewel Ave*
+138-53 Jewel Ave*
+138-55 Jewel Ave*
+138-57 Jewel Ave*
+138-61 Jewel Ave*
+138-65 Jewel Ave
+138-67 Jewel Ave
+138-71 Jewel Ave*
+150-05 Jewel Ave*
+150-06 Jewel Ave
+150-11 Jewell Ave
+150-15 Jewel Ave*
+150-25 Jewel Ave*
+150-30 Jewel Ave
+150-54 Jewel Ave
+150-62 Jewel Ave
+1505-05 Jewel Ave
+152-O5 Jewel Ave
+152-06 Jewel Ave
+152-10 Jewel Ave
+152-18 Jewel Ave
+152-25 Jewel Ave
+152-48 Jewel Ave
+152-49 Jewel Ave
+152-61 Jewel Ave
+152-72 Jewel Ave
+152-83 Jewel Ave
+69-18 Kissena Blvd
+69-42 Kissena Blvd
+70-06 Kissena Blvd
+70-18 Lossema Blvd
+77-30 Main St*
+77-32 Main St*
+77-36 Main St*
+77-40 Main St*
+77-42 Main St*
+78-06 Main St*#
+78-11 Main St
+78-16 Main St
+78-32 Main St
+78-37 Main St*
+79-06 Main St
+
+Queens
+
+52-30 Melbourne Ave
+149-20 Melbourne Ave
+149-42 Melbourne Ave
+150-12 Melbourne Ave*
+152-06 Melbourne Ave
+152-22 Melbourne Ave
+152-26 Melbourne Ave
+152-72 Melbourne Ave*
+
+66-01 Park Drive E.
+66-01 Park Drive E.
+66-03 Park Drive E.
+66-05 Park Drive E.
+66-07 Park Drive B.
+66-07 Park Drive B.
+66-09 Park Drive E.
+66-11 Park Drive E.
+66-13 Park Drive E.
+66-15 Park Drive E.
+66-17 Park Drive E.
+66-19 Park Drive B.
+67-03 Park Drive E.
+67-05 Park Drive E.
+67-07 Park Drive E.
+69-39 Park Drive E.
+69-41 Park Drive E.
+69-43 Park Drive E.
+69-45 Park Drive E.
+69-47 Park Drive E.
+69-49 Park Drive E.
+69-51 Park Drive E.
+69-53 Park Drive E.
+69-57 Park Drive B.
+69-59 Park Drive E.
+69-59 Park Drive E.
+69-61 Park Drive B.
+69-63 Park Drive E.*
+69-65 Park Drive E.
+69-67 Park Drive E.
+69-69 Park Drive E.
+69-71 Park Drive E.
+69-73 Park Drive E.
+69-75 Park Drive E.
+69-77 Park Drive E.
+69-77 Park Drive E.
+69-79 Park Drive E.
+69-81 Park Drive B
+69-83 Park Drive B.
+69-85 Park Drive B.
+69-87 Park Drive B.
+69-89 Park Drive E.
+69-91 Park Drive E.
+69-93 Park Drive E
+69-95 Park Drive E
+69-97 Park Drive E
+70-01 Park Drive E
+70-03 Park Drive E
+70-05 Park Drive E
+70-07 Park Drive E
+70-09 Park Drive E
+70-11 Park Drive B
+70-13 Park Drive B
+70-17 Park Drive E
+70-19 Park Drive E
+70-21 Park Drive E
+70-23 Park Drive B
+70-25 Park Drive E
+70-27 Park Drive E
+70-29 Park Drive E
+19
+
+70-31 Park Drive E
+70-33 Park Drive E
+70-35 Park Drive E
+70-37 Park Drive E
+70-39 Park Drive B
+70-41 Park Drive E
+70-43 Park Drive E
+70-45 Park Drive E
+70-47 Park Drive E
+70-49 Park Drive E
+70-53 Park Drive E
+70-55 Park Drive E
+70-57 Park Drive E
+70-59 Park Drive E
+70-61 Park Drive E
+70-65 Park Drive E
+70-67 Park Drive E
+70-69 Park Drive E
+70-71 Park Drive B
+70-73 Park Drive E
+70-75 Park Drive E
+70-77 Park Drive E
+70-79 Park Drive E
+70-81 Park Drive E
+70-83 Park Drive E
+70-85 Park Drive E
+70-87 Park Drive E
+70-89 Park Drive E
+71-01 Park Drive E
+71-03 Park Drive E
+71-05 Park Drive B
+71-07 Park Drive E
+71-09 Park Drive B
+71-11 Park Drive E
+71-13 Park Drive B
+71-15 Park Drive E
+71-17 Park Drive E
+71-19 Park Drive E
+71-21 Park Drive E
+71-23 Park Drive B
+71-25 Park Drive E
+71-27 Park Drive E
+71-29 Park Drive E
+71-31 Park Drive E
+71-33 Park Drive E
+71-35 Park Drive E
+71-37 Park Drive E
+71-39 Park Drive E
+71-41 Park Drive E
+71-43 Park Drive E
+71-45 Park Drive E
+71-47 Park Drive E
+71-49 Park Drive E
+71-02 Parsons Blvd
+141-03 Union Turnpike
+141-03 Union Tumpike*#
+141-03 Union Turnpike
+141-13 Union Turnpike
+141-17 Union Turnpike
+141 -1 7 Union Turnpike
+141-19 Union Turnpike
+141-19A Union Tumpike
+141-21 Union 'I‘11rnpike
+141-27 Union Turnpike
+141-37 Union Turnpike
+141-39 Union Tumpike/#
+141-41 Union Tumpike#
+141-45 Union Turnpike
+
+71-35 Vleigh Place*
+71-37 Vleigh Place*
+77-12 Vleigh Place
+
+137-07 70 Ave
+137-09 70 Ave
+137-10 70 Ave
+137-11 70 Ave
+137-15 70 Ave
+137-17 70 Ave
+137-21 70 Ave
+137-23 70 Ave
+137-25 70 Ave
+137-27 70 Ave
+137-27 70 Ave
+137-42 70 Ave
+137-53 70 Ave
+137-59 70 Ave
+137-59 70 Ave
+137-72 70 Ave
+144-36 71 Ave*
+144-38 71 Ave
+144-40 71 Ave
+144-42 71 Ave
+144-46 71 Ave
+147-03 71 Ave
+147-09 71 Ave
+147- 10 71 Ave
+147-15 71 Ave
+147-16 71 Ave
+147-17 71 Ave
+147-21 71 Ave
+147-22 71 Ave
+147-23 71 Ave
+147-24 71 Ave
+147-26 71 Ave
+147-27 71 Ave
+147-33 71 Ave
+147-37 71 Ave*
+147-39 71 Ave
+147-44 71 Ave
+147-46 71 Ave
+147-48 71 Ave
+147-50 71 Ave
+147-52 71 Ave
+147-54 71 Ave
+150- 10 71 Ave
+150-20 71 Ave
+150-30 71 Ave
+150-40 71 Ave
+135-01 72 Ave*
+135-03 72 Ave
+144-16 72 Ave*
+144-19 72 Ave*
+144-21 72 Ave
+144-25 72 Ave
+144-27 72 Ave
+144-29 72 Ave
+144-31 72 Ave
+144-35 72 Ave
+144-37 72 Ave
+144-39 72 Ave
+144-41 72 Ave
+147-09 72 Ave
+147-10 72 Ave*
+147-11 72 Ave
+147-12 72 Ave*
+147-14 72 Ave
+
+147-15 72 Ave
+147-16 72 Ave
+147-17 72 Ave
+147-20 72 Ave*
+147-21 72 Ave
+147-22 72 Ave*
+147-23 72 Ave
+147-24 72 Ave*
+147-25 72 Ave
+147-26 72 Ave*
+147-27 72 Ave
+147-31 72 Ave
+147-32 72 Ave
+147-33 72 Ave
+147-34 72 Ave
+147-37 72 Ave
+147-38 72 Ave*
+147-39 72 Ave
+147-40 72 Ave*
+147-42 72 Ave
+147-43 72 Ave
+147-44 72 Ave
+147-45 72 Ave
+147-47 72 Ave
+147-47 72 Ave
+147-47 72 Ave
+147-48 72 Ave
+147-49 72 Ave
+147-50 72 Ave*
+147-51 72 Ave
+147-52 72 Ave
+147-53 72 Ave
+147-54 72 Ave*
+141 76 Ave
+147-06 76 Ave
+147-09 76 Ave
+147-10 76 Ave
+147-15 76 Ave
+147-17 76 Ave
+147-33 76 Ave
+147-35 76 Ave
+147-35 76 Ave
+147-39 76 Ave
+147-39 76 Ave
+147-41 76 Ave
+135-18 77 Ave
+138-10 77 Ave
+138-24 77 Ave
+138-30 77 Ave
+138-36 77 Ave
+135-18 78 Ave
+135-19 78 Ave
+135-20 78 Ave
+135-26 78 Ave
+135-29 78 Ave
+135-30 78 Ave
+135-34 78 Ave
+138-14 78 Ave
+138-22 78 Ave
+138-23 78 Ave
+138-35 78 Ave
+138-44 78 Ave
+138-50 78 Ave*#
+141-02 78 Ave*#
+141-12 78 Ave*#
+141-23 78 Ave*
+141-24 78 Ave
+141-25 78 Ave*
+
+141-29 78 Ave*
+141-34 78 Ave
+141-35 78 Ave*
+141-42 78 Ave
+141-48 78 Ave
+144-18 78 Ave*
+144-22 78 Ave*
+141-02 79 Ave
+141-02 79 Ave*#
+141-03 79 Ave
+141-11 79 Ave
+141-12 79 Ave
+141-24 79 Ave
+141-27 79 Ave
+141-33 79 Ave
+141-34 79 Ave
+141-37 79 Ave
+141-41 79 Ave
+141-42 79 Ave
+141-45 79 Ave
+141-48 79 Ave
+144-17 79 Ave*
+147-1 1 79 Ave
+147-24 79 Ave
+147-24 79 Ave
+149-05 79 Ave*
+150-10 79 Ave
+150-15 79 Ave*
+136-01 68 Drive*
+136-01 68 Drive*
+136-02 68 Drive
+136-03 68 Drive
+136-04 68 Drive
+136-05 68 Drive
+136-06 68 Drive
+136-07 68 Drive
+136-08 68 Drive
+136-09 68 Drive*
+136-10 68 Drive
+136-11 68 Drive*
+136-12 68 Drive
+136-13 68 Drive*
+136-15 68 Drive
+136-17 68 Drive*
+136-19 68 Drive
+136-21 68 Drive
+136-23 68 Drive*
+136-25 68 Drive
+136-27 68 Drive
+136-29 68 Drive*
+136-31 68 Drive
+136-33 68 Drive
+136-35 68 Drive*
+136-37 68 Drive*
+136-39 68 Drive
+136-41 68 Drive
+136-43 68 Drive
+136-45 68 Drive
+136-47 68 Drive
+136-51 68 Drive
+136-53 68 Drive
+136-55 68 Drive
+136-57 68 Drive
+136-59 68 Drive*
+136-61 68 Drive
+136-63 68 Drive*
+136-65 68 Drive*
+136-67 68 Drive
+
+Queens
+
+136-69 68 Drive
+136-71 68 Drive*
+136-73 68 Drive*
+136-75 68 Drive
+13677 68 Drive
+136-79 68 Drive
+137-01 68 Drive
+137-02 68 Drive
+137-03 68 Drive
+137-04 68 Drive*
+137-05 68 Drive
+137-06 68 Drive
+137-07 68 Drive
+137-08 68 Drive
+137-09 68 Drive
+137-10 68 Drive*
+137-11 68 Drive
+137-12 68 Drive
+137-13 68 Drive
+137-14 68 Drive
+137-15 68 Drive
+137-16 68 Drive
+137-17 68 Drive
+137-18 68 Drive
+137-19 68 Drive
+137-20 68 Drive*
+137-21 68 Drive
+137-22 68 Drive
+137-23 68 Drive
+137-24 68 Drive
+137-25 68 Drive
+137-26 68 Drive
+137-27 68 Drive
+137-28 68 Drive
+137-29 68 Drive*
+137-30 68 Drive*
+137-31 68 Drive
+137-33 68 Drive
+137-34 68 Drive
+137-35 68 Drive
+137-36 68 Drive*
+137-37 68 Drive
+137-38 68 Drive
+137-39 68 Drive
+137-40 68 Drive
+137-41 68 Drive
+137-42 68 Drive
+137-43 68 Drive*
+137-44 68 Drive
+137-45 68 Drive
+137-46 68 Drive
+137-47 68 Drive
+137-48 68 Drive
+137-49 68 Drive
+137-50 68 Drive
+137-51 68 Drive
+137-52 68 Drive
+137-53 68 Drive
+137-54 68 Drive
+137-55 68 Drive
+137-56 68 Drive
+138-0221 68 Drive
+138-02b 68 Drive*
+138-04a 68 Drive
+138-06 68 Drive
+138-0811 68 Drive*
+138-08b 68 Drive*
+138-09 68 Drive*
+20
+
+138-11 68 Drive*
+138-12 68 Drive*
+138-14 68 Drive*
+138-15 68 Drive*
+138-19 68 Drive*
+138-20 68 Drive*
+138-21 68 Drive*
+138-24 68 Drive*
+138-25 68 Drive*
+138-25 68 Drive*
+138-28 68 Drive*
+138-29 68 Drive*
+138-30 68 Drive*
+138-32 68 Drive*
+138-33 68 Drive*
+138-34 68 Drive*
+138-36 68 Drive*
+138-37 68 Drive*
+138-38 68 Drive*
+138-39 68 Drive*
+138-41 68 Drive*
+138-43 68 Drive*
+138-44 68 Drive*
+138-46 68 Drive*
+138-47 68 Drive*
+138-50 68 Drive*
+138-52 68 Drive*
+138-54 68 Drive*
+138-56 68 Drive*
+138-58 68 Drive*
+138-60 68 Drive
+138-60 68 Drive
+138-62 68 Drive
+138-62a 68 Drive*
+138-64 68 Drive
+138-64a 68 Drive*
+138-64b 68 Drive
+138-66 68 Drive*
+147-26 68 Drive
+147-32 68 Drive
+147-35 68 Drive
+147-36 68 Drive
+147-49 68 Drive
+144-53 72 Drive
+147-12 48 Rd
+147-45 69 Rd
+147-69 69 Rd
+137-15 70 Rd
+150-25 70 Rd
+150-49 70 Rd
+150-65 70 Rd
+150-65 70 Rd*
+144-24 71 Rd*
+144-32 71 Rd
+144-34 71 Rd
+144-40 71 Rd
+144-41 71 Rd*
+144-43 71 Rd
+147-09 71 Rd
+147-10 71 Rd
+147-11 71 Rd
+147-12 71 Rd
+147-15 71 Rd
+147-16 71 Rd
+147-17 71 Rd
+147-18 71 Rd
+147-21 71 Rd
+147-22 71 Rd
+
+147-23 71 Rd
+147-24 71 Rd
+147-26 71 Rd
+147-27 71 Rd
+147-28 71 Rd
+147-32 71 Rd
+147-33 71 Rd
+147-34 71 Rd
+147-37 71 Rd
+147-39 71 Rd
+147-40 71 Rd
+147-43 71 Rd
+147-45 71 Rd
+147-46 71 Rd
+147-47 71 Rd
+147-49 71 Rd
+147-50 71 Rd
+147-51 71 Rd
+147-52 71 Rd
+147-54 71 Rd
+148-48 71 Rd
+150-11 72 Rd*
+150-15 72 Rd
+150-25 72 Rd
+150-29 72 Rd
+144-16 75 Rd
+147-15 75 Rd
+147-15 75 Rd
+147-39 75 Rd
+147-45 75 Rd
+141-20 77 Rd*
+141-30 77 Rd*
+144-04 77 Rd*
+144-10 77th Rd
+144-10 77 Rd*
+144-11 77th Rd
+144-11 77 Rd*
+144-14 77 Rd
+144-15 77 Rd*
+144-17 77 Rd*
+144-19 77 Rd*
+144-20 77 Rd
+144-23 77 Rd*
+144-25 77 Rd*
+144-27 77 Rd*
+144-34 77 Rd*
+144-35 77 Rd
+144-35 77 Rd*
+144-37 77 Rd*
+144-40 77 Rd*
+144-41 77 Rd*
+144-43 77 Rd
+144-46 77 Rd
+144-46 77 Rd*
+144-47 77 Rd
+144-47 77 Rd*
+144-49 77 Rd
+144-49 77 Rd*
+153-43 77 Rd
+141-02 78 Rd*#
+141-11 78 Rd
+141-15 78 Rd
+141-18 78 Rd
+141-21 78 Rd
+141-33 78 Rd*
+141-37 78 Rd
+141-41 78 Rd
+141-42 78 Rd
+
+144-01 78 Rd*
+144-15 78 Rd*
+144-16 78 Rd*
+147-12 78 Rd*
+141-02 88 Rd#
+
+67-33 67 St
+68-20 68 St
+138-29 68 St
+144-28 71 St
+147-05 71 St
+147-25 71 St
+147-31 71 St
+147-40 71 St
+141-19 78 St#
+77-11 135 St
+78-09 135 St
+67-01 136 St*
+67-02 136 St
+67-03 136 St
+67-05 136 St
+67-07 136 St
+67-09 136 St
+67-10 136 St
+67-11 136 St
+67-12 136 St
+67-13 136 St
+67-15 136 St
+67-17 136 St*
+67-18 136 St
+67-19 136 St
+67-20 136 S!*
+67-21 136 St
+67-22 136 St
+67-23 136 St*
+67-25 136 St
+67-27 136 Sl*
+67-28 136 St
+67-29 136 St
+67-30 136 St
+67-31 136 St
+67-32 136 St
+67-33 136 St
+67-34 136 St
+67-35 136 St
+67-36 136 St
+67-37 136 St
+67-38 136 St
+67-39 136 St
+67-40 136 St
+67-41 136 St
+67-43 136 St
+67-45 136 St*
+67-47 136 St
+67-48 136 St
+67-49 136 St
+67-50 136 St
+67-51 136 St
+67-53 136 St
+67-55 136 St
+67-57 136 St
+67-59 136 St*
+67-61 136 St
+67-63 136 St
+67-65 136 St
+67-67 136 St
+67-69 136 St
+67-71 136 St
+
+67-73 136 St
+67-75 136 St
+67-77 136 St
+67-79 136 St
+67-81 136 St
+67-83 136 St
+67-85 136 St*
+67-87 136 St
+67-89 136 St
+67-91 136 St*
+67-93 136 St
+67-95 136 St
+67-97 136 St
+68-01 136 St
+68-02 136 St
+68-03 136 St*
+68-04 136 St
+68-05 136 St*
+68-07 136 St*
+68-08 136 St
+68-09 136 St
+68-10 136 St
+68-11 136 St
+68-12 136 St
+68-14 136 St
+68-15 136 St
+68-16 136 St
+68-18 136 St
+68-20 136 St*
+68-22 136 St
+68-24 136 St
+68-26 136 St
+68-28 136 St
+68-30 136 St
+68-32 136 St
+68-34 136 St
+68-36 136 St
+68-38 136 St
+68-40 136 St
+68-42 136 St
+68-43 136 St
+68-44 136 St
+68-45 136 St
+68-46 136 St
+68-47 136 St
+68-48 136 St
+68-49 136 St
+68-50 136 St
+68-51 136 St
+68-52 136 St
+68-53 136 St
+68-54 136 St
+68-55 136 St
+68-56 136 St
+68-57 136 St
+68-58 136 St
+68-59 136 St
+68-60 136 St
+68-61 136 St
+68-62 136 St
+68-63 136 St
+68-64 136 S1
+68-65 136 St
+68-66 136 St
+68-68 136 St
+68-70 136 St
+68-72 136 St
+68-74 136 St
+
+Queens
+
+68-76 136 St
+68-78 136 St
+68-80 136 St
+68-82 136 St
+68-84 136 St
+68-86 136 St
+69-01 136 St
+69-02 136 St
+69-03 136 St
+69-04 136 St
+69-05 136 St
+69-06 136 St
+69-07 136 St
+69-08 136 St
+69-09 136 St
+69-10 136 St
+69-11 136 St
+69-12 136 St
+69-14 136 St
+69-15 136 St
+69-16 136 St
+69-16 136 St
+69-17 136 St
+69-18 136 St
+69-19 136 St
+69-20 136 St
+69-21 136 St
+69-22 136 St
+69-23 136 St
+69-24 136 St
+69-25 136 St
+69-26 136 St
+69-27 136 St
+69-28 136 St
+69-29 136 St
+69-30 136 St
+69-31 136 St
+69-32 136 St
+69-33 136 St
+69-35 136 St
+69-37 136 St*
+69-39 136 St
+69-41 136 St
+69-43 136 St
+69-44 136 St
+69-45 136 St
+69-46 136 St*
+69-48 136 St
+69-50 136 St*
+69-52 136 St
+69-54 136 St*
+69-56 136 St
+69-58 136 St
+69-60 136 St
+69-62 136 St
+69-63 136 St*
+69-64 136 St
+69-66 136 St
+69-68 136 St*
+69-70 136 St
+69-72 136 St
+69-74 136 St
+69-76 136 St
+69-78 136 St*
+69-80 136 St
+69-82 136 St
+69-84 136 St
+69-86 136 St
+
+21
+
+69-88 136 St*
+69-90 136 St
+69-92 136 St
+69-94 136 St
+69-96 136 St
+69-98 136 St*
+70-02 136 St*
+70-04 136 St*
+70-06 136 St
+70-08 136 St
+70-10 136 St
+70-12 136 St*
+70-14 136 St*
+70-16 136 St
+70-18 136 St
+70-20 136 St
+70-22 136 St
+70-24 136 St
+70-26 136 St
+70-28 136 St*
+70-30 136 St
+70-32 136 St
+66-47 138 St
+69-61 137 St
+69-67 137 St
+70-09 137 St
+70-09 137 St
+137-47 138 St
+67-32 138 St
+68-02 138 St*
+68-04 138 St
+68-05 138 St*
+68-05 138 St*
+68-06 138 St
+68-08 138 St
+68-09 138 St*
+68-10 138 St
+68-12 138 St
+68-14 138 St
+68-16 138 St
+68-18 138 St
+68-20 138 St
+68-22 138 St
+68-23b 138 St*
+68-24 138 St
+68-31 138 St*
+68-32 138 St
+68-33 138 St
+68-34 138 St
+68-35 138 St*
+68-36 138 St
+68-38 138 St
+68-40 138 St
+68-41 138 St*
+68-43 138 St*
+68-45 138 St*
+68-47 138 St*
+68-49 138 St*
+68-51 138 St
+68-53 138 St*
+68-55 138 St*
+68-57 138 St*
+69-02 138 St
+69-04 138 St
+69-06 138 St
+69-08 138 St
+69-09 138 St*
+69-10 138 St*
+
+69-11 138 St*
+69-11 138 St*
+69-12 138 St
+69-14 138 St
+69-16 138 St*
+69-17 138 St
+69-18 138 St
+69-20 138 St
+69-22 138 St
+69-23 138 St*
+69-24 138 St
+69-25 138 St*
+69-26 138 St
+69-27 138 St*
+69-28 138 St
+69-30 138 St
+69-32 138 St
+69-33 138 St*
+69-34 138 St
+69-36 138 St*
+69-38 138 St
+69-39 138 St*
+69-40 138 St
+69-42 138 St
+69-44 138 St
+69-46 138 St
+69-48 138 St*
+69-50 138 St
+69-52 138 St
+69-54 138 St
+69-56 138 St
+69-58 138 St
+69-60 138 St
+69-62 138 St*
+69-8 138 St
+77-11 138 St
+77-14 138 St
+77-17 138 St
+77-20 138 St
+77-20 138 St
+77-23 138 St
+78-10 138 St
+78-11 138 St
+68-02 140 St*
+68-04 140 St*
+68-05 140 St
+68-08 140 St
+68-09 140 St*
+68-10 140 St"‘
+68-11 140 St*
+68-14 140 St*
+68-16 140 St"‘
+68-18 140 St*
+68-20 140 St
+68-24 140 St*
+68-2621 140 St*
+68-32 140 St*
+68-36 140 St*
+68-42 140 St*
+68-46 140 St*
+68-50 140 St*
+68-52 140 St*
+68-56 140 St*
+68-60 140 SP’
+69-10 140 St"‘
+69-10 140 St"‘
+69-12 140 St*
+69-16 140 St*
+
+69-18 140 St*
+69-22 140 St*
+69-24 140 St
+69-26 140 St*
+69-36 140 St*
+69-38 140 St*
+69-40 140 St*
+77-11 141 St
+77-19 141 St
+77-24 141 St
+77-40 141 St
+78-05 141 St*#
+79-11 146 St
+71-01 147 St
+71-08 147 St*
+71-08/42 147 St
+78-16 147 St*
+78-32 147 St*
+79-04 147 St
+79-05 147 St
+79-05/23 147 St
+79-07 147 St
+79-08 147 St
+79-09 147 St
+79-15 147 St
+79-16 147 St
+79-19 147 St
+79-20 147 St
+79-21 147 St
+79-22 147 St
+79-23 147 St
+79-04 149 St
+79-04 149 St
+79-16 149 St
+79-16 149 St
+79-20 149 St
+79-20 149 St
+67-01 150 St
+67-02 150 St
+67-03 150 St*
+67-05 150 St*
+67-07 150 St*
+67-09 150 St*
+67-10 150 St
+67-11 150 St*
+67-15 150 St*
+67-17 150 St*
+67-19 150 St*
+67-21 150 St*
+67-23 150 St*
+67-25 150 St*
+67-27 150 St*
+67-29 150 St*
+67-31 150 St*
+67-33 150 St
+67-33 150 St*
+67-38 150 St
+67-38 150 St
+67-38 150 St
+67-38 150 St
+67-38 150 St
+67-38 150 St*
+67-38 150 St*
+67-38 150 St*
+67-38 150 St*
+67-38 150 St*
+67-38 150 St*
+67-47 150 St
+
+67-68 150 St
+68-01/41 150 St*
+68-02 150 St
+69-01 150 St*
+69-01 150 St*
+69-25 150 St
+69-41 150 St
+71-02/44 150 St
+71-06 150 St
+71-08 150 St
+71-10 150 St
+71-12 150 St
+71-16 150 St
+71-18 150 St
+71-30 150 St
+71-32 150 St
+71-34 150 St
+71-36 150 St
+71-38 150 St
+71-42 150 St
+71-44 150 St
+72-02/08 150 St*
+72-04 150 St
+72-08 150 St
+75-34 150 St
+75-40 150 St
+79-25 150 St
+67-01 152 St
+67-02 152 St*
+67-02 152 St*
+67-12 152 St*
+67-15 152 St
+67-36 152 St"‘
+67-39 152 St
+67-50 152 St*
+67-72 152 St*
+67-75 152 St
+
+Corona,11368
+
+110-14 Astoria Blvd
+59-21 Calloway St*
+102-13 Corona Ave
+102-45 Corona Ave#
+104-23 Corona Ave#
+106-22 Corona Ave
+107-24 Corona Ave#
+108-33 Corona Ave
+110-50 Corona Ave
+110-52 Corona Ave
+111-12 Corona Ave
+111-14 Corona Ave
+58-35 Granger St
+97-05 Horace}-Iarding
+Expressway
+
+97-07 HoraceHarding
+Expressway
+
+97-1 1 HoraceHarding
+Expressway
+
+97- 15 I-loraceHarding
+Expressway
+
+98- 15 HoraceHarding
+Expressway
+
+98-17 Horaceﬂarding
+Expressway
+
+Queens
+
+98-23 HoraceHarding
+Expressway
+98-25 HoraceHarding
+Expressway
+105-14 Martense Ave
+100-06 Northern Blvd
+100-14 Northern Blvd
+104-03 Northern Blvd*
+107-15 Northern Blvd#
+110-21 Northern B1vd#
+111-17 Northern B1vd#
+98-11 Northern Blvd
+99-02 Northern Blvd
+99-09 Northern Blvd
+99-16 Northern Blvd
+99-20 Northern Blvd
+107-02 Otis Ave
+58-43 Penrod St
+102-20 Radcliff Ave
+56-46 VanC1eef St
+56-48 VanCleef St
+56-52 VanC1eef St
+58-O5 VanCleef St
+57-36 VanDoren St
+57-38 VanDoren St
+57-40 VanDoren St
+57-42 VanDoren St
+57-44 VanDoren St
+57-46 VanDoren St
+57-48 VanDoren St
+57-62 VanDoren St
+56-14 Waldron St
+56-16 Waldron St
+56-20 Waldron St
+58- 19 Waldron St
+58-21 Waldron St
+98-15 34 Ave#
+104-16 34 Ave
+104-15 35 Ave#
+96-04 37 Ave#
+100-02 37 Ave#
+100-04 37 Ave#
+100-06 37 Ave
+100-10 37 Ave#
+100-12 37 Ave#
+100-14 37 Ave#
+100-16 37 Ave#
+100-18 37 Ave
+100-20 37 Ave
+100-22 37 Ave
+102-18 37 Ave
+105-04 37 Ave
+106-11 37 Ave
+108-03 37 Ave
+109-15 37 Ave*
+112-22 37 Ave
+104-32 38 Ave
+104-76 38 Ave#
+108- 16 38 Ave
+108-28 38 Ave#
+103-18 39 Ave#
+104-51 39 Ave*#
+108-06 39 Ave
+108-50 39 Ave#
+108-52 39 Ave#
+111-01 39 Ave#
+96-15 41 Ave
+99-017 41 Ave#
+
+22
+
+99-12 41 Ave
+99-14 41 Ave#
+99-20 41 Ave#
+99-22 41 Ave#
+99-30 41 Ave#
+99-36 41 Ave#
+99-42 41 Ave#
+100-11 41 Ave
+99-01 42 Ave#
+99-03 42 Ave
+99-05 42 Ave
+99-07 42 Ave
+99-09 42 Ave
+99-13 42 Ave
+99-15 42 Ave
+99-17 42 Ave
+99-19 42 Ave
+99-21 42 Ave#
+99-25 42 Ave#
+99-29 42 Ave#
+99-31 42 Ave
+99-33 42 Ave#
+103-08 42 Ave#
+103-34 42 Ave
+104-18 42 Ave#
+104-54 42 Ave
+104-80 42 Ave
+108-37 42 Ave
+108-78 42 Ave
+202-15 42 Ave
+96-06 43 Ave#
+99-11 43 Ave
+99-13 43 Ave
+99-15 43 Ave
+99-17 43 Ave#
+99-19 43 Ave#
+99-21 43 Ave
+99-23 43 Ave
+101-06 43 Ave
+108-42 43 Ave
+108-44 43 Ave
+108-62 45 Ave
+108-64 45 Ave
+101-12 46 Ave#
+104-20 46 Ave
+108-25 46 Ave
+108-30 46 Ave
+108-20 48th Ave
+108-15 49 Ave
+106-20 50 Ave#
+103-23 52 Ave#
+103-90 52 Ave
+108-09 52 Ave
+105-15 53 Ave
+105-17 53 Ave
+105-19 53 Ave
+108-56 53 Ave
+110-06 56 Ave
+96-02 57 Ave
+96-04 57 Ave
+96-08 57 Ave
+96-10 57 Ave
+97-20 57 Ave
+97-22 57 Ave
+97-28 57 Ave
+97-30 57 Ave
+98-30 57 Ave
+98-32 57 Ave
+
+98-38 57 Ave
+98-40 57 Ave
+98-45 57 Ave
+99-04 57 Ave
+99-05 58 Ave
+55-25 98 Place
+55-30 98 Place
+100-06 40 Rd#
+60-17a 56 Rd#
+60-19 56 Rd#
+60-21 56 Rd#
+35-06 97 St#
+35-20 97 St
+35-37 97 St#
+35-41 97 St
+35-58 97 St
+37-14 97 St
+37-35 97 St
+37-50 97 St#
+37-61 97 St
+37-68 97 St#
+40-27 97 St
+40-29 97 St
+40-31 97 St
+40-33 97 St
+40-37 97 St*
+37-25 98 St
+40-22 98 St#
+40-64 98 St
+55-25 98 St
+33-18 99 St#
+33-54 99 St#
+35-12 99 St#
+35-28 99 St
+37-22 99 St#
+40-15 99 St#
+40-19 99 St#
+40-23 99 St#
+40-25 99 St
+40-29 99 St
+40-31 99 St
+40-33 99 St
+40-35 99 St
+40-39 99 St
+40-41 99 St
+40-43 99 St
+40-45 99 St
+40-47 99 St
+40-49 99 St
+55-30 99 St
+34-35 100 St#
+35-26 100 St#
+35-28 100 St#
+40-40 100 St#
+40-41 100 St
+54-09 100 St
+54-39 100 St
+32-30 101 St
+33-36 102 St
+34-21 102 St#
+35-05 102 St
+35-15 102 St#
+35-20 102 St
+35-22 102 St
+35-26 102 St
+37-91 102 St
+40-15 102 St*
+40-17 102 St
+

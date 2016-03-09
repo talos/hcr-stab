@@ -1,0 +1,1676 @@
+73-33 255 St*
+73-34 255 St
+73-36 255 St
+73-38 255 St
+73-43 255 St
+73-44 255 St
+73-53 255 St
+73-61 255 St
+73-72 255 St
+74-02 255 St
+74-03 255 St
+74-04 255 St
+74-06 255 St
+74-12 255 St
+74-13 255 St*
+75-02 255 St
+75-06 255 St
+75-07 255 St
+75-08 255 St*
+75-09 255 St
+75-11 255 St
+75-13 255 St
+75-15 255 St*
+75-17 255 St
+75-19 255 St
+75-24 255 St
+75-28 255 St
+75-30 255 St
+75-32 255 St
+75-34 255 St
+75-36 255 St
+75-38 255 St
+75-40 255 St
+75-42 255 St
+75-48 255 St*
+70-33 260 St*
+
+70-38 260 St
+70-52 260 St
+70-54 260 St
+70-56 260 St
+70-58 260 St
+70-59 260 St
+70-60 260 St
+70-61 260 St
+70-63 260 St
+70-65 260 St
+70-70 260 St
+71-02 260 St
+71-04 260 St
+71-10 260 St
+71-12 260 St
+71-15 260 St
+71-16 260 St
+71-17 260 St
+71-18 260 St
+71-20 260 St*
+71-21 260 St
+71-22 260 St*
+71-27 260 St
+71-31 260 St
+71-32 260 St
+71-33 260 St*
+71-34 260 St
+71-34 260 St
+71-35 260 St"‘
+71-40 260 St
+71-41 260 St
+
+;_j
+Queens
+
+71-42 260 St 75-31 260 S1 46-16 43 Ave 45-13 40 St
+71-44 260 S1 75-37 260 St* 47-08 43 Ave# 45-15 40 SI
+71-47 260 31 75-39 260 S1 47-12 43 Ave# 45-17 40 St
+71-48 260 St 75-41 260 St 48-01 43 Ave# 45-18 40 St
+71-49 260 St 39-09 47 Ave# 45-19 40 St
+71-50 260 St 70-07 261 St 39-30 47 Ave 45-20 40 St
+71-52 260 St 70-08 261 St 39-38 47 AVG 45-22 40 St#
+71-53 260 51 70-09 261 S1 39-43 47 Ave 45-24 40 S1
+71-54 260 S1 70-15 261 St 39-44 47 Ave 45-25 40 St
+73 54 260 St 70-17 261 S1* 41-07 47 Ave# 45-26 40 St#
+73-02 260 St 70-18 261 St 41-11 47 Ave# 45-27 40 St#
+73-03 260 St 70-19 261 St 41-16 47 Ave*# 45-28 40 S1.#
+73-05 260 St* 42-09 47 AVG# 45-29 40 St
+73-06 260 St 73-01 263 St 43-09 47 Ave# 45-30 40 St#
+73-07 260 St 73-02 263 S1 41-15 50 Ave# 45-31 40 St
+73-08 260 St 73-03 263 St* 41-12 39 Place# 45-32 40 St
+73-11 260 St 73-04 263 St 41-43 39 Place# 45-33 40 51:
+73-12 260 St 73-05 263 St 43-07 39 P1306 45-34 40 SI#
+73-15 260 St 73-07 263 St 43-18 39 Place# 45-35 40 SI#
+73-17 260 51 73-09 263 S1 43-19 39 P§ac::  g :1
+73-19 260 SI* 73-15 263 51* 43-28 39 P ac - I
+73-21 260 St* 73-16 263 St 43-29 39 Place# 45-38 40 St
+73-27 260 St 73-17 263 St 43-38 39 Place# 45-39 40 S1:
+73-34 260 St 73-18 263 St* 43-39 39 Place# 45-40 40 St
+73-35 260 Sat 73-26 263 St 45-06 39 Place# 45-41 40 St
+73-36 260 St 73-27 263 St 45-14 39 Place# 45-42 40 St#
+73-37 260 St* 73-28 263 5! 45-16 39 Place/# 45-43 40 St#
+73-39 260 St 74-02 263 St 45-18 39 Place# 45-44 40 St
+73-40 260 St 74-04 263 St 45-19 39 Place# 45-45 40 St
+73-43 260 St 74-10 263 St 45-22 39 P1306 45-46 40 S[#
+73-52 260 St 74-14 263 St"' 45-24 39 Place/# 45-47 40 St#
+73-59 260 St 74-16 263 St* 45-25 39 Place# 45-48 40 St
+
+74-18 263 51 45-26 39 Place# 45-49 40 St
+74-01 260 St 75-10 263 St 45-30 39 Place# 45-50 40 St
+74-02 260 St 75-16 263 St 45-36 39 Place# 45-51 40 SI#
+74-03 260 St 75-18 263 St 45-41 39 Place# 45-52 40 s:#
+74-07 260 s:* 75-20 263 St 45-54 39 Place# 45-54 40 St
+74.09 260 St 75-22 263 St* 45.57 39 Place 45-55 40 s:
+74-10 260 St 75-24 263 St* 47-55 39 P1aoe*# 45-56 40 St#
+74-11 260 St 75-26 263 St 47-60 39 Place# 45-57 40 St
+74-12 260 St 75-28 263 St 48-13 39 Place*# 43-33 443 :t#
+74-13 260 St 75-34 263 S1 48-15 39 Place 4 - I
+74-15 260 St 75-38 263 S1* 50-21 39 Place* 47-20 40 St
+74-17 260 St 75-40 263 St 43-26 29 S1# 47-25 40 St*#
+74-19 260 St 75-42 263 St 45-55 39 St# 47-39 40 St*#
+74-21 260 St 75-44 263 St* 47-07 39 SI# 47-46 40 St
+74-18 260 St 47-17 39 SI# 47-51 40 St#
+74-20 260 St 50-15 39 St* 48-21 40 St*
+74.25 260 St Sunnyside,11104 50-40 39 St 48-30 40 st
+74-29 260 St ______________ __ 41-11 40 S1»# 50’22 40 St*#
+74-32 260 S1 _ e oim Av 41-40 40 St# 41-09 41 St*
+74-36 260 St 3323 ‘(ijﬁeﬁﬁgom AV? 41-42 40 s1# 41-12 41 St*#
+74-39 260 St 39_53 Greenpoim Ave 41-48 40 St# 41-19 41 St#
+74-40 260 St* 3727 Hunterspoim Ave# 43-08 40 St# 41-29 41 St#
+74-43 260 St 45_02 Skmman Ave 43-09 40 St# 41-41 41 S1.*#
+74-47 260 St 46_13 Skiuman Ave/# 43-14 40 S1# 43-08 41 SI#
+74-48 260 St 47_09 Skﬂlman Ave# 43-18 40 St# 43-13 41 St#
+74-57 260 S15‘ 48_06 Skﬂ1man# 43-22 40 St# 43-18 41 St#
+74-65 260 St 46_01 39 Aveq. 43-23 40 St# 43-19 41 St#
+75-03 260 St 51_01 39 Ave# 43-28 40 S1 43-20 41 St
+75-07 260 S1 41_00 43 AVe# 43-30 40 St# 43-23 41 St#
+75-15 250 St 4243 43 M3,, 43-31 40 s:# 4324 41 s:#
+75.17 260 St 4443 43 Ave“, 43-32 40 s:# 43-26 41 St
+75-19 260 St 45_0q 43 Ave# 43-35 40 S1# 43-28 41 St#
+75-23 260 St 45_11 43 Ave’: 43-37 40 St# 43-29 41 St#
+75-25 260 St 4543 43 Ave 43-40 40 St 43.32 41 St#
+75.27 260 St 4313 43 Ave 45-08 40 s:*# 43-33 41 s:#
+75-29 260 St 45-11 40 St# 43-34 41 S1
+
+_..__--.,--JA
+
+43-38 41 St#
+43-39 41 St#
+43-40 41 St
+45-11 41 St
+45-15 41 St
+45-17 41 St#
+45-21 41 St#
+45-23 41 St
+45-25 41 St#
+45-29 41 St#
+45-31 41 St
+45-35 41 St
+45-39 41 St#
+45-42 41 St#
+45-43 41 St#
+45-45 41 St
+45-49 41 St
+45-54 41 St#
+45-55 41 St#
+47-07 41 St#
+47-12 41 St#
+47-14 41 St
+47-16 41 St#
+47-20 41 St
+47-21 41 St#
+47-22 41 St#
+47-24 41 St#
+47-32 41 St#
+47-40 41 St#
+47-50 41 St#
+48-12 41 St
+48-14 41 St#
+48-18 41 St#
+48-20 41 St
+48-22 41 St#
+48-26 41 St
+48-28 41 St#
+48-30 41 St
+48-32 41 St#
+48-36 41 St#
+48-38 41 St#
+48-40 41 St#
+48-42 41 St
+48-46 41 St#
+48-48 41 St#
+48-50 41 St*#
+22-22 42 St
+41-07 42 St*#
+41-08 42 St#
+41-20 42 St
+41-21 42 St*#
+41-22 42 St#
+41-42 42 St*#
+43-07 42 St#
+43-14 42 St
+43-16 42 St#
+43-18 42 St#
+43-20 42 St
+43-22 42 St
+43-23 42 St#
+43-24 42 St#
+43-28 42 St#
+43-30 42 St#
+43-32 42 St#
+43-34 42 St
+43-35 42 St#
+43-36 42 St#
+43-38 42 St#
+
+43-39 42 St#
+43-40 42 St
+43-45 42 St#
+43-49 42 St#
+45-14 42 St#
+45-15 42 St#
+45-18 42 St#
+45-19 42 St#
+45-24 42 St#
+45-25 42 St#
+45-28 42 St#
+45-29 42 St#
+45-34 42 St#
+45-35 42 St#
+45-38 42 St#
+45-39 42 St#
+45-44 42 St#
+45-48 42 St#
+45-56 42 St#
+47-20 42 St#
+48-01 42 St#
+48-05 42 St#
+48-17 42 St#
+48-23 42 St#
+41-05 43 St#
+41-08 43 St*#
+41-30 43 St#
+41-34 43 St
+41 -43 43 St*#
+43-09 43 St#
+43-24 43 St#
+43-25 43 St*#
+45-14 43 St*#
+45-20 43 St*#
+41-15 44 St*#
+41 -25 44 St*#
+41-41 44 St#
+41-44 44 St#
+43-05 44 St#
+43-10 44 St*#
+43-15 44 St#
+43-18 44 St
+43-25 44 St#
+43-30 44 St"‘#
+43-41 44 St
+45-16 44 St#
+45-26 44 St#
+45-35 44 St#
+41-15 45 St*#
+41-22 45 St
+41-24 45 St
+41-28 45 St
+41-30 45 St
+41 -35 45 St*#
+41-49 45 St#
+43-06 45 St#
+43-15 45 St#
+43-22 45 St#
+43-31 45 St#
+43-42 45 St*#
+45-15 45 St#
+45-17 45 St
+45-19 45 St
+45-21 45 St#
+45-23 45 St
+41-15 46 St*#
+41-20 46 St"‘#
+41-29 46 St#
+
+Queens
+
+41 -30 46 St*#
+41-41 46 St#
+41-50 46 St#
+43-01 46 St*#
+43-06 46 St#
+43-15 46 St*#
+43-30 46 St*#
+43-33 46 St*#
+39-52 47 St#
+39-56 47 St*#
+41-23 47 St#
+41-31 47 St#
+43-04 47 St#
+43-05 47 St#
+43-06 47 St#
+43-06 47 St#
+43-12 47 St#
+43-16 47 St#
+43-16 47 St#
+43-22 47 St#
+43-28 47 St#
+43-28 47 St#
+43-32 47 St#
+43-38 47 St#
+43-38 47 St#
+39-67 48 St#
+40-39 48 St#
+41-09 48 St
+41-11 48 St
+41-12 48 St#
+41-15 48 St#
+41-17 48 St#
+41-18 48 St
+41-19 48 St#
+41-23 48 St
+41-25 48 St#
+41-27 48 St
+41-27 48 St#
+41-31 48 St
+41-33 48 St#
+41-35 48 St
+41-38 48 St#
+41-39 48 St
+41-41 48 St#
+41-44 48 St#
+41-45 48 St
+41-47 48 St
+41-49 48 St
+43-04 48 St#
+43-10 48 St#
+43-16 48 St#
+43-17 48 St#
+43-20 48 St#
+43-30 48 St*#
+43-33 48 St
+39-73 49 St#
+39-88 49 St#
+41-12 49 St#
+41-14 49 St#
+41-15 49 St
+41-16 49 St
+41-17 49 St#
+41-19 49 St
+41-20 49 St#
+41-21 49 St
+41-22 49 St#
+41-23 49 St#
+41-24 49 St
+
+41-25 49 St#
+41-27 49 St#
+41-28 49 St
+41-30 49 St
+41-31 49 St#
+41-33 49 St
+41-34 49 St
+41-35 49 St#
+41-36 49 St#
+41-37 49 St
+41-38 49 St
+41-40 49 St
+41-41 49 St
+41-43 49 St
+41-44 49 St#
+41-45 49 St
+41-52 49 St#
+43-10 49 St#
+43-11 49 St
+43-17 49 St#
+43-18 49 St#
+43-21 49 St#
+43-22 49 St
+43-25 49 St#
+43-26 49 St#
+43-34 49 St#
+39-23 64 St
+
+Woo1sey,11105
+
+30-11 Astoria Blvd#
+43-21 Astoria Blvd
+20-15 Crescent St
+20-21 Crescent St
+20-25 Crescent St
+20-32 Crescent St
+20-34 Crescent St
+20-35 Crescent St
+20-38 Crescent St
+20-41 Crescent St
+20-42 Crescent St
+20-44 Crescent St
+20-45 Crescent St
+20-51 Crescent St
+20-55 Crescent St
+20-65 Crescent St
+20-75 Crescent St
+21-14 Crescent St#
+21-24 Crescent St#
+21-32 Crescent St#
+21-38 Crescent St#
+21-46 Crescent St#
+21-54 Crescent St#
+21-62 Crescent St#
+21-70 Crescent St#
+23-04 Crescent St
+23-85 Crescent St
+18-05 Ditmars Blvd#
+18-19 Ditmars Blvd
+18-21 Ditmars Blvd
+18-25 Ditmars Blvd#
+18-27 Ditmars Blvd#
+18-29 Ditmars Blvd
+18-31 Ditmars Blvd#
+18-33 Ditmars Blvd#
+18-37 Ditmars Blvd#
+
+18-39 Ditmars Blvd#
+18-41 Ditmars Blvd#
+18-45 Ditmars Blvd
+18-47 Ditmars Blvd
+18-49 Ditmars Blvd#
+18-53 Ditmars Blvd#
+18-55 Ditmars Blvd#
+18-59 Ditmars Blvd
+19-06 Ditmars Blvd#
+31-21 Ditmars Blvd#
+36-16 Ditmars Blvd
+40-06 Ditmars Blvd#
+43-03 Ditmars Blvd#
+43-05 Ditmars Blvd
+43-07 Ditmars Blvd
+43-09 Ditmars Blvd
+43- 11 Ditmars Blvd
+29-22 Hoyt Ave#
+25-03 Newtown Ave#
+20-75 Shore Blvd
+20-25 Steinway St#
+20-34 Steinway St
+20-37 Steinway St#
+20-60 Steinway St#
+20-65 Steinway-St
+20-70 Steinway St
+20-70a Steinway St
+20-71 Steinway St#
+20-72 Steinway St*
+20-74 Steinway St
+20-75 Steinway St
+21-03 Steinway St#
+21-61 Steinway St#
+21-79 Steinway St
+21-83 Steinway St
+22-17 Steinway St
+22-19 Steinway St
+22-26 Steinway St
+22-73 Steinway St#
+23-15 Steinway St#
+23-54 Steinway St
+24-31 Steinway St#
+41 -20 20 Ave
+
+19-15 21 Ave
+
+20-09 21 Ave
+
+21-20 21 Ave
+
+21-23 21 Ave
+
+21-25 21 Ave
+
+21-27 21 Ave
+
+21-29 21 Ave
+
+21-31 21 Ave
+
+21-35 21 Ave
+
+21-37 21 Ave
+
+24-05 21 Ave
+
+29-06 21 Ave#
+29-16 21 Ave#
+29-19 21 Ave
+
+29-21 21 Ave
+
+29-24 21 Ave#
+31-09 21 Ave#
+31-15 21 Ave
+
+35-01 21 Ave#
+38-04 21 Ave
+
+38-07 21 Ave#
+19-29 23 Ave#
+21-06 23 Ave#
+28-08 23 Ave#
+28-19 23 Ave#
+
+29-01 23 Ave
+41 -07 23 Ave
+41 -08 23 Ave
+41 -09 23 Ave
+41 -12 23 Ave#
+42-07 23 Ave
+42-09 23 Ave
+42-13 23 Ave
+42-15 23 Ave#
+37-07 24 Ave
+21-39 32 Ave
+19-27 21 Drive
+19-29 21 Drive
+19-31 21 Drive
+19-12 22 Drive
+19-18 22 Drive
+21-18 22 Drive
+38-01 20 Rd
+38-09 20 Rd#
+19-26 21 Rd
+19-28 21 Rd
+21-05 21 Rd
+19-05 22 Rd#
+21-14 22 Rd
+29-14 23 Rd
+29-19 23 Rd
+29-23 23 Rd
+
+3 1-1 4 23 Rd#
+21-21 24 Rd
+20-53 19 St
+20-65 19 St
+20-76 19 St
+21-76 19 St
+21-80 19 St#
+22-07 19 St#
+22- 1 7 19 St#
+20-31 20 St
+20-35 20 St
+20-37 20 St
+20-39 20 St
+20-43 20 St
+20-52 20 St
+20-53/61 20 St
+20-56 20 St
+20-58 20 St
+20-60 20 St
+20-64 20 St
+20-32 21 St
+20-44 21 St
+
+21 - 13 21st St
+21-36 21 St
+21-38 21 St
+21-40 21 St
+21-44 21 St
+21-48 21 St
+21-50 21 St
+21-52 21 St
+21-80 21 St
+23-06 21 St#
+21-45 23 St#
+22-35 23 St#
+20-15/25 24 St
+20-24 24 St
+20-32 24 St
+20-35 24 St
+20-36 24 St
+20-44 24 St
+20-45 24 St
+
+20-52 24 St
+20-55/65 24 St
+21-71 24 St
+23-92 24 St#
+21-46 25 St#
+21-54 25 St#
+20-65 26 St
+20-66 26 St
+20-68 26 St
+20-70 26 St
+20-72 26 St
+20-74 26 St
+20-75 26 St
+22-41 26 St#
+22-57 26 St
+22-61 26 St
+22-63 26 St#
+23-84 26 St#
+20-65/75 27 St
+20-66 27 St
+20-68 27 St
+20-70 27 St
+20-72 27 St
+20-74 27 St
+21-11 27 St#
+21-15 27 St#
+21-19 27 St#
+21-23 27 St#
+21-27 27 St#
+21-31 27 St#
+21-35 27 St#
+21-39 27 St#
+21-43 27 St#
+21-47 27 St#
+21-47 27 St#
+21-51 27 St#
+21-51 27 St#
+21-55 27 St#
+21-59 27 St#
+21-63 27 St#
+21-67 27 St#
+21-71 27 St#
+22-42 27 St#
+22-43 27 St
+22-58 27 St
+22-59 27 St#
+22-60 27 St#
+22-61 27 St#
+22-62 27 St
+22-65 27 St
+22-66 27 St#
+22-67 27 St#
+22-68 27 St
+22-69 27 St
+22-70 27 St#
+23-38 27 St
+24-44 27 St
+21-42 28 St#
+21-45 28 St#
+22-67 28 St
+22-68 28 St#
+23-03 28 St#
+23-14 28 St#
+23-22 28 St
+23-26 28 St
+23-71 28 St
+20-14 29 St
+20-53 29 St#
+
+Queens
+
+20-55 29 St
+20-59 29 St#
+20-61 29 St
+21-39 29 St#
+21-43 29 St#
+21-46 29 St#
+23-05 29 St#
+23-31 29 St#
+23-40 29 St#
+23-46 29 St#
+23-60 29 St#
+23-70 29 St#
+23-74 29 St#
+23-76 29 St
+23-80 29 St
+23-84 29 St
+23-90 29 St#
+24-25 29 St
+20-24 31 St#
+20-34 31 St#
+20-40 31 St#
+20-48 31 St#
+20-52 31 St#
+20-62 31 St#
+21-24 31 St#
+21-38 31 St#
+21-50 31 St#
+21-52 31 St#
+22-46 31 St#
+23-12 31 St
+23-35 31 St
+23-54 31 St
+23-56 31 St
+20-79 32 St#
+21-41 32 St
+23-07 32 St#
+23-33 32 St#
+23-51 32 St#
+21-05 33 St*#
+21-06 33 St
+21-15 33 St*#
+21-27 33 St*#
+21-37 33 St*#
+21-47 33 St*#
+21-57 33 St*#
+21-67 33 St*#
+21-77 33 St*#
+22-04 33 St#
+22-11 33 St#
+22-24 33 St
+22-55 33 St#
+23-11 33 St#
+23-17 33 St#
+23-52 33 St#
+23-57 33 St#
+23-76 33 St
+21-06 35 St*#
+21-16 35 St*#
+21-28 35 St*#
+21-38 35 St*#
+21-48 35 St*#
+21-58 35 St*#
+21-68 35 St*#
+21-78 35 St"‘#
+22-62 35th St
+22-66 35 St
+22-67 35 St#
+22-68 35 St#
+
+9
+
+22-70 35 St#
+22-72 35 St#
+22-75 35 St#
+23-11 35 St
+23-15 35 St#
+23-17 35 St
+23-19 35 St
+23-21 35 St
+23-12 36 St
+23-14 36 St#
+23-16 36 St
+23-18 36 St#
+22-05 37 St#
+23-71 37 St
+23-73 37 St#
+23-83 37 St
+23-85 37 St
+23-92 37 St
+20-67 38 St#
+20-75 38 St#
+21-03 38 St#
+21-05 38 St
+21-07 38 St#
+21-09 38 St
+21-80 38 St#
+21-81 38 St*#
+22-06 38 St#
+23-38 38 St#
+23-40 38 St
+23-45 38 St
+23-47 38th St
+23-51 38 St#
+23-58 38 St
+23-62 38 St
+23-78 38 St#
+23-80 38 St
+21 -21c 41 St#
+21-27 41 St
+21-29 41 St#
+21-31 41 St
+21-31a 41 St
+21-310 41 St
+21-49 41 St#
+21-68 41 St
+22-55 41 St
+22-57 41 St#
+22-59 41 St
+22-63 41 St
+22-64 41 St
+22-65 41 St
+22-69 41 St#
+22-73 41 St#
+22-76 41 St#
+23-20 41 St*#
+20-40 42 St#
+20-42 42 St#
+20-44 42 St
+20-48 42 St#
+22-18 42 St#
+22-24 42 St
+22-28 42 St#
+22-30 42 St
+22-61 42 St#
+22-62 42 St
+22-64 42 St#
+22-67 42 St#
+22-68 42 St#
+22-69 42 St#
+
+22-70 42 St
+22-72 42 St
+22-74 42 St
+12-67 43 St
+22-57 43 St#
+22-61 43 St
+22-64 43 St#
+22-65 43 St
+22-68 43 St#
+22-70 43 St
+23-03 43 St
+21-63 45 St
+21-67 45 St#
+20-44 48 St
+20-03 49 St
+21-35 49 St
+
+Bdwy,11106
+
+14-23 Bdwy
+
+14-55 Bdwy
+
+23- 12 Bdwy
+
+23- 13 Bdwy
+
+23-34 Bdwy
+
+23-35 Bdwy
+
+23-38 Bdwy
+
+23-40 Bdwy#
+25-20 Bdwy#
+29-05 Bdwy
+
+30-02 Bdwy#
+30-18 Bdwy#
+32-20 Bdwy#
+
+34- 13 Bdwy
+
+35-05 Bdwy
+
+35- 15 Bdwy
+
+31-05 Crescent St
+31-11 Crescent St#
+31-14 Crescent St*#
+31-17 Crescent St#
+31-23 Crescent St*
+31-28 Crescent St
+31-35 Crescent St
+31-45 Oescent St#
+31-85 Crescent St*
+32-16 Crescent St#
+33-02/12 Crescent St#
+33-07 Crescent St
+33-09 Crescent St
+33-11 Crescent St
+33-13 Crescent St#
+33-15 Crescent St#
+33-43 Crescent St
+34-15 Crescent St
+34-43 Crescent St
+35-15 Crescent St
+35-17 Crescent St
+35-21 Crescent St#
+35-23 Crescent St#
+35-25 Crescent St
+35-29 Crescent St
+35-31 Crescent St
+35-33 Crescent St#
+35-35 Crescent St
+35-37 Crescent St#
+35-41 Crescent St#
+35-43 Crescent St#
+
+Queens
+
+35-45 Crescent St 33-10 34 Ave# 34-38 28 St# 32-79 30 St# 35-29 32 St
+35-49 Crescent St 33-14 34 Ave# 34-40 28 St# 32-80 30 St# 35-31 32 St#
+33-51 Vernon Blvd 34-04 34 Ave# 34-42 28 St 32-82 30 St 35-33 32 St
+34-61 Vernon Blvd 34-11 34 Ave# 34-50 28 St# 32-84 30 St# 35-34 32 St#
+35-11 Vernon Blvd# 908 34 Ave 35-21 28 St# 32-86 30 St# 35-45 32 St
+36-05 Vemon Blvd 910 34 Ave 35-27 28 St# 34-08 30 St# 35-47 32 St#
+12-11 31 Ave# 31-16 35 Ave# 35-44 28 St 34-14 30 St 36-24 32 St
+12-17 31 Ave 32-06 35 Ave# 31-21 29 St# 34-19 30 St# 31-04 33 St#
+12-21 31 Ave# 35-07 35 Ave 31-28 29 St 34-20 30 St# 31-09 33 St#
+12-29 31 Ave# 29-15 36 Ave# 31-31 29 St# 34-33 30 St 31-11 33 St#
+12-31 31 Ave 34-02 36 Ave# 31-32 29 St# 34-35 30 St# 31-12 33 St#
+14-22 31 Ave# 34-07 36 Ave 31-38 29 St# 34-37 30 St 31-14 33 St
+14-24 31 Ave 34-11 36 Ave# 31-49 29 St# 34-39 30 St# 31-15 33 St#
+14-44 31 Ave 804 36 Ave 31-62 29 St# 34-40 30 St 31-18 33 St
+14-48 31 Ave# 28-08 41 Ave 31-65 29 St# 34-41 30 St# 31-19 33 St#
+21-22 31 Ave# 11-38 31 Drive 31-74 29 St# 34-42 30 St# 31-20 33 St#
+21-24 31 Ave# 11-40 31 Drive 31-75 29 St# 34-43 30 St# 31-25 33 St#
+21-26 31 Ave 12-34 31 Drive# 32-06 29 St# 34-44 30 St 31-26 33 St
+23-12 31 Ave# 12-35 31 Drive# 33-04 29 St# 34-48 30 St 31-28 33 St
+23-19 31 Ave 23-29 31 Drive/# 33-08 29 St# 34-50 30 St# 31-29 33 St
+23-22 31 Ave# 23-42 31 Drive# 33-12 29 St 34-52 30 St# 31-31 33 St
+23-24 31 Ave# 23-44 31 Drive 33-14 29 St# 34-54 30 St 31-33 33 St
+23-28 31 Ave*# 23-57 31 Drive# 33-18 29 St# 34-56 30 St 31-37 33 St#
+23-30 31 Ave# 14-23 31 Rd 33-20 29 St 34-58 30 St 31-39 33 St
+23-36 31 Ave# 14-35 31 Rd 33-22 29 St# 35-05 30 St# 31-41 33 St#
+23-38 31 Ave 14-37 31 Rd 33-30 29 St 35-13 30 St 31-43 33 St
+23-40 31 Ave# 23-30 31 Rd# 33-32 29 St# 35-18 30 St 31-47 33 St#
+23-45 31 Ave 23-38 31 Rd# 33-34 29 St 36-06 30 St 31-49 33 St#
+25-10 31 Ave* 23-51 31 Rd# 33-36 29 St 36-16 30 St 31-51 33 St#
+25-13 31 Ave# 23-53 31 Rd# 33-40 29 St# 36-23 30 St# 31-53 33 St
+25-21 31 Ave# 23-54 31 Rd# 33-42 29 St# 36-25 30 St 31-57 33 St
+25-40 31 Ave*# 23-57 31 Rd# 34-12 29 St# 36-29 30 St 31-59 33 St#
+29-07 31 Ave# 33-11 9 St# 34-19 29 St# 36-31 30 St# 31-60 33 St#
+29-08 31 Ave# 33-15 9 St# 34-50 29 St# 36-45 30 St 31-61 33 St#
+32-13 31 Ave 34-06 9 St# 35-03 29 St# 32-44 31 St 31-63 33 St#
+33-08 31 Ave 34-25 9 St 35-15 29 St# 32-84 31 St# 31-68 33 St#
+33-09 31 Ave# 34-33 9 St 35-17 29 St 36-28 31 St# 31-69 33 St#
+33-16 31 Ave 34-41 9 St 35-21 29 St# 36-30 31 St 31-72 33 St
+33-18 31 Ave 34-41 9 St 35-25 29 St# 30-32 32 St# 31-74 33 St#
+34-07 31 Ave# 34-48 9 St# 35-32 29 St 31-04 32 St 31-76 33 St
+34-15 31 Ave# 34-51 9 St# 35-33 29 St# 31-11 32 St# 31-77 33 St#
+35-04 31 Ave# 34-61 9 St# 35-34 29 St# 31-15 32 St# 31-78 33 St#
+35-06 31 Ave# 35-41 9 St# 35-38 29 St 31-16 32 St# 31-82 33 St
+35-09 31 Ave 35-48 9 St# 35-40 29 St 31-19 32 St# 32-10 33 St
+35-13 31 Ave 35-50 9 St 35-42 29 St# 31-20 32 St# 32-32 33 St
+35-16 31 Ave# 35-51 10 St 35-46 29 St# 31-23 32 St# 32-40 33 St
+35-18 31 Ave# 33-78 11 St# 35-50 29 St 31-24 32 St# 32-42 33 St#
+35-19 31 Ave 34-17 11 St# 35-55 29 St*# 31-28 32 St# 32-52 33 St#
+36-01 31 Ave# 35-54 11 St 36-05 29 St# 31-32 32 St# 32-64 33 St
+36-04 31 Ave# 35-60 11 St# 36-08 29 St# 31-36 32 St# 32-71 33 St
+36-06 31 Ave# 30-59 14 St 31-30 30 St# 31-40 32 St# 32-80 33 St
+36-11 31 Ave# 31-26 14 St 31-34 30 St# 31-42 32 St 32-85 33 St#
+40-12 31 Ave# 31-02 21 St# 31-36 30 St# 31-50 32 St# 32-86 33 St#
+21-17 33 Ave 31-16 21 St 31-37 30 St# 31-77 32 St# 34-05 33 St#
+25-04 33 Ave# 31-18 21 St 31-40 30 St# 32-05 32 St 34-11 33 St#
+28-04 33 Ave# 31-20 21 St 31-64 30 St 32-75 32 St# 34-18 33 St#
+28-05 33 Ave# 31-03 23 St# 31-76 30 St‘ 32-76 32 St# 34-19 33 St#
+10-05 34 Ave# 33-14 28 St# 31-78 30 St 32-77 32 St 34-32 33 St#
+10-09 34 Ave# 33-15 28 St# 31-83 30 St# 32-79 32 St# 34-34 33 St
+10-11 34 Ave# 33-34 28 St 31-87 30t.h St 34-06 32 St# 34-37 33 St
+10-12 34 Ave 33-54 28 St# 32-15 30 St# 34-07 32 St# 34-56 33 St#
+25-09 34 Ave 34-18 28 St# 32-34 30 St# 34-20 32 St# 35-11 33 St
+29-17 34 Ave# 34-20 28 St# 32-35 30 St# 34-44 32 St# 35-24 33 St
+30-15 34 Ave# 34-22 28 St# 32-38 30 St# 34-48 32 St# 35-37 33 St#
+32-01 34 Ave 34-24 28 St 32-44 30 St# 34-55 32 St 35-39 33 St
+32-02 34 Ave# 34-28 28 St 32-48 30 St# 35-07 32 St# 35-41 33 St#
+32-20 34 Ave 34-30 28 St 32-70 30 St 35-21 32 St# 35-45 33 St
+33-06 34 Ave 34-36 28 St# 32-72 30 St# 35-25 32 St 35-47 33 St
+
+10
+
+35-48 33 St#
+30-44 34 St#
+31-10 34 St
+31-12 34 St#
+31-1 3 34 St
+31-1 4 34 St#
+31-15 34 St#
+31-17 34th St#
+31-18 34 St#
+31-19 34 St
+31-21 34 St#
+31-22 34 St#
+31-23 34 St
+31-26 34 St#
+31-27 34 St
+31-29 34 St#
+31-30 34 St
+31-31 34 St#
+31-32 34 St
+31-33 34 St#
+31-34 34 St
+31-37 34 St#
+31-39 34 St#
+31-40 34 St
+31-41 34 St#
+31-42 34 St
+31-43 34 St#
+31-44 34 St#
+31-48 34 St
+31-52 34 St#
+31-53 34 St#
+31-56 34 St#
+31-57 34 St#
+31-60 34 St#
+31-64 34 St#
+31-68 34 St#
+31-70 34 St#
+31-78 34 St#
+32-13 34 St#
+32-14 34 St*#
+32-15 34 St#
+32-18 34 St#
+32-20 34 St
+32-32 34 St#
+32-51 34 St
+32-60 34 St#
+32-62 34 St
+32-85 34 St#
+32-86 34 St#
+34-05 34 St#
+34-08 34 St#
+34-12 34 St
+34-16 34 St#
+34-20 34 St
+34-36 34 St
+34-38 34 St
+35-06 34 St#
+35-15 34 St#
+35-16 34 St#
+35-25 34 St#
+35-28 34 St#
+35-30 34 St#
+35-37 34 St
+35-39 34 St
+35-41 34 St
+35-44 34 St#
+35-45 34 St#
+35-47 34 St#
+
+35-48 34 St#
+36-63 34 St#
+30-90 35 St#
+31-02 35 St#
+31-10 35 St
+31-11 35 St
+31-14 35 St#
+31-17 35 St
+31-18 35 St#
+31-19 35 St
+31-21 35 St
+31-22 35 St#
+31-23 35 St
+31-24 35 St#
+31-26 35 St
+31-27 35 St
+31-28 35 St#
+31-29 35 St
+31-31 35 St
+31-33 35 St#
+31-37 35 St
+31-38 35 St
+31-39 35 St
+31-40 35 St
+31-41 35 St
+31-42 35 St
+31-44 35 St
+31-45 35 St
+31-46 35 St
+31-47 35 St#
+31-48 35 St
+31-49 35 St#
+31-50 35 St
+31-51 35 St
+31-52 35 St#
+31-53 35 St
+31-55 35 St#
+31-56 35 St#
+31-57 35 St#
+31-58 35 St
+31-60 35 St
+31-61 35 St
+31-62 35 St
+31-63 35 St#
+31-66 35 St#
+31-68 35 St#
+31-69 35 St
+31-70 35 St
+31-71 35 St#
+31-72 35 St#
+31-73 35 St#
+31-74 35 St
+31-76 35 St#
+31-77 35 St#
+31-78 35 St#
+31-79 35 St#
+32-10 35 St
+32-15 35 St#
+32-21 35 St
+32-23 35 St#
+32-57 35 St#
+32-66 35 St#
+32-67 35 St
+32-78 35 St#
+32-86 35 St#
+35-10 35 St#
+35-20 35 St#
+35-48 35 St#
+
+Queens
+
+36-52 35 St#
+36-54 35 St#
+31-11 36 St
+31-12 36 St
+31-14 36 St#
+31-15 36 St
+31-17 36 St
+31-18 36 St#
+31-32 36 St#
+31-34 36 St
+31-38 36 St
+31-40 36 St
+31-42 36 St#
+31-44 36 St
+31-48 36 St#
+31-49 36 St#
+31-50 36 St#
+31-52 36 St
+31-56 36 St#
+31-58 36 St#
+31-60 36 St
+31-62 36 St#
+31-64 36 St#
+31-66 36 St
+31-70 36 St
+31-72 36 St#
+31-76 36 St#
+31-77 36 St#
+31-78 36 St#
+31-80 36 St
+31-82 36 St
+32-57 36 St#
+32-78 36 St
+32-17 37 St#
+32-21 37 St#
+34-27 37 St#
+32-22 41 St
+32-11 48 St
+
+Linden Hill,11354
+
+148-07 Bayside Ave#
+148-11 Bayside Ave
+148-15 Bayside Ave
+148-17 Bayside Ave
+148-21 Bayside Ave
+148-25 Bayside Ave
+148-27 Bayside Ave#
+148-31 Bayside Ave
+148-35 Bayside Ave
+
+138-09 BoothMemorial Ave
+
+36-1 1 Bowne St#
+
+36-19 Bowne St#
+
+36-20 Bowne St#
+
+36-40 Bowne St#
+
+37-04 Bowne St#
+
+37-08 Bowne St#
+
+37-18 Bowne St#
+
+37-22 Bowne St
+
+38-15 Bowne St
+
+40-04 Bowne St#
+
+25-60 College Point Blvd
+37-33 College Point Blvd#
+31-1 1 Farrington St#
+138-12 Jewell Ave
+
+32-01 Leavitt St
+
+11
+
+32-03 Leavitt St
+
+31-41 Linden Place
+31-43 Linden Place
+31-45 Linden Place
+31-47 Linden Place
+
+31 -49 Linden Place
+33-39 Murray St#
+141-05 Northern Blvd*
+141-25 Northern Blvd*#
+147-03 Northern Blvd#
+147-15 Northern Blvd#
+147-25 Northern Blvd
+148-09 Northern Blvd#
+149-09 Northern Blvd
+149-45 Northern Blvd
+30-11 Parsons Blvd*
+33-24 Parsons Blvd
+33-38 Parsons Blvd*#
+34-01 Parsons Blvd#
+34-15 Parsons Blvd
+34-20 Parsons Blvd*
+35-05 Parsons B1vd*#
+36-20 Parsons Blvd*#
+36-25 Parsons Blvd
+37-04 Parsons Blvd
+37-14 Parsons Blvd
+37-15 Parsons Blvd
+38-25 Parsons Blvd*
+40-12 Parsons Blvd#
+33-51 Prince St#
+136-70 Roosevelt Ave
+136-70/72 Roosevelt Ave
+142-05 Roosevelt Ave"‘
+142-10 Roosevelt Ave
+143-08 Roosevelt Ave
+143-30 Roosevelt Ave*
+143-40 Roosevelt Ave*
+143-51 Roosevelt Ave*
+143-56 Roosevelt Ave#
+144-10 Roosevelt Ave
+144-25 Roosevelt Ave
+144-30 Roosevelt Ave*
+144-35 Roosevelt Ave#
+144-40 Roosevelt Ave
+144-41 Roosevelt Ave#
+144-47 Roosevelt Ave#
+144-53 Roosevelt Ave#
+147-1 1 Roosevelt Ave*#
+147-1 la Roosevelt Ave
+147- 1 1 c Roosevelt Ave
+147-1 1e Roosevelt Ave
+147 -1 1 f Roosevelt Ave
+147-15 Roosevelt Ave‘
+147-19 Roosevelt Ave*#
+147-37 Roosevelt Ave*
+147-44 Roosevelt Ave
+149-20 Roosevelt Ave
+33-18 Union St
+
+150-04 26 Ave
+
+150-04 26 Ave
+
+150-12 26 Ave
+
+119-58 27 Ave
+
+119-59 27 Ave
+
+148-05 29 Ave#
+148-06 29 Ave
+
+148-1 1 29 Ave#
+
+148-1 2 29 Ave
+
+148- 14 29 Ave#
+
+148-15 29 Ave
+148-18 29 Ave
+148-20 29 Ave
+148-21 29 Ave#
+148-24 29 Ave
+148-25 29 Ave#
+148-26 29 Ave
+141-06 32 Ave
+140-09 33 Ave
+140-11 33 Ave
+140-15 33 Ave
+140-17 33 Ave
+140-19 33 Ave
+140-21 33 Ave
+140-25 33 Ave
+144-25 33 Ave#
+139-28 34 Ave
+140-16 34 Ave
+140-74 34 Ave
+144-22 34 Ave
+147-11 34 Ave
+151-09 34 Ave#
+151-19 34 Ave#
+134-04 35 Ave#
+136-24 35 Ave
+136-26 35 Ave
+139-39 35 Ave
+139-41 35 Ave
+139-50 35 Ave*
+139-55 35 Ave
+139-81 35 Ave
+144-16 35 Ave”’#
+144-27 35 Ave
+144-30 35 Ave#
+
+144-45 35 Ave# '
+
+144-50 35 Ave
+144-63 35 Ave*
+147-15 35 Ave
+148-06 35 Ave
+149-43 35 Ave*
+151-10 35 Ave#
+143-20 37 Ave#
+144-04 37 Ave#
+144-24 37 Ave
+191-37 37 Ave
+135-05 38 Ave
+142-24 38 Ave
+142-30 38 Ave
+142-32 38 Ave
+143-15 38 Ave#
+143-17 38 Ave#
+143-19 38 Ave#
+143-21 38 Ave
+143-23 38 Ave#
+143-25 38 Ave#
+143-30 38 Ave
+143-37 38 Ave
+144-14 38 Ave
+144-20 38 Ave
+144-40 38 Ave*
+144-44 38 Ave*
+144-46 38 Ave*
+144-47 38 Ave
+144-49 38 Ave
+144-50 38 Ave*
+144-51 38 Ave
+144-53 38 Ave
+147-06 38 Ave*#
+
+147-18 38 Ave*#
+147-30 38 Ave
+147-43 38 Ave*
+150-15 41 Ave
+40-09 149 Place
+34-25 150 Place*
+122-02 25 Rd
+139-06 34 Rd#
+139-09 34 Rd#
+139-12 34 Rd#
+139-18 34 Rd#
+139-19 34 Rd#
+139-29 34 Rd#
+35-15 146 St#
+35-17 146 St#
+35-07 147 St#
+35-19 147 St#
+37-07 147 St
+38-11 147 St*
+38-1321 147 St#
+38-15 147 St*
+38-17 147 St*
+38-19 147 St*
+38-21 147 St#
+38-21 147 St*
+38-23 147 St*
+29-03 148 St
+29-03 148 St#
+29-05 148 St
+29-11 148 St
+29-15 148 St#
+29-17 148 St
+29-21 148 St#
+29-23 148 St
+29-02 149 St
+29-04 149 St
+29-06 149 St
+29-08 149 St
+29-09 149 St
+29-10 149 St
+29-12 149 St
+29-14 149 St#
+29-16 149 St
+35-21 149 St#
+37-31 149 St*
+25-47 150 St
+35-10 150 St*
+40-01 150 St
+25-28 153 St#
+34-02 153 St#
+35-28/30 153 St#
+35-15 155 St#
+39-08 155 St#
+46-13 161 St
+
+Flushing (Main
+P.O.),l1355
+
+140-11 Ash Ave#
+140-18 Ash Ave#
+140-25 Ash Ave#
+140-30 Ash Ave#
+140-50 Ash Ave#
+140-59 Ash Ave
+
+140-70 Ash Ave#
+140-71 Ash Ave#
+
+147 18 Ash Ave
+
+133 16 Avery Ave
+142-09 Barclay Ave
+142-19 Barclay Ave
+142-27 Barclay Ave
+143-06 Barclay Ave
+143-09 Barclay Ave
+143-36 Barclay Ave*
+144-03 Barclay Ave#
+144-26 Barclay Ave
+147-18 Barclay Ave
+147-20 Barclay Ave
+149-07 Barclay Ave
+149-09 Barclay Ave
+149-11 Barclay Ave
+149-13 Barclay Ave
+149-15 Barclay Ave
+140-19 Beech Ave#
+140-30 Beech Ave#
+140-35 Beech Ave*
+140-40 Beech Ave#
+140-60 Beech Ave
+140-65 Beech Ave*
+134-33 Blossom Ave
+134-39 Blossom Ave
+138-07 Booth Memorial
+41-07 Bowne St*
+
+41- 10 Bowne St
+41-60 Bowne St
+42-40 Bowne St*
+42-59 Bowne St
+42-60 Bowne St#
+43-17 Bowne St#
+43-65/73 Bowne St
+46-06 Bowne St#
+134-05 Cherry Ave
+134-09 Cherry Ave
+134-17 Cherry Ave
+134-21 Cherry Ave
+134-25 Cherry Ave
+134-29 Cherry Ave
+134-35 Cherry Ave
+134-41 Cherry Ave
+136-04 Cherry Ave
+143-04 Cherry Ave#
+143-06 Cherry Ave
+143-28 Cherry Ave#
+42-10 Colden St
+42-42 Colden St*
+42-49 Colden St
+42-55 Colden St*
+43-23 Colden St
+44-15 Colden St
+44-35 Colden St
+45-15 Colden St
+134-05 Dahlia Ave*
+134-11 Dahlia Ave*
+138-52 Elder Ave
+138-70 Elder Ave*
+41-34 Frame Place
+41-63 Frame Place#
+41-81 Frame Place#
+41-90 Frame Place
+134-14 Franklin Ave*#
+134-25 Franklin Ave*
+134-30 Franklin Ave*
+136-27 Franklin Ave#
+137-05 Franklin Ave*
+
+Queens
+
+137-10 Franklin Ave*
+138-15 Franklin Ave
+
+140-10 Franklin Ave#
+142-02 Franklin Ave#
+142-15 Franklin Ave*
+142-20 Franklin Ave
+
+142-41 Franklin Ave#
+137-75 Geranium Ave
+
+146-26 Hawthorne Ave
+
+140-15 Holly Ave*
+41 -25 Kissena Blvd*
+42-02 Kissena Blvd
+42-11 Kissena Blvd*#
+42-20 Kissena Blvd*#
+42-33 Kissena Blvd*#
+42-45 Kissena Blvd
+42-65 Kissena Blvd*
+43-32 Kissena Blvd
+43-43 Kissena Blvd
+43-44 Kissena Blvd
+43-55 Kissena Blvd*#
+43-70 Kissena Blvd
+45-10 Kissena Blvd
+42-60 Main St
+
+42-95 Main St*#
+132-09 Maple Ave#
+132-17 Maple Ave#
+132-24 Maple Ave#
+132-25 Maple Ave
+132-45 Maple Ave
+132-69 Maple Ave
+134-20 Maple Ave
+134-22 Maple Ave
+134-24 Maple Ave
+134-37 Maple Ave
+134-38 Maple Ave#
+134-54 Maple Ave*
+136-35 Maple Ave*
+136-42 Maple Ave
+
+41 -08 Parsons Blvd#
+41-1 1 Parsons Blvd#
+41-37 Parsons Blvd
+41 -40 Parsons Blvd
+41-42 Parsons Blvd#
+41-69 Parsons Blvd#
+42-1 1 Parsons Blvd
+45-35 Parsons Blvd#
+42-66 Phlox Place#
+132-47 Pople Ave
+132-49 Pople Ave
+132-51 Pople Ave
+43-68 Robinson St
+43-70 Robinson St
+43-72 Robinson St
+58- 15 Rodman St
+58-17 Rodman St#
+132-30 Sanford Ave#
+132-35 Sanford Ave
+132-40 Sanford Ave
+132-59 Sanford Ave
+132-61 Sanford Ave
+132-70 Sanford Ave#
+133-01 Sanford Ave#
+133- 17 Sanford Ave
+133-24 Sanford Ave#
+
+133-33 Sanford Ave*#
+136-05 Sanford Ave*#
+
+136-30 Sanford Ave*
+12
+
+140-20 Sanford Ave#
+140-30 Sanford Ave*#
+142-30 Sanford Ave
+143-07 Sanford Ave*#
+143-30 Sanford Ave
+143-33 Sanford Ave
+143-35 Sanford Ave
+143-45 Sanford Ave
+144-11 Sanford Ave*
+144-30 Sanford Ave*
+144-35 Sanford Ave*
+144-39 Sanford Ave*
+144-41 Sanford Ave*
+144-44 Sanford Ave*#
+144-54 Sanford Ave*
+144-80 Sanford Ave*#
+147-05 Sanford Ave
+147-25 Sanford Ave
+149-03 Sanford Ave*#
+149-07 Sanford Ave*#
+150-15 Sanford Ave#
+155-17 Sanford Ave*#
+157-11 Sanford Ave#
+42-04 Saul] St#
+
+42-91 Saull St
+
+45-21 Smart St
+
+45-28 Smart St#
+46-06 Smart St#
+
+41 -40 Union St*
+42-14 Union St*#
+42-30 Union St#
+42-37 Union St#
+42-52 Union St
+133-06 41 Ave
+136-39 41 Ave*#
+136-65 41 Ave
+136-67 41 Ave
+136-69 41 Ave
+136-71 41 Ave
+136-75 41 Ave
+136-81 41 Ave
+142-01 41 Ave
+142-12 41 Ave
+142-20 41 AVe*
+142-41 41 Ave
+143-05 41 Ave#
+143-16 41 Ave
+143-25 41 Ave
+143-40 41 Ave*
+143-43 41 Ave*
+143-48 41 Ave#
+143-55 41 Ave*
+144-15 41 Ave
+144-20 41 Ave#
+144-31 41 Ave
+144-44 41 Ave*
+144-45 41 Ave#
+144-62 41 Ave
+144-70 41 Ave*
+144-87 41 Ave
+144-90 41 Ave
+147-10 41 Ave
+156-10 43 Ave
+
+156-03 43 Ave#
+156-06 43 Ave#
+
+156- 12 43 Ave#
+137-20 45 Ave
+137-40 45 Ave*
+
+137-60 45 Ave
+137-77 45 Ave*
+147-15 45 Ave#
+157-02 45 Ave
+132-15 57 Ave
+132-17 57 Ave
+132-48 41 Rd
+133-16 41 Rd
+133-18 41 Rd
+133-33 41 Rd
+134-25 57 Rd
+134-32 57 Rd
+134-36 57 Rd
+134-38 57 Rd
+134-40 57 Rd
+136-06 58 Rd
+78-13 135 St
+56-64 136 St
+56-02 138 St
+56-08 138 St
+42-43 147 St#
+35-20 149 St
+42-33 155 St#
+42-37 155 St#
+42-41 155 St#
+42-45 155 St#
+43-65 156 St
+42-70 156 St#
+42-56 157 St
+42-62 157 St#
+59-23 157 St
+
+College Point,11356
+
+14-21 College Point Blvd
+
+23-27 College Point
+
+23-38 College Point Blvd
+
+125-03 11 Ave
+125-07 11 Ave
+120-15 15 Ave
+119-01 18 Ave
+119-05 18 Ave#
+120-1418 Ave
+120-16 18 Ave
+123-14 18 Ave
+123-15 18 Ave
+112-02 14 Rd#
+116-03 14 Rd
+116-19 14 Rd#
+118-18 14 Rd
+118-20 14 Rd
+10-33 115 St#
+10-35 115 St
+10-39 115 St
+10-41 115 St#
+10-45 115 St#
+10-47 115 St
+10-49 115 St#
+10-53 115 St
+10-55 115 St#
+10-57 115 St
+10-61 115 St
+12-37 117 St
+12-29 117 St#
+12-15 119 St
+15-17 119 St#
+

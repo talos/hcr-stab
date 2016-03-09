@@ -1,0 +1,410 @@
+95 Park Terrace E.*#
+98 Park Terrace E.*
+108 Park Terrace E.#
+31-41 Park Terrace W.#
+45 Park Terrace W.*#
+50 Park Terrace W.*#
+57 Park Terrace W.*#
+60 Park Terrace W.*#
+65 Park Terrace W.
+70 Park Terrace W.*#
+83 Park Terrace W.#
+100 Park Terrace W.*
+37-49 Payson Ave#
+55 Payson Ave#
+
+91 Payson Ave*#
+
+115 Payson Ave*#
+119 Payson Ave#
+
+139 Payson Ave#
+17-23 Post Ave
+
+33-39 Post Ave#
+71-73 Post Ave#
+74-78 Post Ave#
+
+1 Post Ave#
+
+9 Post Ave#
+
+22 Post Ave
+
+25 Post Ave#
+
+26 Post Ave
+
+30 Post Ave
+
+34 Post Ave
+
+38 Post Ave
+
+48 Post Ave
+
+61 Post Ave#
+
+63 Post Ave#
+
+65 Post Ave
+
+66 Post Ave#
+
+70 Post Ave#
+
+75 Post Ave#
+
+79 Post Ave
+
+83 Post Ave#
+
+87 Post Ave
+
+100 Post Ave#
+
+101 Post Ave
+
+103 Post Ave
+
+105 Post Ave
+
+107 Post Ave
+
+109 Post Ave
+
+1 10 Post Ave#
+
+115 Post Ave#
+
+121 Post Ave#
+
+123 Post Ave
+
+125 Post Ave
+
+127 Post Ave#
+
+128 Post Ave#
+
+130 Post Ave#
+
+1781 Riverside Drive#
+1793 Riverside Drive*#
+1795 Riverside Drive#
+1803 Riverside Drive*#
+1825 Riverside Drive#
+660 Saint Nicholas Ave#
+1-9 Seaman Ave#
+109-117 Seaman Ave*#
+11-19 Seaman Ave#
+2-12 Seaman Ave
+
+20 Seaman Ave#
+
+30 Seaman Ave
+
+34 Seaman Ave
+
+49 Seaman Ave#
+
+60 Seaman Ave#
+
+65 Seaman Ave#
+
+72 Seaman Ave#
+
+73 Seaman Ave#
+77 Seaman Ave#
+80 Seaman Ave#
+81 Seaman Ave#
+85 Seaman Ave#
+88 Seaman Ave#
+95 Seaman Ave
+
+97 Seaman Ave
+110 Seaman Ave#
+116 Seaman Ave#
+121 Seaman Ave#
+125 Seaman Ave#
+128 Seaman Ave
+132 Seaman Ave
+133 Seaman Ave#
+136 Seaman Ave
+140 Seaman Ave
+144 Seaman Ave
+145 Seaman Ave#
+153 Seaman Ave#
+165 Seaman Ave#
+222 Seaman Ave#
+229 Seaman Ave#
+230 Seaman Ave#
+235 Seaman Ave#
+245 Seaman Ave#
+251 Seaman Ave*#
+254 Seaman Ave#
+256 Seaman Ave#
+260 Seaman Ave#
+261 Seaman Ave#
+270 Seaman Ave*
+101 Sherman Ave#
+109 Sherman Ave
+112 Sherman Ave#
+113 Sherman Ave
+116 Sherman Ave#
+117 Shennan Ave
+120 Sherman Ave#
+121 Sherman Ave
+125 Sherman Ave
+126 Sherman Ave#
+128 Sherman Ave#
+129 Sherman Ave
+132 Sherman Ave*
+152 Sherman Ave#
+156 Shennan Ave
+160 Sherman Ave
+164 Sherman Ave#
+165 Sherman Ave
+168 Sherman Ave#
+172 Sherman Ave#
+189 Sherman Ave#
+201 Sherman Ave#
+204 Shennan Ave#
+210 Sherman Ave
+221 Shennan Ave#
+231 Sherman Ave#
+232 Sherman Ave#
+241 Sherman Ave
+248 Sherman Ave#
+252 Sherman Ave#
+272 Shennan Ave#
+278 Sherman Ave#
+
+10 Vemlilyea Ave#
+11 Vermilyea Ave#
+15 Vem1ilyea Ave#
+19 Vermilyea Ave#
+23 Vemiilyea Ave
+25 Vemiilyea St#
+
+New York
+
+33 Vermilyea Ave#
+37 Vermilyea Ave#
+53 Vemiilyea Ave#
+54 Vemrilyea Ave#
+57 Vermilyea Ave#
+61 Vermilyea Ave#
+64 Vermilyea Ave
+66 Vemiilyea Ave
+72-74 Vemrilyea Ave# 73
+Vermilyea Ave#
+
+76 Vemlilyea Ave#
+85 Vermilyea Ave
+98 Vermilyea Ave
+103 Vermilyea Ave#
+104 Vermilyea Ave
+106-116 Vermilyea Ave#
+107 Vermilyea Ave#
+115 Vemlilyea Ave#
+118-128 Vermilyea Ave#
+119 Vemiilyea Ave#
+121 Vermilyea Ave
+123 Vermilyea Ave#
+125 Vermilyea Ave
+127 Vermilyea Ave#
+140 Vemiilyea Ave#
+145 Vemxilyea Ave#
+149 Vemxilyea Ave#
+150 Vermilyea Ave#
+153 Vermilyea Ave#
+154 Vem1i1yea Ave#
+158-160 Vemiilyea Ave#
+159 Vemiilyea Ave#
+170 Vemiilyea Ave
+181 Vem1i1yea Ave#
+554 W. 150 St#
+
+612 W. 189 St
+
+428 W. 204 St
+
+432 W. 204 St
+
+436 W. 204 St
+
+518 W. 204 St#
+541-551 W. 204 St#
+570 W. 204 St#
+
+585 W. 204 St#
+
+590 W. 204 St#
+
+600 W. 204 St#
+
+601 W. 204 St#
+
+608 W. 204 St#
+
+610 W. 204 St#
+
+623 W. 204 St#
+
+639 W. 204 St#
+
+644 W. 204 St#
+
+650 W. 204 St#
+
+656 W. 204 St#
+
+677 W. 204 St
+
+680 W. 204 St*
+
+686 W. 204 St#
+
+687 W. 204 St*#
+403 W. 205 St#
+
+407 W. 205 St#
+
+410 W. 205 St
+
+420 W. 205 St
+
+424 W. 205 St
+
+425 W. 205 St
+
+430 W. 205 St
+
+420 W. 206 St*
+
+449 W. 206 St#
+
+595 W. 207 St#
+
+616 W. 207 St#"
+623 W. 207 St#
+
+624 W. 207 St*#
+631 W. 207 St#
+
+New York 46
+
+639 W. 207 St
+641 W. 207 St
+643 W. 207 St
+645 W. 207 St
+647 W. 207 St
+666 W. 207 St
+514 W. 211 St#
+526 W. 211 St#
+531 W. 211 St#
+541 W. 211 St#
+509 W. 212 St#
+517 W. 212 St#
+500 W. 213 St
+502 W. 213 St#
+506 W. 213 St#
+514 W. 213 St
+501 W. 214 St#
+585 W. 214 St*#
+500 W. 215 St
+565 W. 215 St#
+571 W. 215 St#
+579 W. 215 St*
+580 W. 215 St
+583 W. 215 St#
+510 W. 218 St
+520 W. 218 St#
+560 W. 218 St#
+600 W. 218 St#
+157 W. 228 St#
+3852 10 Ave#
+3856 10 Ave#
+
+Trib0rough,10035
+
+157 E. 118 St#
+166 E. 118St#
+170 E. 118St#
+209 E. 118 St
+215 E. 118 St
+
+217 E. 118 St
+219 E. 118 St
+234 E. 118 St
+236 E. 118 St
+351 E. 118 St
+411 E. 118 St
+504 E. 118 St
+50 E. 119 St
+78 E. 119 St#
+200 E. 119 St
+240 E. 119 St#
+306 E. 119 St#
+307 E. 119 St
+355 E. 119 St#
+406 E. 119 St
+414 E. 119 St
+417 E. 119 St#
+418 E. 119 St
+419 E. 119 St#
+420 E. 119 St#
+500 E. 119 St
+508 E. 119 St#
+524 E. 119 St
+239 E. 120 St#
+241 E. 120 St#
+243 E. 120 St#
+248 E. 120 St#
+342 E. 120 St
+346 E. 120 St#
+348 E. 120 St#
+432 E. 120 St
+215 E. 121St#
+237 E. 121St#
+172 E. 122 St#
+174 E. 122 St
+182 E. 122 St
+212 E. 122 St#
+216 E. 122 St*
+226 E. 122 St
+64 E. 123 St
+100 E. 123 St#
+241 E. 123 St
+243 E. 123 St#
+251 E. 123 St
+One E. 124 St
+5 E. 124 St
+
+9 E. 124 St
+11B. 124 St#
+13 E. 124 St
+23 E. 124 St#
+27 E. 124 St#
+100 E. 124 St
+102 E. 124 St
+134 E. 124 St
+154 E. 124 St
+156 E. 124 St
+207 E. 124 St#
+208 E. 124 St
+210 E. 124 St
+61 E. 125 St
+62 E. 125 St
+63 E. 125 St#
+79 E. 125 St
+13 E. 126 St
+14 E. 126 St
+15 E. 126 St#
+19 E. 126 St
+21 E. 126 St#
+22 E. 126 St
+40 E. 126 St
+51 E. 126 St
+
