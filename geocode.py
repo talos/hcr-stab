@@ -26,10 +26,11 @@ HEADERS = [
 #?houseNumber=993&street=carroll+st&borough=3
 
 
-def main(path):
+def main(print_header, path):
     borough = path.split(os.path.sep)[1]
     output = csv.DictWriter(sys.stdout, HEADERS)
-    output.writeheader()
+    if print_header:
+        output.writeheader()
     with open(path) as infile:
         for rownum, line in enumerate(infile):
             parts = line.split()
