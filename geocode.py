@@ -38,6 +38,8 @@ def main(print_header, path):
                 continue
             time.sleep(0.5)
             housenum = parts[0]
+            if housenum.lower() in ('bronx', 'kings', 'new', 'queens', 'richmond'):
+                continue
             street = ' '.join(parts[1:])
             last_chars = street[-2:]
             pound_code = False
