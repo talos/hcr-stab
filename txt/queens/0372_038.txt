@@ -1,55 +1,55 @@
 251-41 71 Ave
 251-42 71 Ave
-251-43 71 Ave‘
-251-44 71 Ave‘
-251-45 71 Ave‘
-252-01 72 Ave‘
-252-03 72 Ave‘
-252-05 72 Ave‘
-25207 72 Ave‘
-25209 72 Ave‘
-252-11 72 Ave‘
-252-15 72 Ave‘
-252-17 72 Ave‘
-252-19 72 Ave‘
-25221 72 Ave‘
+251-43 71 Ave*
+251-44 71 Ave*
+251-45 71 Ave*
+252-01 72 Ave*
+252-03 72 Ave*
+252-05 72 Ave*
+252-07 72 Ave*
+252-09 72 Ave*
+252-11 72 Ave*
+252-15 72 Ave*
+252-17 72 Ave*
+252-19 72 Ave*
+252-21 72 Ave*
 252-23 72 Ave
-252-25 72 Ave‘
-251-17 71 Ave‘
-152-19 71 Ave‘
-252-3] 72 Ave
-252-31 72 Ave‘
-251-33 72 Ave‘
+252-25 72 Ave*
+252-27 72 Ave*
+252-29 72 Ave*
+252-31 72 Ave
+252-31 72 Ave*
+252-33 72 Ave*
 245-32 73 Ave
 245-05 76 Ave
 245-07 76 Ave
-145-15 76 Ave‘
-245-17 76 Ave‘
-245-19 76 Ave‘
+245- 1 5 76 Ave*
+245-17 76 Ave*
+245-19 76 Ave*
 245-23 76 Ave
-145-24 76 Ave
-245-16 76 Ave
+245-24 76 Ave
+245-26 76 Ave
 245-27 76 Ave
 245-33 76 Ave
 245-34 76 Ave
 245-35 76 Ave
 245-36 76 Ave
 245-38 76 Ave
-245-39 76 Ave‘
+245-39 76 Ave*
 245-40 76 Ave
 245-44 76 Ave
-145-45 76 Ave
+245-45 76 Ave
 245-46 76 Ave
-145-48 76 Ave
+245-48 76 Ave
 245-49 76 Ave
 245-52 76 Ave
-247-01 76 Ave‘
+247-01 76 Ave*
 247-03 76 Ave
 247-09 76 Ave
-247-1 1 76 Ave
-247-13 76 Ave
-247-15 76 Ave
-247-19 76 Ave‘
+247-11 76 Ave
+247- 1 3 76 Ave
+247- 1 5 76 Ave
+247-19 76 Ave*
 247-25 76 Ave
 247-27 76 Ave
 247-31 76 Ave
@@ -58,502 +58,513 @@
 247-46 76 Ave
 247-49 76 Ave
 247-51 76 Ave
-24253 77 Cresoen!
-245-15 77 Cresoenl
-245-17 77 Ciucenl
-145-18 77 Ctesail
-245-11 77 Gestalt
-245-13 77 Oescall
-245-24 77 Crescent‘
-245-25 77 Clescalt
 
-145-2777ClescevII‘
-245-2877CIesomI
-145-31 77050511
-145-33 77CresnaII
-245-3477C|’meaIt
-245-35 77 Cresomt
-245-39 77 Crescent
-245-43 77 Crescent
+245-27 77 Crescent*
+245-28 77 Crescent
+245-31 77 Crescent
+245-33 77 Crescent
+245-34 77 Crescent
+245-35 77 Crescent
+245-39 77 Qescent
+245-48 77 Crescent
 245-54 77 Crescent
-245-62 77 Cxescenl
-245-66 77 C‘xesoe1II
-247411 77 Cxescenl
-24703 77 Czescent‘
-147-05 77 Caescem‘
-147-09 77 Crescent‘
-147-11 77GescenI
-247-1377ClesceI|I‘
-147-1577ClescenI
-247-1777CrescenI
-247-21 77CrescenI
-247-35 77Q'escenI
-247-4077(}escenI
-247-41 77CIcsceI1I
-247-5077 Crescent
+245-62 77 Crescent
+245-66 77 Crescent
+247-01 77 Crescent
+247-03 77 Crescent*
+247-05 77 Crescent*
+247-09 77 Crescent*
+247-11 77 Crescent
+247-13 77 Crescent*
+247-15 77 Crescent
+247-17 77 Crescent
+247-21 77 Crescent
+247-35 77 Crescent
+247-40 77 Crescent
+247-41 77 Crescent
+247-50 77 Crescent
 247-57 77 Crescent
-247-6477 Crescent
+247-64 77 Crescent
 247-74 77 Crescent
-251-01 71 Rd‘
-251-02 71 Rd‘
-251-03 71 Rd‘
-251-04 71 Rd‘
-251-05 71 Rd‘
-251-06 71 Rd‘
+251-01 71 Rd*
+251-02 71 Rd*
+251-03 71 Rd*
+251-04 71 Rd*
+251-05 71 Rd*
+251-06 71 Rd*
 251-07 71 Rd
-251-08 71 Rd‘
-251-09 71 Rd‘
-251-10 71 Rd‘
-251-11 71 Rd
+251-08 71 Rd*
+251-09 71 Rd*
+251-10 71 Rd*
+251-1 1 71 Rd
 251-12 71 Rd
-251-1471 Rd‘
-251-15 71 Rd‘
-251-16 71 Rd‘
-251-17 71 Rd‘
-251-1871 Rd‘
-251-19 71 Rd‘
-251-20 71 Rd‘
-251-21 71 Rd‘
-251-22 71 Rd‘
-251-23 71 Rd‘
-251-24 71 Rd‘
-251-25 71 Rd‘
-151-26 71 Rm
-251-27 71 Rd‘
-151-15 71 Rd‘
-151-29 71 Rd‘
-151-30 71 Rd
-25]-31 71 Rd
-251-3171 Rd‘
-251-33 71 Rd‘
-251-35 71 Rd‘
-151-36 71 Rd
-251-37 71 Rd‘
-151-38 71 Rd‘
-151-39 71 Rd‘
-151-40 71 Rd‘
-151-41 71 Rd‘
-151-43 71 Rd‘
-251-45 71 Rd‘
+251-1 4 71 Rd*
+251-15 71 Rd*
+251-16 71 Rd*
+
+25 1-17 71 Rd*
+251-18 71 Rd*
+251-19 71 Rd*
+251-20 71 Rd*
+251-21 71 Rd*
+251-22 71 Rd*
+251-23 71 Rd*
+251-24 71 Rd*
+251-25 71 Rd*
+251-26 71 Rd*
+251-27 71 Rd*
+251-28 71 Rd*
+251-29 71 Rd*
+251-30 71 Rd
+
+251 -31 71 Rd
+251-32 71 Rd*
+251-33 71 Rd*
+251-35 71 Rd*
+
+242-53 77 Crescent
+245-15 77 Crescent
+245-17 77 Crescent
+245-18 77 Cresent
+245-21 77 Crescent
+245-23 77 Crescent
+245-24 77 Crescent‘
+245-25 77 Crescent
+
+251-36 71 Rd
+251-37 71 Rd*
+251-38 71 Rd*
+251-39 71 Rd*
+251-40 71 Rd*
+251-41 71 Rd*
+251-43 71 Rd*
+251-45 71 Rd*
 
 Queens
 
-251-47 71 Rd‘
-251-49 71 Rd‘
-251-51 71 Rd‘
-251-53 71 Rd‘
-251-55 71 Rd‘
-251-57 71 Rd‘
-251-59 71 Rd‘
-251-61 71 Rd‘
-251-26 71 SI‘
-245-29 76 SI
-247-21 76 SI
-247-43 76 SI
-77-00 247 S1‘
-77-16 247 S1‘
-75-02 249 S1
+251-47 71 Rd*
+251-49 71 Rd*
+251-51 71 Rd*
+251-53 71 Rd*
+251-55 71 Rd*
+251-57 71 Rd*
+251-59 71 Rd*
+251-61 71 Rd*
+251-26 71 St*
+245-29 76 St
+247-21 76 St
+247-43 76 St
+77-08 247 St*
+77-16 247 St*
+75-02 249 St
 75-04 249 St
 75-08 249 St
 75-16 249 St
-75-18 249 St‘
+75-18 249 St*
 75-22 249 St
 75-24 249 St
 76-08 249 St
 76-16 249 St
-7001 252 St‘
-7002 252 St‘
-70-03 252 St‘
-70-04 252 St‘
-70-05 152 SI‘
-70-06 252 31*
-70-07 252 SI‘
-70-03 252 SI‘
-71-01 252 SI‘
-71 -02 252 SI‘
-71-03 252 SI‘
-71-04 252 SI‘
-71-05 252 SI‘
-71-06 252 SI‘
-71-477 252 S1‘
-71-05 251 St
-71-08 151 5!‘
-71-09 151 S!‘
-71-10 252 st‘
-71-11 152 5:‘
-71-12 252 St‘
-71-14 252 St‘
-71-15 252 S1‘
-71-16 252 st‘
-71-17 252 SI‘
-71-11 252 SI‘
-71-19 252 SI‘
-71-20 152 SI‘
-71-21 152 SI‘
-71-21 252 SI‘
-71-23 252 SI‘
-71-14 251 SI
-71-25 251 SI‘
-71-27 251 SI‘
-71-29 152 S!‘
-71-31 252 S!‘
-71-33 252 S!‘
-71-35 252 S!‘
-71-37 252 S!‘
-71 -39 252 S1‘
-71-40 251 S1‘
-71-41 251 51.’
-71-42 251 S1‘
-71-43 251 SI‘
-71-44 151 S1‘
+70-01 252 St*
+70-02 252 St*
+70-03 252 St*
+70-04 252 St*
+70-05 252 St*
+70-06 252 St*
+70-07 252 St*
+70-08 252 St*
+71-01 252 St*
+71-02 252 St*
+71-03 252 St*
+71-04 252 St*
+71-05 252 St*
+71-06 252 St*
+71-07 252 St"'
+71-08 252 St
+71-08 252 St*
+71-09 252 St*
+71-10 252 St*
+71-11 252 St*
+71-12 252 St*
+71-14 252 St*
+71-15 252 St"‘
+71-16 252 St"‘
+71-17 252 St*
+71-18 252 St*
+71-19 252 St*
+71-20 252 St*
+71-21 252 St*
+71-22 252 St‘
+71-23 252 St*
+71-24 252 St
+71-25 252 St*
+71-27 252 St*
+71-29 252 St*
+71-31 252 St*
+71-33 252 St*
+71-35 252 St*
+71-37 252 St*
+71-39 252 St*
+71-40 252 St*
+71-41 252 St*
+71-42 252 St*
+71-43 252 St*
+71-44 252 St*
+
 38
 
-71-45 252 SI‘
-71-46 252 SI
+71-45 252 St*
+71-46 252 St
 
-71-48 251 SI‘
-71-50 251 SI‘
-71-51 251 SI’
-71-52 252 St‘
-7153 252 St‘
-71-54 252 St‘
-71-55 252 St‘
-71-56 252 St‘
-71-57 252 St‘
-71-58 252 St‘
-71-59 252 St‘
-71-60 252 St‘
-71-61 252 St‘
-71-62 252 St‘
-71-64 252 51*
-7166 252 51*
-7158 252 51*
-71-70 252 S1
+71-48 252 St*
+71-50 252 St*
+71-51 252 St*
+71-52 252 St*
+71-53 252 St*
+71-54 252 St*
+71-55 252 St*
+71-56 252 St*
+71-57 252 St*
+71-58 252 St*
+71-59 252 St*
+71-60 252 St*
+71-61 252 St*
+71-62 252 St*
+71-64 252 St*
+71-66 252 St*
+71-68 252 St*
+71-70 252 St
 
-Queens Vil1age,1 1427
+Queens Vi1lage,11427
 
-208-26 GrandCe1mal Pkwy
-208-30 GrAndCemr.Il Pkwy
-208-70 GI'andCemnl Pkwy
-208-76 GI'andCenIn.l Pkwy
-208-84 GmndCenIn.l Pkwy
-108-90 GmIIdCemrIl Pkwy
-110-10 GIaIIdCenIrx1 Pkwy
-110-34 GIaIIdCenIr.Il Pkwy
-110-40 GInIIdCenIrnl Pkwy
-109 Hillside Ave
+208-26 GrandCentra1 Pkwy
+208-30 GrandCentral Pkwy
+208-70 GrandCentra1 Pkwy
+208-76 Gra.ndCentral Pkwy
+208-84 GrandCentral Pkwy
+208-90 GrandCentral Pkwy
+210-10 GrandCentral Pkwy
+210-34 GrandCentral Pkwy
+210-40 GrandCentral Pkwy
+209 Hillside Ave
 
-110 Hillside Ave
+210 Hillside Ave
 
-110-20 Hillside Ave
-111-D93 Hillside Ave
-211-29 Hillside Ave
-211-45 Hillside Ave
-211-47 Hiflside Ave
-211-49 Hillside Ave
+210-20 Hillside Ave
+211-09a Hillside Ave
+212-29 Hillside Ave
 
-211-51 Hillside Ave
+212-45 Hillside Ave
+212-47 Hillside Ave
+212-49 Hillside Ave
+
+212-51 Hillside Ave
+
 213-01 Hillside Ave
+
 213-03 Hillside Ave
+
 213-05 Hillside Ave
-213-(77 Hillside Ave
+213-07 Hillside Ave
+
 213-09 Hillside Ave
 
 213-11 Hillside Ave
 213-15 Hillside Ave
 213-17 Hillside Ave
+
 213-19 Hillside Ave
 
-113-21 Hillside Ave
+213-21 Hillside Ave
 
-114-21 Hillside Ave‘
-214-35 Hillside Ave‘
+214-21 Hillside Ave*
+214-35 Hillside Ave*
 215-11 Hillside Ave
 215-29 Hillside Ave
 
-115-31 Hillside Ave
+215-31 Hillside Ave
 
-115-31 Hillside Ave
-115-33 Hillside Ave
-115-35 Hillside Ave
+215-31 Hillside Ave
+215-33 Hillside Ave
+215-35 Hillside Ave
+
 215-37 Hillside Ave
+
 215-39 Hillside Ave
+
 215-41 Hillside Ave
+
 216-05 Hillside Ave
 
 216-11 Hillside Ave
-216-19 Hil1IideAve
-116-19 Hillside Ave
+216-19 Hillside Ave
+
+216-19 Hillside Ave
 
 216-21 Hillside Ave
-21o-23 Hillside Ave
-217.03 Hillside Ave‘
-217-0311 Hillside Ave‘
-217453 Hillside Ave
-217.1773 Hillside Ave‘
-217.093 Hillside Ave‘
-217.11 1-Bum», Ave‘
-217-11: Hillside Ave‘
-217-15: Hillside Ave‘
-217-17: Hillside Ave‘
-217-19: Hillside Ave‘
+216-23 Hillside Ave
+217-03 Hillside Ave*
+217-0321 Hillside Ave*
+217-05a Hillside Ave
+217-07a Hillside Ave*
+217-09a Hillside Ave*
+217-11 Hillside Ave*
+217-11a Hillside Ave*
+217-15a Hillside Ave*
+217-17a Hillside Ave*
+217-19a Hillside Ave*
 218-05 Hillside Ave
-21341 Hillside Ave
-213-33 Hillside Ave
-213.37 Hillside Ave
-3356 Range s:
-213.10 Spencer Ave
-213.14 spam Ave
-213.32 Spencer Ave
-21s.3o Spenca Ave
-was Spnngﬁeld Blvd‘
-B7-léwimliesia Blvd
-20210 so Drive
-209.15 3o Drive
-209-so so Drive
-209.31 so Drive
-209.35 so Drive
-37.51 215 Plme
-37-53 215 Pine
-37-04 213 Place
-ems 213 Place
-3703 213 mo:
-37-09 213 Place
-20310 so Rd
+218-11 Hillside Ave
+218-33 Hillside Ave
+218-37 Hillside Ave
+86-56 Range St
+218-10 Spencer Ave
+218-14 Spencer Ave
+218-32 Spencer Ave
+218-36 Spencer Ave
+80-35 Springﬁeld Blvd*
+87-16 Winchester Blvd
+209-10 86 Drive
+209-16 86 Drive
+209-30 86 Drive
+209-31 86 Drive
+209-35 86 Drive
+87-51 215 Place
+87-53 215 Place
+87-04 218 Place
+87-05 218 Place
+87-08 218 Place
+87-09 218 Place
+206-10 86 Rd
 
-20315 3o Rd
+206-15 86 Rd
 
-zoo-1o so Rd
+206-16 86 Rd
 
-209-10 so S1
+209-10 86 St
 
-36-02 203 s:
+86-02 208 St
 
-3o.o9 203 su
+86-09 208 St
 
-33.15 203 s:
+86-15 208 St
 
-33.20 203 s:
+86-20 208 St
 
-33.23 203 St
+86-26 208 St
 
-was 203 s:
+86-39 208 St
 
-33.50 203 s:
+86-50 208 St
 
-ao.o1 203 St
+86-61 208 St
 
-3o.o4 205 s:
+86-64 208 St
 
-3o.os 203 s:
+86-65 208 St
 
-86-72 203 S!
+86-72 208 St
 
-3334 203 s:
+86-84 208 St
 
-so.91 203 s:
+86-91 208 St
 
-so.92 203 s:
+86-92 208 St
 
-35.95 203 s:
+86-95 208 St
 
-37.14 214 5:
+87-14 214 St
 
-37.15 214 sv
+87-15 214 St*
 
-37.1o 214 51
+87-16 214 St
 
-37-62 21o S1
+87-62 216 St
 
-s7.o4 21o s:
+87-64 216 St
 
-137.23. 217 so
-3725. 217 st-
+87-233 217 St*
+87-25a 217 St*
 
-37417 213 st
-
-37.11 212 s:
-
-37.24. 213 sv
-s7.2o. 213 sv
-
-smo 219 S1
-
+87-07 218 St
+87-11 218 St
+87-2421 218 St*
+87-26a 218 St*
+87-06 219 St
 87-10 219 St
 
- 
+Queens Vil1age,11428 183'11Hi“Side Ave
 
-Queens Vil1age,11428
-
-211-89 Braddock Ave‘
-90-11 Berke] Place
-9015 Berke! Place
-9019 Borkel Place
-9021 BoIke1P1we
-90-15 Borke1Place
-
-11 L47 Jamaica Ave
-124-10 Jarllalcla Ave
-90- 10 Winchesiel Blvd
-90-20 Wmchesiel Blvd
-90-24 Winchestel Blvd
-90-24 Wrnvchestel Blvd
+222-89 Braddock Ave*
+90-1 1 Borkel Place
+90-15 Borkel Place
+90-19 Borkel Place
+90-21 Borkel Place
+90-25 Borkel Place
+212-47 Jamaica Ave
+224-10 Jamaica Ave
+90-10 Winchester Blvd
+90-20 Winchester Blvd
+90-24 Winchester Blvd
+90-24 Winchester Blvd
 221-29 90 Ave
 
-211-35 90 Ave
+221-35 90 Ave
 
 221-37 90 Ave
 
-211-39 90 Ave
+221-39 90 Ave
 
-121-41 90 Ave
+221-41 90 Ave
 
 221-56 90 Ave
 
 214-35 93 Ave
+
 219-46 93 Ave#
 212-42 94 Ave
 
-87-15 209 SI.
+87-15 209 St
 
 89-39 221 Place
 
 89-43 221 Place
-94-40 210 S111‘
+94-40 210 St#
 
-93-23 218 S1
+93-23 218 St
 
-93-41 122 SM
+93-41 222 St#
 
-94-03 222 S111
+94-03 222 St#
 
 94-25 222 St
 
-Queens VilIage,11429
+Queens Vil1age,11429
 
-221.15 1*1em'psIe|dAve11
-213.39 93 Ave
-212-03102Ave#
-loo.l5 217 5:
+221-15 Hempstead Ave#
+218-89 98 Ave
 
-95.20 222 3:
+212-03 102 Ave#
+106-15 217 St
 
-Jamaica (Main P.0.),
+95-20 222 St
+
+Jamaica (Main P.O.),
+
 11432
 
-3o. 1 5 Av. Place
+86-15 Ava Place
 
-37.4o Chelsea 31*
-174310 Cedarcmﬁ Rd
-17049 Cedarcroﬁ Rdll
-175.39 Dliny Rdlt
-175.51 Dllny Rd
-l75.oo Devonshire Rd‘#
-170.40 Henley Rd
-165-20 l-liglilmd Avew
-152.15 1-liylland Ave
-164-20 1-Liglllnmi Ave‘
-166-05 Higlllalld Ave
-17325 1-lig-lland Aver:
-172.70 1-llglllmd Ave‘
-172.90 1-Iiysland Avolr
-170-40 Hlghland Ave‘#
+87-46 Chelsea St*
+170-10 Cedarcroft Rd
+170-49 Cedarcroft Rd#
+175.39 Dalny Rd#
+175-51 Dalny Rd
+175-06 Devonshire Rd*#
+170-40 Henley Rd
+165-20 Highland Ave*#
+162-15 Highland Ave
+164-20 Highland Ave*
+166-05 Highland Ave
+170-25 Highland Ave#
+172-70 Highland Ave*
+172-90 Highland Ave#
+170-40 Highland Ave*#
 164-30 Hillside Ave
-133.29 Hillside Ave
-137.35 Hillside Ave
+168-29 Hillside Ave
+187-35 Hillside Ave
 168-31 Hillside Ave
-173.35 Hillside Ave
+178-36 Hillside Ave
 
-133.11 Hillside Ave
-135.01 Hillside Ave
-37.14 Holnelawn S1
-172.07 Jamaica Avon
-37.50 Kingswn Place
-35.75 Midland Pkwy
-37.01 Midland Pkwy‘
-37.24 Midland Pkwy
-33.05 Merrick Blvd
-33.24 Memck Blvd
-159.22 Normal Rd
-3415 Parsons 3lvd
-37.32/34 Persons Blvd
-33oo Persons Blvdli
-33.22 Person: 13)vdII
-39.15 Parsons Blvd‘
-175.05 Wexford Tendon
-175.20 Wexfrxd Term:
-175.27 Wexforld Tonaoex
-173.10 Wexfcrd Terrace
-17350 Wexford Terrace
-132.25 Wexford Terrace‘
-132.30 Wexfoxd Terrace
-151.10 34 Drive#
-lo4.lo 34 Ave
+185-01 Hillside Ave
+87-14 Homelawn St
+172-07 Jamaica Ave#
+87-50 Kingston Place
+86-75 Midland Pkwy
+87-01 Midland Pkwy*
+87-24 Midland Pkwy
+88-05 Merrick Blvd
+88-24 Merrick Blvd
+159-22 Normal Rd
+80-25 Parsons Blvd
+87-82/84 Parsons Blvd
+88-06 Parsons Blvd#
+88-22 Parsons Blvd#
+89-15 Parsons Blvd*
+175-05 Wexford Terrace#
+175-20 Wexford Terrace
+175-27 Wexford Terrace#
+178-10 Wexford Terrace
+178-60 Wexford Terrace
+182-25 Wexford Terrace*
+182-30 Wexford Terrace
+151-10 84 Drive#
+164-10 84 Ave
 
-161-65 3o Ave
+161-65 86 Ave
 
-161-71 so Ave
+161-71 86 Ave
 
-162-30 3o Ave
+162-30 86 Ave
 
-164-19 so Rd
+164-19 86 Rd
 
-15075 37 Aver
+150-75 87 Ave#
 
-15002 33 Ave#
+150-02 88 Ave#
 
-15003 33 Ave
+150-03 88 Ave
 
-150.05 33 Ave
+150-05 88 Ave
 
-150.11 33 Ave
+150-11 88 Ave
 
-loo.o5 33 Aveii
+166-05 88 Ave#
 
-168-36 33 Ave
+168-36 88 Ave
 
-168-42 33 Ave
+168-42 88 Ave
 
-169-04 33 Ave
+169-04 88 Ave
 
-mmo 33 Ave‘
+170-06 88 Ave*
 
-175.21 33 Ave
+175-21 88 Ave
 
-17545 33 Ave‘
+175-45 88 Ave*
 
-153.15 39 Aveif
+153- 15 89 Ave#
 
-155.01 90 Ave‘8
-160-10 39 Ave‘
+155-01 90 Ave*#
+160-10 89 Ave*
 
-161-01 39 Ave
+161-01 89 Ave
 
-162-05 39 Ave»
+162-05 89 Ave#
 
-162-11 39 Ave
+162-11 89 Ave
 
-132.20 39 Ave
+162-20 89 Ave
 
 163-03 89 Ave#
 
-163-24 89 Aveﬁ
+163-24 89 Ave#
 
 164-03 89 Ave
 
 166-05 89 Ave
 
-166-5 89 Ave
+166-25 89 Ave
 
 166-33 89 Ave
 
 166-40 89 Ave
 
-168-07 89 Ave!
+168-07 89 Ave#
 
 169-15 89 Ave
 
-no 39 so
+170 89 St*
 
 172-20 90 Ave#
 
@@ -561,503 +572,519 @@ no 39 so
 
 169-12 90 Ave
 
-234-04 131 Ave‘
+234-04 131 Ave*
 
-39.11 153 5:9
+89-11 153 St#
 
-39.21 153 5:»
+89-21 153 St#
 
-9o.o5 153 51
+90-05 153 St
 
-33.14 161 5:
+88-14 161 St
 
-33.44 161 sue
+88-44 161 St#
 
-39.20 161 sue
+89-20 161 St#
 
 Queens
 
-86-25 162 S131
-88-23 162 St“
+86-25 162 St#
+88-23 162 St#
 88-35 162 St
 89-29 163 St
 86-47 164 St
 87-31 164 St
-88-35 164 SI.
-89-24 164 SI.
-89-30 164 S1.
-89-34 164 S111‘
-89-38 164 S111‘
-85-44 165 S1
-87-15 165 S1‘
-87-40 165 S1
-87-84 165 S141
-87-05 166 S1‘
+88-35 164 St
+89-24 164 St
+89-30 164 St
+89-34 164 St#
+89-38 164 St#
+85-44 165 St
+87-15 165 St*
+87-40 165 St
+87-84 165 St#
+87-05 166 St*
 87-50 167 St
-84.49 1o3 SW!
-33-15 168 SI
-34.50 169 S1‘
-84-64 169 51
-84-66 [69 SI
-84-68 169 SI
-87-27 169 SI‘#
-87-77 169 S111’
-89-177 169 S111’
-89-21 169 S14’
-90-03 169 SI
-90-07 169 SI
-90-09 169 SI
-90-20 169 SI41
-89-09 170 S!
+84-49 168 St*#
+88-15 168 St
+84-50 169 St*
+84-64 169 St
+84-66 169 St
+84-68 169 St
+87-27 169 St*#
+87-77 169 St#
+89-07 169 St#
+89-21 169 St#
+90-03 169 St
+90-07 169 St
+90-09 169 St
+90-20 169 St#
+89-09 170 St
 89-11 170 St
 89-15 170 St
 89-17 170 St
 89-19 170 St
-90-38 170 519
-87-87 171 S1.
-88-05 171 S1.
-89-19 171 S1.
-90-16 171 S111‘
-90-23 171 S1
-90-34 171 S1
-88-22 172 S1
-91-17 172 SI
-87-70 173 St‘
+90-38 170 St#
+87-87 171 St
+88-05 171 St
+89-19 171 St
+90-16 171 St#
+90-23 171 St
+90-34 171 St
+88-22 172 St
+91-17 172 St
+87-70 173 St*
 88-40 173 St
-92-06 173 5!
-87-20 175 SI.‘
-88-10 178 SI.
-88-15 179 S111‘
-88-23 179 S14‘
-88-50 179 SI‘
-90-60 179 Plneeﬁ
-90-75 179 SI
+92-06 173 St
+87-20 175 St*
+88-10 178 St
+88-15 179 St#
+88-23 179 St#
+88-50 179 St*
+90-60 179 Place#
+90-75 179 St
 
-Jamaica (Main 1’.0.)
-,11433
+Jamaica (Main P.O.)
+,1 1433
 
 109-15 Merrick Blvd
 109-25 Merrick Blvd
 107-13 New York Blvd
 109-06 New York Blvd
-107-31 Wavscn Place
+107-31 Watson Place
 163-19 107 Ave
-162-24 109 Avel
+162-24 109 Ave#
 
 39
 
-106-19 177 S1
+106-19 177 St
 
-Jamaica (Main P.0.)
-,11434
+Jamaica (Main P.O.)
+,11434 ‘
 
-151-20 Bnisley Blvd
-123-27 Merrick Blvd‘
-155-15 Nanl-l Conduit Ave
-15601 Nanl-l Conduit Ave
-116-26 169 SI
+151-20 Baisley Blvd
+123-27 Merrick Blvd*
+155-15 North Conduit Ave
+156-01 North Conduit Ave
+116-26 169 St
 
-116-27 169 SI
+116-27 169 St
 
-114.05 170 S!
+114-05 170 St
 
-116-30 I70 SI
+116-30 170 St
 
 Anchor Ave
-SIaI1on,11435
+Station,11435
 
-97.34 Allendale 513
-145.34 Arlingvon Tcrrwe
-14013 Burden Clewenl‘
-140.21 H|Il’dc‘lI Crescenl
-140.35 Eﬂrdell modem
-14050 Burden oievseiilv
-14055 Blﬂdell Crelweni‘
-141.17 Cllaner Rd-
-14415 Charmer Rd‘
-135.25 Coolidge Ave
-3455 Daniels 5:4
-135-10GI3nd Cenlnl Pkwy
-135.30 Gﬂlld Cemnl Pkwy
+97-34 Allendale St#
+145-34 Arlington Terrace
+140-18 Burden Crescent*
+140-21 Burden Crescent
+140-35 Burden Crescent
+140-50 Burden Creswnt*
+140-55 Burden Crescent*
+141-17 Charter Rd*
+144-15 Charter Rd*
+135-26 Coolidge Ave
+84-55 Daniels St*
+
+135-10 Grand Central Pkwy
+135-30 Grand Central Pkwy
 146-01 Hillside Ave
-mom Hillside Ave
-146-11 Hillside Ave:
-145.17 1-llllside Ave
-146-23 Hillside Ave»
-147-01 Hillside Aveit
-mm Hillside Ave‘
-13524 Hoover Ave
-135.2 Hoover Ave
-141-10 Hoover Ave
-143.50 Hoover Ave‘
-34.35 Lander St‘
+146-05 Hillside Ave
+146-11 Hillside Ave#
+146-17 Hillside Ave
+146-23 Hillside Ave#
+147-01 Hillside Ave#
+147-07 Hillside Ave*
+135-24 Hoover Ave
+135-25 Hoover Ave
+142-10 Hoover Ave
+143-50 Hoover Ave*
+84-35 Lander St*
 
-143.15 Lowe Cmlrlli
-3401 Main SI‘
+148-15 Lowe Court#
+84-01 Main St*
 
-34.10 Main 5:
+84-10 Main St
 
-35.l5 Msin so
+85- 1 5 Main St*
 
-3423 Mlnlon Sr*
+84-23 Manton St*
 
-3443 Mankln sat
-13905 Pershing cmceiimc
-141.05 Po-suing Crescent‘
-141.30 Pershing Gescenl
-141.44 Pershing Gesoeill
-142.25 Pershing Gescenl
-97.35 Relnlnglcn S131
-34.31 Vanwyck Expwy
-3525 Vanwyck Expwy
-135.20 32 Ave‘
+84-48 Manton St#
 
-135-0911 33 Ave
-135-09/15 33 Ave
+139-06 Pershing Crescent*#
+141-05 Pershing Crescent*
+141-30 Pershing Crescent
+141-44 Pershing Crescent
+142-25 Pershing Crescent
+97-36 Remington St#
+84-31 VanWyck Expwy
+86-25 VanWyck Expwy
+135-20 82 Ave*
 
-137-01 33 Ave
+135-09/1 83 Ave
 
-139.15 33 Ave‘
+135-09/ 15 83 Ave
 
-139.21 3o Ave
+137-01 83 Ave
 
-143.04 3o Ave
+139-15 83 Ave*
 
-144.05 33 Ave
+139-21 86 Ave
 
-144-06 33 Ave»
+148-04 86 Ave
 
-147-03 88 Ave”
+144-05 88 Ave
+
+144-06 88 Ave#
+
+147-03 88 Ave#
 147-25 88 Ave
 148-03 88 Ave
 148-05 88 Ave
-148-177 88 Ave
+148-07 88 Ave
 148-09 88 Ave
-148-25 88 Aveli
+148-25 88 Ave#
 148-28 88 Ave
-143-43 33 Ave
-145-16 89 Aveii
+148-48 88 Ave
+145-16 89 Ave#
 148-25 89 Ave
 148-42 89 Ave
 148-44 89 Ave
 148-45 89 Ave
-138-28 90 Aveﬁ
-138-42 90 Ave‘?
+138-28 90 Ave#
+138-42 90 Ave#
 148-14 90 Ave
 135-30 82 Drive
 141-10 82 Drive
-139-09 84 Drive‘
-139-12 84 DIive‘¢1
+139-09 84 Drive*
+
+139-12 84 Drive*#
+
 139-18 84 Drive
-140-10 34 Drive‘
-14017 34 Drive‘
-141-44) 84 Drive
+140-10 84 Drive*
+140-17 84 Drive*
+141-40 84 Drive
 142-02 84 Drive
-142-20 84 Drive‘
+142-20 84 Drive*
 142-35 84 Drive
 142-35 84 Drive
 143-39 84 Drive
-139-05 85 Drive‘
+139-05 85 Drive*
 139-60 85 Drive
-90-15 138 Place?
-90-25 138 Place?
+90-15 138 Place#
+90-25 138 Place#
 90-36 144 Place
-141-30 84 Rd‘
-141-60 84 Rd‘
-147-10 84 Rd‘
-139-79 85 Rd“
+141-30 84 Rd*
+141-60 84 Rd*
+147-10 84 Rd*
+139-79 85 Rd#
 141-35 85 Rd
 141-35 85 Rd
 141-41 85 Rd
 141-45 85 Rd
 141-52 85 Rd
 141-55 85 Rd
-141.59 85 Rd
+141-59 85 Rd
 141-65 85 Rd
-14163 85 Rd
-141.70 35 Row
-141-71 85 Rd#
-144-08 87 Rd”
-81-05 134 SI
-82-15 134 SI
-81-35 134 SI‘
-81-10 135 SI
-81-08 135 St
+141-68 85 Rd
+141-70 85 Rd#
+141-72 85 Rd#
+144-08 87 Rd#
+82-05 134 St
+82-15 134 St
+82-35 134 St*
+81-10 135 St
+82-08 135 St
 82-41 135 St
 82-46 135 St
 82-34 138 St
-89-06 138 S14
-89-32 138 St!
-83-11 139 S!‘
-83-35 139 S1‘
-85-02 139 S1
-85-15 139 SI
-83-19 141 SI
-83-20 141 51'
-85.32 143 SIS
+89-06 138 St#
+89-32 138 St#
+83-11 139 St*
+83-35 139 St*
+85-02 139 St
+85-15 139 St
+83-19 141 St
+83-20 141 St*
+85-32 143 St#
 
-B7.27 143 51
-87.29 143 51::
-88-15 144 51
-88.40 144 51::
-89.15 144 S14:
-89.05 146 sat
+87-27 143 St
+87-29 143 St#
+88-15 144 St
+88-40 144 St#
+89-15 144 St#
+89-06 146 St#
 87-70 148 St
-87-75 148 SI#
-87-82 148 SI
-£809 148 SI
-88.25 148 51
-89-04 148 S1
-9019 148 S15!
-9034 148 St#
-90.39 148 51:!
-90.10 I49 S18
-9011 149 S13
-90-23 149 S139
-90-35 149 Sl#
-81-26 150 St‘
-87-74 150 S11?
-88-18 150 S!
-89-20 150 Slit
-89-24 150 S111’
-89-23 150 S111’
-90-16 150 SI
+87-75 148 St#
+87-82 148 St
+88-09 148 St
+88-25 148 St
+89-04 148 St
+90-19 148 St#
+90-34 148 St#
+90-39 148 St#
+90-10 149 St#
+90-11 149 St#
+90-23 149 St#
+90-36 149 St#
+81-26 150 St*
+87-74 150 St#
+88-18 150 St
+89-20 150 St#
+89-24 150 St#
+89-28 150 St#
+90-16 150 St
 106-38 150 St
 
-Jama|ca,l1436
+Jamaica,1l436
 
-114-44 Slllphin Blvd
+114-44 Sutphin Blvd
 
 Far Rockaway,11691
 
-11.24 Bnypan Place
-407 Beach 20 s.
+11-24 Bayport Place
+407 Beach 20 St
+439 Beach 22 St
+536 Beach 22 St#
+413 Beach 28 St
+224 Beach 30 St
+707 Beach 9 St
 
-439 Beach 22 s.
-535 Beach 22 scar
-413 Beach 25 S1
-224 Beach 30 S1
-707 Berel. 9 s.
+729 Beach 9 St
 
-729 Beach 9 s.
+631 Beach 9th St
+530 Briar Place
 
-531 Beecl. 9.1. s.
-530 Brill‘ plxe
-2210 Brooldnven Ave
-221 1 Bmolduven Ave
-13.34 Caﬂivy Ave
-15.10 cmvey Ave
-1324 Qfhey Ave
-1251 Ccnlul Ave
-833 Cenlnl Ave‘
-1255 ce...r.1 Ave
-2204 Collier Ave
-201 1 Comagn Avelt
-2017 Conuga Ave
-231 1 Conugn Ave
-13-18 Dlckans s1
-13.22 Dickms s1
-13.25 Div.-km: s1
-13.32 Dickens s.
-1332 Dielre... s.
-910 Dinsmare Avel:
+22-10 Brookhaven Ave
+22-1 1 Brookhaven Ave
 
-13.19 Bggerv Plnoe
-13.23 Bggen Plede
-13.29 Bggen Plwe
-910 Di...rr..o.e Ave
-13.33 Eggen P14/ac
-13.33 Eggcrl Blue
+13-34 Caffrey Ave
+16-10 Caffrey Ave
+1324 Cafﬁey Ave
+12-61 Central Ave
+833 Central Ave*
+1256 Central Ave
+22-04 Collier Ave
+
+20-11 Comaga Ave#
+
+20-17 Comaga Ave
+2311 Comaga Ave
+13-18 Dickens St
+13-22 Dickens St
+13-26 Dickens St
+13-32 Dickens St
+13-32 Dickens St
+910 Dinsmore Ave#
+
+13-19 Eggert Place
+13-23 Eggert Place
+13-29 Eggert Place
+910 Dinsmore Ave
+13-33 Eggert Place
+13-33 Eggert Place
 789 Empire Ave
 1815 Everdell Ave
-1215 Frisco Aveit
-1420 Graenpoinl Rd
+1215 Frisco Ave#
+14-20 Greenpoint Rd
 3205 Lewmay Rd
-11.33 Mcbridc st
-1135 Mclyridc s1
-2230 Mon Ave
-2288 Mon Ave#
-23.34 Molt Ave
-23.40 Mon Ave
-23.45 Mnlt Ave
-23.52 Mon Ave
+11-38 Mcbride St
+1136 Mcbride St
+22-30 Mott Ave
+22-88 Mott Ave#
+23-34 Mott Ave
+23-40 Mott Ave
+23-46 Mott Ave
+23-52 Mott Ave
 
-14 Mon mee
+14 Mott Place
 
-15 Mon nine
+16 Mott Place
 
-18 Mon Plan:
+18 Mott Place
 
-20 Mon Plans
+20 Mott Place
+10-12 Nameoke St#
+1170 Narneoke St#
+1011 Neilson St#
+1040 Neilson St*
+1056 Neilson St#
 
-1012 Nmeoke scat
-1170 Nmeoke sat
-1011 Neilmn 51:
-1040 Neilson 51*
-1055 Neilmn sue
-17.11 New Haven Avea
-2211 New 1-nvev. Ave
-20 Soon oadell Pl-ee
-20.04 Sugin Blvd
-20.05 Seagiﬂ Blvd
-2010 Seagill Blvd
-20.23 Seagin Blvd
-2030 sedgm Blvd
-2033 Seagin. Blvd
-2034 Sensin Blvd
-2040 Seagirl Blvd
-20.41 se-gin Blvd
-2045 seigjn Blvd
-2047 seigin Blvd
-2053 Selgin Blvd
-2057 Seagin Blvd
-mu Sugin Blvd
-29-M Eemh Channel Drive
-10.39 Benel. Nina. S111
-251 Bench 13 St
+17-11 New Haven Ave#
+22-1 1 New Haven Ave
+20 Scott Gadell Place
 
-251 Beach 13 St
+20-04 Seagirt Blvd
+20-08 Seagirt Blvd
+20-10 Seagirt Blvd
+20-23 Seagirt Blvd
+20-30 Seagirt Blvd
+20-33 Seagirt Blvd
+20-34 Seagirt Blvd
+20-40 Seagirt Blvd
+20-41 Seagirt Blvd
+20-45 Seagirt Blvd
+20-47 Seagirt Blvd
+20-53 Seagirt Blvd
+20-57 Seagirt Blvd
+30- 15 Seagirt Blvd
 
-395 Beach 13 s1
+29-44 Beach Channel Drive
+10-39 Beach Ninth St#
 
-252 Beach 14 S1
+261 Beach 13 St
+261 Beach 13 St
+398 Beach 13 St
+252 Beach 14 St
+288 Beach 15 St
 
-2113 Beach 15 51
-501.503 Beach 19 S1
-310 Beech 32 S1
+501-503 Beach 19 St
+
+310 Beach 32 St
+
 2903 Bessemund Ave
-834 Cenlnl Ave
-2205 Cormga Ave
-2205 cormga Ave
-2212 conuga Ave
-2220 Conuga Ave
-2222 Comagn Ave
-12477 Frisco Ave
-121 1 Friwo Ave
-1203 Prince Ave
-I8-06 Gneway Blvd!
-31.43 Hnlisy Ave
-2205 Lqrclu Rd
-2205 Lorelu Rd
 
-Queuis
+834 Central Ave
+2206 Comaga Ave
+2208 Comaga Ave
+2212 Comaga Ave
+2220 Comaga Ave
+2222 Comaga Ave
+12-07 Frisco Ave
+12-1 1 Frisco Ave
+1203 Frisco Ave
 
-2207 Lorena Rd
-2211 Lorena Rd
+18-06 Gateway Blvd#
 
-3 Mme Conn
-2301: M01! Ave
-1001'. Nellmn s.
-1320 Sage 5.14
-1322 Sign 51
-2012 sengin Blvd
-2020 Sesgirl Blvd
-2025 Selgirl Blvd
-2025 Seagin Blvd
-2023 Selgirl Blvd
-2029 Seagin Blvd
-2035 Seagln Blvd
-2042 Selprl Blvd
-20.43 seagm Blvd
-2046 Seagin Blvd
-2049 Seagirl Blvd
-2050 Seagirt Blvd
-2055 Seagin Blvd
-1430 Se|gi1'IB1vd*
-2030 Elk Drive
-2002 Seagin Blvd
-2005 seagln Blvd
-2015 Seagirl Blvd
-2021 Selgin. Blvd
-2024 Selgirl Blvd
-2027 Sengirl Blvd
-2031 Sexgirl Blvd
-2037 Seagirl Blvd
-2033 Sugin Blvd
-2039 Selgin Blvd
-2044 Seagin Blvd
-2051 Seagin Blvd
-2004 Seagin Blvd
+31-43 Healey Ave
+22-05 Loretta Rd
+2205 Loretta Rd
 
-Far R0ckawny,11692
+Queens
 
-147 Beach 59 SI
+2207 Loretta Rd
+2211 Loretta Rd
 
-Far R0cknway,1 1693
+3 Mrxse Court
+2308 Mott Ave
+10-06 Neilson St
+13-20 Sage St#
+13-22 Sage St
+20-12 Seagirt Blvd
+20-20 Seagirt Blvd
+20-25 Seagirt Blvd
+20-26 Seagirt Blvd
+20-28 Seagirt Blvd
+20-29 Seagirt Blvd
+20-35 Seagirt Blvd
+20-42 Seagirt Blvd
+20-43 Seagirt Blvd
+20-46 Seagirt Blvd
+20.49 Seagirt Blvd
+20-50 Seagirt Blvd
+20-55 Seagirt Blvd
+1430 Seagirt B1vd*
+20-30 Elk Drive
+20-02 Seagirt Blvd
+20-06 Seagirt Blvd
+20-16 Seagirt Blvd
+20-21 Seagirt Blvd
+20-24 Seagirt Blvd
+20-27 Seagirt Blvd
+20-31 Seagirt Blvd
+20-37 Seagirt Blvd
+20-38 Seagirt Blvd
+20-39 Seagirt Blvd
+20-44 Seagirt Blvd
+20-51 Seagirt Blvd
+2004 Seagirt Blvd
+
+Far Rockaway,11692
+
+147 Beach 59 St
+
+Far Rockaway,11693
 
 122 Beach 91 St
 196 Beach 97 St
-95-15 Rockxwny Belch Blvd
+95-15 Rockaway Beach Blvd
 
-Far Rockaway,11694
+Far Rockaway,1 1694
 
-153 B 116 St
+158 B 116 St
 
-160 Beach 117 SI*#
-145 Beach 120 SI.
-130 Beach 121 SI.‘
-225 Back 121 SI
-Z46Be.Id1 121 SI
-[25 Bcuc11124 SI‘
-215 Beach 124 SM‘
-437 Beach 1215 SK
-172 1321011 127 St
-140 Beadl 128 S!
+160 Beach 117 St*#
+145 Beach 120 St
+130 Beach 121 St*
+225 Beach 121 St
+246 Beach 121 St
+125 Beach 124 St*
+215 Beach 124 St#
+437 Beach 126 St
+172 Beach 127 St
+140 Beach 128 St
 142 Beach 128 St
-144 Belch 128 St
-257 Beach 128 St‘
-2A4Buch 129 St‘
-252 Bunch 129 St‘
+144 Beach 128 St
+257 Beach 128 St*
+244 Beach 129 St*
+252 Beach 129 St*
 
 40
 
-133 Beach 130 S1
+133 Beach 130 St
+
 186 Beach 132 St
 
-130 Beach 133 St.
+130 Beach 133 St
 
-525 Beach 138 St.
+525 Beach 138 St
 
-51E 13eBch139 St"
+518 Beach 139 St*
 
-514 Ee:ch139 SI.‘
-13B.11Be.el. clu....el13rive~
-128.11Newpa.-1 Ave~
+514 Beach 139 St*
 
-I28-19 Newpml Ave‘
+138-11 Beach Channel Drive*
+128-1 1 Newport Ave*
 
-117.12 006311 Pmn-1zn.|de*
-121.15 ode... l>.o...e.ude~
-122.20 ode... l>rr....e..ulel1
-123.10 Oman P|mn.emde"
-114.15 Rocluwny Beach Blvd
-131.15 Rocluwny Beach Blvd
-133.05 Roduway Beach
-93.112 Rnchwny Beach Blvd
-12015 Rochway Beach Blvd
-105.20 Shareﬁonl Pkwy
-107.10 sl.r.rerm..1 Pkwy
+128-19 Newport Ave*
 
-1 Be...-1. 105.1. 51
+117-12 Ocean Promenade*
+121-16 Ocean Promenade*
+122-20 Ocean Promenade#
+123- 10 Ocean Promenade*
+114-15 Rockaway Beach Blvd
+131-16 Rockaway Beach Blvd
+133-06 Rockaway Beach
+98-18 Rockaway Beach Blvd
+124-16 Rockaway Beach Blvd
+106-20 Shorefront Pkwy
+107-10 Shorefront Pkwy
 
-180 Beach 117 SI
+1 Beach 105th St
 
-129 Belch 11% SI‘
+180 Beach 117 St
 
-131 Bench 1 19 SI
+129 Beach 118 St*
 
-175 Band: 119 s.
+131 Beach 119 St
 
-133 Beach 120 SI‘
+176 Beach 119 St
 
-1441 Beach 12! SI‘
+133 Beach 120 St*
 
-412 Beach 129 s.
+144 Beach 121 St*
 
-117.17 Newpm Ave
+412 Beach 129 St
 
-12010 Roduwly Beach
+117-17 Newport Ave
+
+120- 10 Rockaway Beach
 Blvd#
 
-123.11 Rocluwly Beach
+123-1 1 Rockaway Beach
 Blvd#
+
