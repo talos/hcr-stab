@@ -47,11 +47,11 @@ def main(print_header, path):
             parts = line.split()
             if len(parts) < 2:
                 continue
-            time.sleep(0.5)
+            #time.sleep(0.5)
             housenum = parts[0]
             if housenum.lower() in ('bronx', 'kings', 'new', 'queens', 'richmond'):
                 continue
-            street = ' '.join(parts[1:])
+            street = ' '.join(parts[1:]).decode('utf8')
             last_chars = street[-2:]
             pound_code = False
             star_code = False
@@ -61,9 +61,9 @@ def main(print_header, path):
             if '#' in last_chars:
                 pound_code = True
                 street = re.sub('#$', '', street)
-            if "'" in last_chars:
+            if u"\u2018" in last_chars:
                 star_code = True
-                street = re.sub("'$", '', street)
+                street = re.sub(u"\u2018$", '', street)
             street = re.sub(' S1$', ' St', street)
             street = re.sub(' SI$', ' St', street)
             street = re.sub(' 51$', ' St', street)
