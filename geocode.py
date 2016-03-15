@@ -4,6 +4,7 @@ import csv
 import os
 import requests
 import sys
+import re
 import time
 
 #GEOCODE_URL = 'http://who.owns.nyc/geoclient/address.json'
@@ -26,6 +27,16 @@ HEADERS = [
 #?houseNumber=993&street=carroll+st&borough=3
 
 
+def geocode(housenum, street, borough):
+    return requests.get(GEOCODE_URL, params={
+        'app_id': APP_ID,
+        'app_key': APP_KEY,
+        'houseNumber': housenum,
+        'street': street,
+        'borough': borough
+    }).json()
+
+
 def main(print_header, path):
     borough = path.split(os.path.sep)[1]
     output = csv.DictWriter(sys.stdout, HEADERS)
@@ -46,18 +57,19 @@ def main(print_header, path):
             star_code = False
             if '*' in last_chars:
                 star_code = True
-                street = street.replace('*', '')
+                street = re.sub('\*$', '', street)
             if '#' in last_chars:
                 pound_code = True
-                street = street.replace('#', '')
+                street = re.sub('#$', '', street)
+            if "'" in last_chars:
+                star_code = True
+                street = re.sub("'$", '', street)
+            street = re.sub(' S1$', ' St', street)
+            street = re.sub(' SI$', ' St', street)
+            street = re.sub(' 51$', ' St', street)
+            street = re.sub(' 5:$', ' St', street)
             try:
-                resp = requests.get(GEOCODE_URL, params={
-                    'app_id': APP_ID,
-                    'app_key': APP_KEY,
-                    'houseNumber': housenum,
-                    'street': street,
-                    'borough': borough
-                }).json()
+                resp = geocode(housenum, street, borough)
                 output.writerow({
                     'house_number': housenum,
                     'street': street,
