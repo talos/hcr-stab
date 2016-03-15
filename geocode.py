@@ -40,7 +40,7 @@ def geocode(housenum, street, borough):
 def main(print_header, path):
     borough = path.split(os.path.sep)[1]
     output = csv.DictWriter(sys.stdout, HEADERS)
-    if print_header:
+    if int(print_header):
         output.writeheader()
     with open(path) as infile:
         for rownum, line in enumerate(infile):
