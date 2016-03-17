@@ -38,7 +38,7 @@ def geocode(housenum, street, borough):
 
 
 def main(print_header, path):
-    borough = path.split(os.path.sep)[1]
+    borough = path.split(os.path.sep)[1].replace('_', ' ')
     output = csv.DictWriter(sys.stdout, HEADERS)
     if int(print_header):
         output.writeheader()
