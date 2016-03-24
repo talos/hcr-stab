@@ -90,27 +90,35 @@ def process_csv(path, output):
     with open(path) as infile:
         reader = csv.DictReader(infile)
         for rownum, line in enumerate(reader):
+            line.pop('')
             housenum = line['house_number']
+            if '/' in housenum:
+                housenum = housenum.split('/')[0]
             street = line['street']
             borough = line['borough']
-            try:
-                resp = geocode(housenum, street, borough)
-                output.writerow({
-                    'house_number': housenum,
-                    'street': street,
-                    'borough': borough,
-                    'bbl': resp['address'].get('bbl'),
-                    'zip_code': resp['address'].get('zipCode'),
-                    'longitude': resp['address'].get('longitude'),
-                    'latitude': resp['address'].get('latitude'),
-                    'error': resp['address'].get('message')
-                })
-            except Exception as e:
-                sys.stderr.write('error reading {path} row {rownum}: {error}\n'.format(
-                    path=path,
-                    rownum=rownum,
-                    error=e
-                ))
+            if line.get('bbl'):
+                output.writerow(line)
+            else:
+                try:
+                    resp = geocode(housenum, street, borough)
+                    output.writerow({
+                        'house_number': housenum,
+                        'street': street,
+                        'borough': borough,
+                        'pound_code': line['pound_code'],
+                        'star_code': line['star_code'],
+                        'bbl': resp['address'].get('bbl'),
+                        'zip_code': resp['address'].get('zipCode'),
+                        'longitude': resp['address'].get('longitude'),
+                        'latitude': resp['address'].get('latitude'),
+                        'error': resp['address'].get('message')
+                    })
+                except Exception as e:
+                    sys.stderr.write('error reading {path} row {rownum}: {error}\n'.format(
+                        path=path,
+                        rownum=rownum,
+                        error=e
+                    ))
 
 
 if __name__ == '__main__':
