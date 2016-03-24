@@ -5,7 +5,6 @@ import os
 import requests
 import sys
 import re
-import time
 
 #GEOCODE_URL = 'http://who.owns.nyc/geoclient/address.json'
 GEOCODE_URL = 'https://api.cityofnewyork.us/geoclient/v1/address.json'
@@ -37,11 +36,8 @@ def geocode(housenum, street, borough):
     }).json()
 
 
-def main(print_header, path):
+def process_txt(path, output):
     borough = path.split(os.path.sep)[1].replace('_', ' ')
-    output = csv.DictWriter(sys.stdout, HEADERS)
-    if int(print_header):
-        output.writeheader()
     with open(path) as infile:
         for rownum, line in enumerate(infile):
             parts = line.split()
@@ -90,5 +86,43 @@ def main(print_header, path):
                 ))
 
 
+def process_csv(path, output):
+    with open(path) as infile:
+        reader = csv.DictReader(infile)
+        for rownum, line in enumerate(reader):
+            housenum = line['house_number']
+            street = line['street']
+            borough = line['borough']
+            try:
+                resp = geocode(housenum, street, borough)
+                output.writerow({
+                    'house_number': housenum,
+                    'street': street,
+                    'borough': borough,
+                    'bbl': resp['address'].get('bbl'),
+                    'zip_code': resp['address'].get('zipCode'),
+                    'longitude': resp['address'].get('longitude'),
+                    'latitude': resp['address'].get('latitude'),
+                    'error': resp['address'].get('message')
+                })
+            except Exception as e:
+                sys.stderr.write('error reading {path} row {rownum}: {error}\n'.format(
+                    path=path,
+                    rownum=rownum,
+                    error=e
+                ))
+
+
 if __name__ == '__main__':
-    main(*sys.argv[1:])
+    sys.argv.pop(0)
+    has_header = sys.argv.pop(0)
+    input_path = sys.argv.pop(0)
+
+    output = csv.DictWriter(sys.stdout, HEADERS)
+    if int(has_header):
+        output.writeheader()
+
+    if input_path.endswith('.csv'):
+        process_csv(input_path, output)
+    else:
+        process_txt(input_path, output)
