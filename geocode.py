@@ -5,6 +5,7 @@ import os
 import requests
 import sys
 import re
+import string
 
 #GEOCODE_URL = 'http://who.owns.nyc/geoclient/address.json'
 GEOCODE_URL = 'https://api.cityofnewyork.us/geoclient/v1/address.json'
@@ -86,15 +87,56 @@ def process_txt(path, output):
                 ))
 
 
+def de_excel(housenum):
+    '''
+    Kill Jan/feb etc. crap that happens
+    '''
+    replacements = [
+        ('jan', '01'),
+        ('feb', '02'),
+        ('mar', '03'),
+        ('apr', '04'),
+        ('may', '05'),
+        ('jun', '06'),
+        ('jul', '07'),
+        ('aug', '08'),
+        ('sep', '09'),
+        ('oct', '10'),
+        ('nov', '11'),
+        ('dec', '12'),
+    ]
+    for a, b in replacements:
+        housenum = housenum.replace(a, b)
+    return housenum
+
+
 def process_csv(path, output):
     with open(path) as infile:
         reader = csv.DictReader(infile)
         for rownum, line in enumerate(reader):
-            line.pop('')
+            line.pop('', None)
             housenum = line['house_number']
-            if '/' in housenum:
+
+            housenum = de_excel(housenum)
+
+            if not housenum:
+                continue
+            elif '/' in housenum:
                 housenum = housenum.split('/')[0]
+
+            # ignore "a" "b" etc. house numbering
+            elif housenum[-1].lower() in string.ascii_letters:
+                housenum = housenum[0:-1]
             street = line['street']
+            if not street:
+                continue
+            # skip streets that are actually zip codes
+            try:
+                int(street)
+                continue
+            except ValueError:
+                pass
+
             borough = line['borough']
             if line.get('bbl'):
                 output.writerow(line)
